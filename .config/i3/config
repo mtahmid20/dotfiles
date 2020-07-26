@@ -73,7 +73,7 @@ bindsym $mod1+space exec rofi -show drun
 
 #exec --no-startup-id pasystray
 #bindsym $mod+Ctrl+m exec terminal -e 'alsamixer'
-exec --no-startup-id pulseaudio
+#exec --no-startup-id pulseaudio
 #change volume
 bindsym XF86AudioRaiseVolume exec amixer -q set Master 5%+
 bindsym XF86AudioLowerVolume exec amixer -q set Master 5%-

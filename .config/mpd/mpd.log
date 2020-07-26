@@ -16655,3 +16655,40 @@ Jul 26 23:27 : client: [6] closed
 Jul 26 23:27 : client: [7] closed
 Jul 26 23:27 : client: [8] opened from 127.0.0.1:45566
 Jul 26 23:27 : client: [9] opened from 127.0.0.1:45568
+Jul 26 23:31 : player: played "2010 - Blood Of The Nations/01 Beat The Bastards.mp3"
+Jul 26 23:36 : player: played "2010 - Blood Of The Nations/02 Teutonic Terror.mp3"
+Jul 26 23:42 : client: [8] closed
+Jul 26 23:42 : client: [9] closed
+Jul 26 23:42 : client: [10] opened from 127.0.0.1:46546
+Jul 26 23:42 : client: [11] opened from 127.0.0.1:46548
+Jul 26 23:43 : player: played "2010 - Blood Of The Nations/03 The Abyss.mp3"
+Jul 26 23:43 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Jul 26 23:43 : exception: Failed to open audio output
+Jul 26 23:43 : player: played "2010 - Blood Of The Nations/04 Blood Of The Nations.mp3"
+Jul 26 23:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 23:44 : config: option 'device' on line 19 was not recognized
+Jul 26 23:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 23:44 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Jul 26 23:44 : client: [0] opened from 127.0.0.1:53708
+Jul 26 23:44 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Jul 26 23:44 : client: [1] opened from 127.0.0.1:53710
+Jul 26 23:45 : client: [0] closed
+Jul 26 23:45 : client: [1] closed
+Jul 26 23:45 : client: [2] opened from 127.0.0.1:53714
+Jul 26 23:45 : client: [3] opened from 127.0.0.1:53716
+Jul 26 23:45 : client: [4] opened from [::1]:56522
+Jul 26 23:45 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Jul 26 23:45 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Jul 26 23:45 : client: [4] closed
+Jul 26 23:46 : client: [2] closed
+Jul 26 23:46 : client: [3] closed
+Jul 26 23:46 : player: played "2010 - Blood Of The Nations/04 Blood Of The Nations.mp3"
+Jul 26 23:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 23:47 : config: option 'device' on line 19 was not recognized
+Jul 26 23:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 23:47 : client: [0] opened from 127.0.0.1:33014
+Jul 26 23:47 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Jul 26 23:47 : client: [1] opened from 127.0.0.1:33016
+Jul 26 23:48 : client: [2] opened from [::1]:34988
+Jul 26 23:48 : client: [2] closed
+Jul 26 23:54 : player: played "2010 - Blood Of The Nations/04 Blood Of The Nations.mp3"
