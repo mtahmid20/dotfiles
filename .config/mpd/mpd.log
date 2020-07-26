@@ -16589,3 +16589,69 @@ Jul 25 10:47 : client: [7] closed
 Jul 25 10:47 : client: [6] closed
 Jul 25 10:47 : client: [8] opened from 127.0.0.1:40368
 Jul 25 10:47 : client: [9] opened from 127.0.0.1:40366
+Jul 26 22:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 22:55 : config: option 'device' on line 19 was not recognized
+Jul 26 22:55 : client: [0] opened from 127.0.0.1:52878
+Jul 26 22:55 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Jul 26 22:55 : client: [0] closed
+Jul 26 22:55 : client: [1] opened from 127.0.0.1:52880
+Jul 26 22:55 : client: [1] closed
+Jul 26 22:55 : client: [2] opened from 127.0.0.1:52882
+Jul 26 22:57 : client: [2] closed
+Jul 26 22:57 : client: [3] opened from 127.0.0.1:52884
+Jul 26 22:57 : client: [4] opened from 127.0.0.1:52886
+Jul 26 22:57 : client: [4] closed
+Jul 26 22:57 : client: [3] closed
+Jul 26 22:57 : client: [5] opened from 127.0.0.1:52888
+Jul 26 22:57 : client: [6] opened from 127.0.0.1:52890
+Jul 26 23:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 23:06 : config: option 'device' on line 19 was not recognized
+Jul 26 23:06 : client: [0] opened from 127.0.0.1:51286
+Jul 26 23:06 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Jul 26 23:06 : client: [1] opened from 127.0.0.1:51288
+Jul 26 23:07 : client: [2] opened from 127.0.0.1:51290
+Jul 26 23:07 : client: [2] closed
+Jul 26 23:07 : client: [3] opened from 127.0.0.1:51292
+Jul 26 23:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 23:08 : client: [3] closed
+Jul 26 23:08 : client: [4] opened from [::1]:52326
+Jul 26 23:08 : client: [4] closed
+Jul 26 23:08 : client: [1] closed
+Jul 26 23:08 : client: [0] closed
+Jul 26 23:08 : client: [5] opened from 127.0.0.1:51298
+Jul 26 23:08 : client: [6] opened from 127.0.0.1:51300
+Jul 26 23:08 : client: [6] closed
+Jul 26 23:08 : client: [5] closed
+Jul 26 23:08 : client: [7] opened from 127.0.0.1:51302
+Jul 26 23:08 : client: [8] opened from 127.0.0.1:51304
+Jul 26 23:18 : player: played "2010 - Blood Of The Nations/01 Beat The Bastards.mp3"
+Jul 26 23:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 23:20 : config: option 'device' on line 19 was not recognized
+Jul 26 23:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 23:20 : client: [0] opened from 127.0.0.1:37944
+Jul 26 23:20 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Jul 26 23:20 : client: [1] opened from 127.0.0.1:37946
+Jul 26 23:23 : client: [0] closed
+Jul 26 23:23 : player: played "2010 - Blood Of The Nations/01 Beat The Bastards.mp3"
+Jul 26 23:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 23:24 : config: option 'device' on line 19 was not recognized
+Jul 26 23:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 26 23:24 : client: [0] opened from 127.0.0.1:45548
+Jul 26 23:24 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Jul 26 23:24 : client: [1] opened from 127.0.0.1:45550
+Jul 26 23:26 : client: [2] opened from [::1]:36620
+Jul 26 23:26 : client: [2] closed
+Jul 26 23:26 : client: [3] opened from 127.0.0.1:45556
+Jul 26 23:27 : client: [3] closed
+Jul 26 23:27 : client: [0] closed
+Jul 26 23:27 : client: [1] closed
+Jul 26 23:27 : client: [4] opened from 127.0.0.1:45558
+Jul 26 23:27 : client: [5] opened from 127.0.0.1:45560
+Jul 26 23:27 : client: [5] closed
+Jul 26 23:27 : client: [4] closed
+Jul 26 23:27 : client: [6] opened from 127.0.0.1:45562
+Jul 26 23:27 : client: [7] opened from 127.0.0.1:45564
+Jul 26 23:27 : client: [6] closed
+Jul 26 23:27 : client: [7] closed
+Jul 26 23:27 : client: [8] opened from 127.0.0.1:45566
+Jul 26 23:27 : client: [9] opened from 127.0.0.1:45568
