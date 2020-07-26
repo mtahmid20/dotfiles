@@ -1,0 +1,24 @@
+# settings
+
+(GimpGegl-gegl-ripple-config "2020-07-09 17:40:26"
+    (time 1594294826)
+    (amplitude 25)
+    (period 200)
+    (phi 0)
+    (angle 0)
+    (sampler-type cubic)
+    (wave-type sine)
+    (abyss-policy none)
+    (tileable no))
+(GimpGegl-gegl-ripple-config "2020-07-09 17:40:19"
+    (time 1594294819)
+    (amplitude 25)
+    (period 657.29999999999995)
+    (phi 0.41099999999999998)
+    (angle 94.799999999999997)
+    (sampler-type cubic)
+    (wave-type sine)
+    (abyss-policy none)
+    (tileable no))
+
+# end of settings

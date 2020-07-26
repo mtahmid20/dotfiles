@@ -1,0 +1,57 @@
+
+map [fullscreen] j scroll down
+map [fullscreen] k scroll up
+map [fullscreen] h navigate previous
+map [fullscreen] l navigate next
+map u scroll half-up
+map d scroll half-down
+map D toggle_page_mode
+map r reload
+map R rotate
+map c recolor
+map p print
+map z zoom out
+map x zoom in
+map i toogle_index
+
+set page-padding 1
+set statusbar-h-padding 10
+set statusbar-v-padding 10
+
+set selection-clipboard clipboard
+set first-page-column 1:1
+
+
+#Visuals
+set default-bg                  "#282828"
+set default-fg                  "#FBF1C7"
+
+set statusbar-fg                "#FBF1C7"
+set statusbar-bg                "#282828"
+
+set inputbar-bg                 "#282828"
+set inputbar-fg                 "#FBF1C7"
+
+set notification-bg             "#282828"
+set notification-fg             "#8FBCBB"
+
+set notification-error-bg       "#282828"
+set notification-error-fg       "#88C0D0"
+
+set notification-warning-bg     "#282828"
+set notification-warning-fg     "#88C0D0"
+
+set highlight-color             "#5E81AC"
+set highlight-active-color      "#EBCB8B"
+
+set completion-bg               "#282828"
+set completion-fg               "#88c0d0"
+
+set completion-highlight-fg     "#EBCB8B"
+set completion-highlight-bg     "#282828"
+
+set recolor-lightcolor          "#282828"
+set recolor-darkcolor           "#FBF1C7"
+
+set recolor                     "true"
+set recolor-keephue             "true"

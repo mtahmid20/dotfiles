@@ -1,0 +1,14 @@
+# GIMP action-history
+
+(history-item "file-open" 0)
+(history-item "plug-in-gmic-qt" 0)
+(history-item "file-quit" 1)
+(history-item "file-export-as" 1)
+(history-item "view-shrink-wrap" 0)
+(history-item "layers-new" 1)
+(history-item "filters-ripple" 0)
+(history-item "plug-in-hot" 0)
+(history-item "dialogs-preferences" 0)
+(history-item "layers-mask-add-button" 1)
+
+# end of action-history

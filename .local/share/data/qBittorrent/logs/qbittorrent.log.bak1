@@ -1,0 +1,790 @@
+(N) 2020-06-02T22:10:21 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-02T22:10:21 - Trying to listen on: 0.0.0.0:22014,[::]:22014
+(N) 2020-06-02T22:10:21 - Peer ID: -qB4250-
+(N) 2020-06-02T22:10:21 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-02T22:10:21 - DHT support [ON]
+(I) 2020-06-02T22:10:21 - Local Peer Discovery support [ON]
+(I) 2020-06-02T22:10:21 - PeX support [ON]
+(I) 2020-06-02T22:10:21 - Anonymous mode [OFF]
+(I) 2020-06-02T22:10:21 - Encryption support [ON]
+(I) 2020-06-02T22:10:21 - UPnP / NAT-PMP support [ON]
+(W) 2020-06-02T22:10:21 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2020-06-02T22:10:21 - Options were saved successfully.
+(I) 2020-06-02T22:10:21 - Successfully listening on IP: 127.0.0.1, port: TCP/22014
+(I) 2020-06-02T22:10:21 - Successfully listening on IP: 127.0.0.1, port: UDP/22014
+(I) 2020-06-02T22:10:21 - Successfully listening on IP: 192.168.0.140, port: TCP/22014
+(I) 2020-06-02T22:10:21 - Successfully listening on IP: 192.168.0.140, port: UDP/22014
+(I) 2020-06-02T22:10:21 - Successfully listening on IP: ::1, port: TCP/22014
+(I) 2020-06-02T22:10:21 - Successfully listening on IP: ::1, port: UDP/22014
+(I) 2020-06-02T22:10:21 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: TCP/22014
+(I) 2020-06-02T22:10:21 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: UDP/22014
+(I) 2020-06-02T22:10:21 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/22014
+(I) 2020-06-02T22:10:21 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/22014
+(N) 2020-06-02T22:10:21 - 'Peaky.Blinders.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-02T22:10:21 - 'House MD Complete Season' restored.
+(N) 2020-06-02T22:10:21 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-02T22:10:21 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-02T22:10:21 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-02T22:10:21 - 'Peaky.Blinders.S04.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-02T22:10:21 - 'Peaky.Blinders.S02.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-02T22:10:21 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-02T22:10:21 - 'Peaky Blinders Season 5 Complete 720p AMZN WEB-DL x264 [i_c]' restored.
+(N) 2020-06-02T22:10:21 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-02T22:10:21 - 'The Terminal (2004)' restored.
+(N) 2020-06-02T22:10:21 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-02T22:10:21 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-06-02T22:10:21 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-02T22:10:21 - 'Peaky.Blinders.S01.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-02T22:10:21 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(C) 2020-06-02T22:10:21 - File sizes mismatch for torrent 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]', pausing it.
+(C) 2020-06-02T22:10:21 - File sizes mismatch for torrent 'Peaky.Blinders.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]', pausing it.
+(C) 2020-06-02T22:10:21 - File sizes mismatch for torrent 'Beginning Python from Novice by Magnus Lie Hetland.pdf', pausing it.
+(C) 2020-06-02T22:10:21 - File sizes mismatch for torrent 'Peaky.Blinders.S04.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]', pausing it.
+(C) 2020-06-02T22:10:21 - File sizes mismatch for torrent 'Peaky.Blinders.S02.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]', pausing it.
+(C) 2020-06-02T22:10:21 - File sizes mismatch for torrent 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv', pausing it.
+(C) 2020-06-02T22:10:21 - File sizes mismatch for torrent 'Peaky Blinders Season 5 Complete 720p AMZN WEB-DL x264 [i_c]', pausing it.
+(C) 2020-06-02T22:10:21 - File sizes mismatch for torrent 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv', pausing it.
+(C) 2020-06-02T22:10:21 - File sizes mismatch for torrent 'The Terminal (2004)', pausing it.
+(C) 2020-06-02T22:10:21 - File sizes mismatch for torrent 'Nightcrawler (2014) [1080p]', pausing it.
+(C) 2020-06-02T22:10:21 - File sizes mismatch for torrent 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv', pausing it.
+(C) 2020-06-02T22:10:21 - File sizes mismatch for torrent 'How I Met Your Mother Season 1', pausing it.
+(C) 2020-06-02T22:10:21 - File sizes mismatch for torrent 'Peaky.Blinders.S01.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]', pausing it.
+(C) 2020-06-02T22:10:21 - File sizes mismatch for torrent 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4', pausing it.
+(C) 2020-06-02T22:10:21 - File sizes mismatch for torrent 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA', pausing it.
+(C) 2020-06-02T22:10:21 - File sizes mismatch for torrent 'House MD Complete Season', pausing it.
+(I) 2020-06-02T22:10:27 - Detected external IP: 103.102.43.17
+(I) 2020-06-02T22:10:31 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(I) 2020-06-02T22:10:31 - Successfully updated IP geolocation database.
+(N) 2020-06-02T22:10:46 - Set location: moving "One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4", from "/mnt/01D6282305556FE0/Download/" to "/mnt/hdd/Download"
+(N) 2020-06-02T22:10:46 - Set location: moving "Peaky.Blinders.S01.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]", from "/mnt/01D6282305556FE0/Download/" to "/mnt/hdd/Download"
+(N) 2020-06-02T22:10:46 - Successfully moved torrent: One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4. New path: /mnt/hdd/Download/
+(N) 2020-06-02T22:10:46 - Successfully moved torrent: Peaky.Blinders.S01.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]. New path: /mnt/hdd/Download/
+(N) 2020-06-02T22:13:15 - Set location: moving "Peaky.Blinders.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]", from "/mnt/01D6282305556FE0/Download/" to "/mnt/hdd/Download"
+(N) 2020-06-02T22:13:15 - Successfully moved torrent: Peaky.Blinders.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]. New path: /mnt/hdd/Download/
+(N) 2020-06-02T22:15:13 - Set location: moving "How I Met Your Mother Season 1", from "/mnt/01D6282305556FE0/Download/" to "/mnt/hdd/Download"
+(N) 2020-06-02T22:15:13 - Set location: moving "www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv", from "/mnt/01D6282305556FE0/Download/" to "/mnt/hdd/Download"
+(N) 2020-06-02T22:15:13 - Set location: moving "Nightcrawler (2014) [1080p]", from "/mnt/01D6282305556FE0/Download/" to "/mnt/hdd/Download"
+(N) 2020-06-02T22:15:13 - Set location: moving "The Terminal (2004)", from "/mnt/01D6282305556FE0/Download/" to "/mnt/hdd/Download"
+(N) 2020-06-02T22:15:13 - Set location: moving "Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA", from "/mnt/01D6282305556FE0/Download/" to "/mnt/hdd/Download"
+(N) 2020-06-02T22:15:13 - Set location: moving "Peaky Blinders Season 5 Complete 720p AMZN WEB-DL x264 [i_c]", from "/mnt/01D6282305556FE0/Download/" to "/mnt/hdd/Download"
+(N) 2020-06-02T22:15:13 - Set location: moving "Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv", from "/mnt/01D6282305556FE0/Download/" to "/mnt/hdd/Download"
+(N) 2020-06-02T22:15:13 - Set location: moving "Peaky.Blinders.S02.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]", from "/mnt/01D6282305556FE0/Download/" to "/mnt/hdd/Download"
+(N) 2020-06-02T22:15:13 - Set location: moving "Peaky.Blinders.S04.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]", from "/mnt/01D6282305556FE0/Download/" to "/mnt/hdd/Download"
+(N) 2020-06-02T22:15:13 - Set location: moving "Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv", from "/mnt/01D6282305556FE0/Download/" to "/mnt/hdd/Download"
+(N) 2020-06-02T22:15:13 - Set location: moving "Beginning Python from Novice by Magnus Lie Hetland.pdf", from "/mnt/01D6282305556FE0/Download/" to "/mnt/hdd/Download"
+(N) 2020-06-02T22:15:13 - Set location: moving "Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]", from "/mnt/01D6282305556FE0/Download/" to "/mnt/hdd/Download"
+(N) 2020-06-02T22:15:13 - Set location: moving "House MD Complete Season", from "/mnt/01D6282305556FE0/Download/" to "/mnt/hdd/Download"
+(N) 2020-06-02T22:15:13 - Successfully moved torrent: How I Met Your Mother Season 1. New path: /mnt/hdd/Download/
+(N) 2020-06-02T22:15:14 - Successfully moved torrent: www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv. New path: /mnt/hdd/Download/
+(N) 2020-06-02T22:15:14 - Successfully moved torrent: Nightcrawler (2014) [1080p]. New path: /mnt/hdd/Download/
+(N) 2020-06-02T22:15:14 - Successfully moved torrent: The Terminal (2004). New path: /mnt/hdd/Download/
+(N) 2020-06-02T22:15:15 - Successfully moved torrent: Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA. New path: /mnt/hdd/Download/
+(N) 2020-06-02T22:15:15 - Successfully moved torrent: Peaky Blinders Season 5 Complete 720p AMZN WEB-DL x264 [i_c]. New path: /mnt/hdd/Download/
+(N) 2020-06-02T22:15:16 - Successfully moved torrent: Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv. New path: /mnt/hdd/Download/
+(N) 2020-06-02T22:15:16 - Successfully moved torrent: Peaky.Blinders.S02.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]. New path: /mnt/hdd/Download/
+(N) 2020-06-02T22:15:17 - Successfully moved torrent: Peaky.Blinders.S04.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]. New path: /mnt/hdd/Download/
+(N) 2020-06-02T22:15:17 - Successfully moved torrent: Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv. New path: /mnt/hdd/Download/
+(N) 2020-06-02T22:15:18 - Successfully moved torrent: Beginning Python from Novice by Magnus Lie Hetland.pdf. New path: /mnt/hdd/Download/
+(N) 2020-06-02T22:15:18 - Successfully moved torrent: Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]. New path: /mnt/hdd/Download/
+(N) 2020-06-02T22:15:19 - Successfully moved torrent: House MD Complete Season. New path: /mnt/hdd/Download/
+(N) 2020-06-03T02:27:34 - Options were saved successfully.
+(I) 2020-06-03T02:27:34 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(I) 2020-06-03T02:27:34 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-03T02:27:34 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-03T02:27:34 - Successfully listening on IP: 192.168.0.140, port: TCP/53650
+(I) 2020-06-03T02:27:34 - Successfully listening on IP: 192.168.0.140, port: UDP/53650
+(I) 2020-06-03T02:27:34 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-03T02:27:34 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-03T02:27:34 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: TCP/53650
+(I) 2020-06-03T02:27:34 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: UDP/53650
+(C) 2020-06-03T02:27:34 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: unknown UPnP error (-1)
+(C) 2020-06-03T02:27:34 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: unknown UPnP error (-1)
+(I) 2020-06-03T02:27:34 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-03T02:27:34 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(I) 2020-06-03T02:27:35 - Detected external IP: 103.102.43.17
+(N) 2020-06-03T02:27:47 - Options were saved successfully.
+(N) 2020-06-03T02:27:50 - Options were saved successfully.
+(N) 2020-06-03T02:28:38 - Options were saved successfully.
+(N) 2020-06-03T13:49:32 - qBittorrent v4.2.5 started
+(N) 2020-06-03T13:49:32 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-03T13:49:32 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-03T13:49:33 - Peer ID: -qB4250-
+(N) 2020-06-03T13:49:33 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-03T13:49:33 - DHT support [ON]
+(I) 2020-06-03T13:49:33 - Local Peer Discovery support [ON]
+(I) 2020-06-03T13:49:33 - PeX support [ON]
+(I) 2020-06-03T13:49:33 - Anonymous mode [OFF]
+(I) 2020-06-03T13:49:33 - Encryption support [ON]
+(I) 2020-06-03T13:49:33 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-03T13:49:33 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-03T13:49:33 - Options were saved successfully.
+(I) 2020-06-03T13:49:34 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-03T13:49:34 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-03T13:49:34 - Successfully listening on IP: 192.168.0.140, port: TCP/53650
+(I) 2020-06-03T13:49:34 - Successfully listening on IP: 192.168.0.140, port: UDP/53650
+(I) 2020-06-03T13:49:34 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-03T13:49:34 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-03T13:49:34 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: TCP/53650
+(I) 2020-06-03T13:49:34 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: UDP/53650
+(I) 2020-06-03T13:49:34 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-03T13:49:34 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(I) 2020-06-03T13:49:34 - Detected external IP: 103.102.43.17
+(N) 2020-06-03T13:49:34 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-03T13:49:34 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-06-03T13:49:34 - 'Peaky.Blinders.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-03T13:49:34 - 'Peaky.Blinders.S02.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-03T13:49:34 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-03T13:49:34 - 'Peaky.Blinders.S04.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-03T13:49:34 - 'The Terminal (2004)' restored.
+(N) 2020-06-03T13:49:34 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-03T13:49:34 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-03T13:49:34 - 'House MD Complete Season' restored.
+(N) 2020-06-03T13:49:34 - 'Peaky Blinders Season 5 Complete 720p AMZN WEB-DL x264 [i_c]' restored.
+(N) 2020-06-03T13:49:34 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-03T13:49:34 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-03T13:49:34 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-03T13:49:34 - 'Peaky.Blinders.S01.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-03T13:49:34 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-03T13:51:24 - Options were saved successfully.
+(N) 2020-06-03T13:51:27 - Options were saved successfully.
+(N) 2020-06-03T13:53:14 - Options were saved successfully.
+(I) 2020-06-03T13:53:21 - UPnP / NAT-PMP support [OFF]
+(N) 2020-06-03T13:53:25 - qBittorrent v4.2.5 started
+(N) 2020-06-03T13:53:25 - Using config directory: /home/ankur/.config/qBittorrent/
+(N) 2020-06-03T13:53:41 - qBittorrent v4.2.5 started
+(N) 2020-06-03T13:53:41 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-03T13:53:41 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-03T13:53:41 - Peer ID: -qB4250-
+(N) 2020-06-03T13:53:41 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-03T13:53:41 - DHT support [ON]
+(I) 2020-06-03T13:53:41 - Local Peer Discovery support [ON]
+(I) 2020-06-03T13:53:41 - PeX support [ON]
+(I) 2020-06-03T13:53:41 - Anonymous mode [OFF]
+(I) 2020-06-03T13:53:41 - Encryption support [ON]
+(I) 2020-06-03T13:53:41 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-03T13:53:41 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-03T13:53:41 - Options were saved successfully.
+(I) 2020-06-03T13:53:42 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-03T13:53:42 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-03T13:53:42 - Successfully listening on IP: 192.168.0.140, port: TCP/53650
+(I) 2020-06-03T13:53:42 - Successfully listening on IP: 192.168.0.140, port: UDP/53650
+(I) 2020-06-03T13:53:42 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-03T13:53:42 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-03T13:53:42 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: TCP/53650
+(I) 2020-06-03T13:53:42 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: UDP/53650
+(I) 2020-06-03T13:53:42 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-03T13:53:42 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(N) 2020-06-03T13:53:42 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-03T13:53:42 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-03T13:53:42 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-06-03T13:53:42 - 'Peaky.Blinders.S02.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-03T13:53:42 - 'Peaky.Blinders.S01.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-03T13:53:42 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-03T13:53:42 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-03T13:53:42 - 'Peaky Blinders Season 5 Complete 720p AMZN WEB-DL x264 [i_c]' restored.
+(N) 2020-06-03T13:53:42 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-03T13:53:42 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-03T13:53:42 - 'Peaky.Blinders.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-03T13:53:42 - 'The Terminal (2004)' restored.
+(N) 2020-06-03T13:53:42 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-03T13:53:42 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-03T13:53:42 - 'House MD Complete Season' restored.
+(N) 2020-06-03T13:53:42 - 'Peaky.Blinders.S04.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(I) 2020-06-03T13:53:42 - Detected external IP: 103.102.43.17
+(N) 2020-06-03T13:55:06 - Options were saved successfully.
+(N) 2020-06-03T13:55:16 - Options were saved successfully.
+(N) 2020-06-03T13:55:22 - Options were saved successfully.
+(N) 2020-06-03T13:55:37 - Options were saved successfully.
+(I) 2020-06-03T13:55:45 - UPnP / NAT-PMP support [OFF]
+(N) 2020-06-03T13:55:48 - qBittorrent v4.2.5 started
+(N) 2020-06-03T13:55:48 - Using config directory: /home/ankur/.config/qBittorrent/
+(N) 2020-06-03T13:57:59 - qBittorrent v4.2.5 started
+(N) 2020-06-03T13:57:59 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-03T13:57:59 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-03T13:57:59 - Peer ID: -qB4250-
+(N) 2020-06-03T13:57:59 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-03T13:57:59 - DHT support [ON]
+(I) 2020-06-03T13:57:59 - Local Peer Discovery support [ON]
+(I) 2020-06-03T13:57:59 - PeX support [ON]
+(I) 2020-06-03T13:57:59 - Anonymous mode [OFF]
+(I) 2020-06-03T13:57:59 - Encryption support [ON]
+(I) 2020-06-03T13:57:59 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-03T13:57:59 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-03T13:57:59 - Options were saved successfully.
+(I) 2020-06-03T13:57:59 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-03T13:57:59 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-03T13:57:59 - Successfully listening on IP: 192.168.0.140, port: TCP/53650
+(I) 2020-06-03T13:57:59 - Successfully listening on IP: 192.168.0.140, port: UDP/53650
+(I) 2020-06-03T13:57:59 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-03T13:57:59 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-03T13:57:59 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: TCP/53650
+(I) 2020-06-03T13:57:59 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: UDP/53650
+(I) 2020-06-03T13:57:59 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-03T13:57:59 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(N) 2020-06-03T13:57:59 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-03T13:57:59 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-03T13:57:59 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-03T13:57:59 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-03T13:57:59 - 'Peaky.Blinders.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-03T13:57:59 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-03T13:57:59 - 'Peaky.Blinders.S01.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-03T13:57:59 - 'Peaky.Blinders.S04.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-03T13:57:59 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-06-03T13:57:59 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-03T13:57:59 - 'Peaky.Blinders.S02.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-03T13:57:59 - 'The Terminal (2004)' restored.
+(N) 2020-06-03T13:57:59 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-03T13:57:59 - 'Peaky Blinders Season 5 Complete 720p AMZN WEB-DL x264 [i_c]' restored.
+(N) 2020-06-03T13:57:59 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-03T13:57:59 - 'House MD Complete Season' restored.
+(I) 2020-06-03T13:57:59 - Detected external IP: 103.102.43.1
+(I) 2020-06-03T13:58:00 - Detected external IP: 103.102.43.17
+(I) 2020-06-03T13:58:39 - UPnP / NAT-PMP support [OFF]
+(N) 2020-06-03T14:03:32 - qBittorrent v4.2.5 started
+(N) 2020-06-03T14:03:32 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-03T14:03:32 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-03T14:03:32 - Peer ID: -qB4250-
+(N) 2020-06-03T14:03:32 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-03T14:03:32 - DHT support [ON]
+(I) 2020-06-03T14:03:32 - Local Peer Discovery support [ON]
+(I) 2020-06-03T14:03:32 - PeX support [ON]
+(I) 2020-06-03T14:03:32 - Anonymous mode [OFF]
+(I) 2020-06-03T14:03:32 - Encryption support [ON]
+(I) 2020-06-03T14:03:32 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-03T14:03:32 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-03T14:03:34 - Options were saved successfully.
+(I) 2020-06-03T14:03:34 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-03T14:03:34 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-03T14:03:34 - Successfully listening on IP: 192.168.0.140, port: TCP/53650
+(I) 2020-06-03T14:03:34 - Successfully listening on IP: 192.168.0.140, port: UDP/53650
+(I) 2020-06-03T14:03:34 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-03T14:03:34 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-03T14:03:34 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: TCP/53650
+(I) 2020-06-03T14:03:34 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: UDP/53650
+(I) 2020-06-03T14:03:34 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-03T14:03:34 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(N) 2020-06-03T14:03:35 - 'Peaky.Blinders.S02.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-03T14:03:35 - 'Peaky.Blinders.S01.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-03T14:03:35 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(I) 2020-06-03T14:03:35 - Detected external IP: 103.102.43.17
+(N) 2020-06-03T14:03:35 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-03T14:03:35 - 'Peaky.Blinders.S04.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-03T14:03:35 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-03T14:03:35 - 'Peaky.Blinders.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-03T14:03:35 - 'The Terminal (2004)' restored.
+(N) 2020-06-03T14:03:35 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-03T14:03:35 - 'Peaky Blinders Season 5 Complete 720p AMZN WEB-DL x264 [i_c]' restored.
+(N) 2020-06-03T14:03:35 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-03T14:03:35 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-03T14:03:35 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-03T14:03:35 - 'House MD Complete Season' restored.
+(N) 2020-06-03T14:03:35 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-03T14:03:35 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(I) 2020-06-03T14:47:51 - UPnP / NAT-PMP support [OFF]
+(N) 2020-06-04T00:21:16 - qBittorrent v4.2.5 started
+(N) 2020-06-04T00:21:16 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-04T00:21:16 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-04T00:21:16 - Peer ID: -qB4250-
+(N) 2020-06-04T00:21:16 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-04T00:21:16 - DHT support [ON]
+(I) 2020-06-04T00:21:16 - Local Peer Discovery support [ON]
+(I) 2020-06-04T00:21:16 - PeX support [ON]
+(I) 2020-06-04T00:21:16 - Anonymous mode [OFF]
+(I) 2020-06-04T00:21:16 - Encryption support [ON]
+(I) 2020-06-04T00:21:16 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-04T00:21:16 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-04T00:21:16 - Options were saved successfully.
+(I) 2020-06-04T00:21:16 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-04T00:21:16 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-04T00:21:16 - Successfully listening on IP: 192.168.0.140, port: TCP/53650
+(I) 2020-06-04T00:21:16 - Successfully listening on IP: 192.168.0.140, port: UDP/53650
+(I) 2020-06-04T00:21:16 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-04T00:21:16 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-04T00:21:16 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: TCP/53650
+(I) 2020-06-04T00:21:16 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: UDP/53650
+(I) 2020-06-04T00:21:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-04T00:21:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(N) 2020-06-04T00:21:16 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-04T00:21:17 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-04T00:21:17 - 'Peaky.Blinders.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-04T00:21:17 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-04T00:21:17 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-04T00:21:17 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-04T00:21:17 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-06-04T00:21:17 - 'Peaky Blinders Season 5 Complete 720p AMZN WEB-DL x264 [i_c]' restored.
+(N) 2020-06-04T00:21:17 - 'Peaky.Blinders.S02.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-04T00:21:17 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-04T00:21:17 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-04T00:21:17 - 'Peaky.Blinders.S01.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-04T00:21:17 - 'House MD Complete Season' restored.
+(N) 2020-06-04T00:21:17 - 'Peaky.Blinders.S04.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-04T00:21:17 - 'The Terminal (2004)' restored.
+(N) 2020-06-04T00:21:17 - 'How I Met Your Mother Season 1' restored.
+(I) 2020-06-04T00:21:17 - Detected external IP: 103.102.43.1
+(I) 2020-06-04T00:21:18 - Detected external IP: 103.102.43.17
+(I) 2020-06-04T03:10:13 - UPnP / NAT-PMP support [OFF]
+(N) 2020-06-05T14:20:56 - qBittorrent v4.2.5 started
+(N) 2020-06-05T14:20:56 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-05T14:20:56 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-05T14:20:56 - Peer ID: -qB4250-
+(N) 2020-06-05T14:20:56 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-05T14:20:56 - DHT support [ON]
+(I) 2020-06-05T14:20:56 - Local Peer Discovery support [ON]
+(I) 2020-06-05T14:20:56 - PeX support [ON]
+(I) 2020-06-05T14:20:56 - Anonymous mode [OFF]
+(I) 2020-06-05T14:20:56 - Encryption support [ON]
+(I) 2020-06-05T14:20:56 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-05T14:20:56 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-05T14:20:57 - Options were saved successfully.
+(I) 2020-06-05T14:20:57 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-05T14:20:57 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-05T14:20:57 - Successfully listening on IP: 192.168.0.140, port: TCP/53650
+(I) 2020-06-05T14:20:57 - Successfully listening on IP: 192.168.0.140, port: UDP/53650
+(I) 2020-06-05T14:20:57 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-05T14:20:57 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-05T14:20:57 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: TCP/53650
+(I) 2020-06-05T14:20:57 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: UDP/53650
+(I) 2020-06-05T14:20:57 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-05T14:20:57 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(I) 2020-06-05T14:20:57 - Detected external IP: 103.102.43.17
+(N) 2020-06-05T14:20:58 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-05T14:20:58 - 'The Terminal (2004)' restored.
+(N) 2020-06-05T14:20:58 - 'Peaky Blinders Season 5 Complete 720p AMZN WEB-DL x264 [i_c]' restored.
+(N) 2020-06-05T14:20:58 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-05T14:20:58 - 'Peaky.Blinders.S04.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-05T14:20:58 - 'Peaky.Blinders.S02.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-05T14:20:58 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-05T14:20:58 - 'Peaky.Blinders.S01.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-05T14:20:58 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-05T14:20:58 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-05T14:20:58 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-06-05T14:20:58 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-05T14:20:58 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-05T14:20:58 - 'House MD Complete Season' restored.
+(N) 2020-06-05T14:20:58 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-05T14:20:58 - 'Peaky.Blinders.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-05T16:46:04 - qBittorrent v4.2.5 started
+(N) 2020-06-05T16:46:04 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-05T16:46:04 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-05T16:46:04 - Peer ID: -qB4250-
+(N) 2020-06-05T16:46:04 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-05T16:46:04 - DHT support [ON]
+(I) 2020-06-05T16:46:04 - Local Peer Discovery support [ON]
+(I) 2020-06-05T16:46:04 - PeX support [ON]
+(I) 2020-06-05T16:46:04 - Anonymous mode [OFF]
+(I) 2020-06-05T16:46:04 - Encryption support [ON]
+(I) 2020-06-05T16:46:04 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-05T16:46:05 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-05T16:46:06 - Options were saved successfully.
+(I) 2020-06-05T16:46:06 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-05T16:46:06 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-05T16:46:06 - Successfully listening on IP: 192.168.0.140, port: TCP/53650
+(I) 2020-06-05T16:46:06 - Successfully listening on IP: 192.168.0.140, port: UDP/53650
+(I) 2020-06-05T16:46:06 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-05T16:46:06 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-05T16:46:06 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: TCP/53650
+(I) 2020-06-05T16:46:06 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: UDP/53650
+(I) 2020-06-05T16:46:06 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-05T16:46:06 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(I) 2020-06-05T16:46:06 - Detected external IP: 103.102.43.17
+(N) 2020-06-05T16:46:07 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-05T16:46:07 - 'The Terminal (2004)' restored.
+(N) 2020-06-05T16:46:07 - 'Peaky Blinders Season 5 Complete 720p AMZN WEB-DL x264 [i_c]' restored.
+(N) 2020-06-05T16:46:07 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-05T16:46:07 - 'Peaky.Blinders.S04.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-05T16:46:07 - 'Peaky.Blinders.S02.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-05T16:46:07 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-05T16:46:07 - 'Peaky.Blinders.S01.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-05T16:46:07 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-05T16:46:07 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-05T16:46:07 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-06-05T16:46:07 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-05T16:46:07 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-05T16:46:07 - 'House MD Complete Season' restored.
+(N) 2020-06-05T16:46:07 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-05T16:46:07 - 'Peaky.Blinders.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-05T21:27:30 - qBittorrent v4.2.5 started
+(N) 2020-06-05T21:27:30 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-05T21:27:30 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-05T21:27:30 - Peer ID: -qB4250-
+(N) 2020-06-05T21:27:30 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-05T21:27:30 - DHT support [ON]
+(I) 2020-06-05T21:27:30 - Local Peer Discovery support [ON]
+(I) 2020-06-05T21:27:30 - PeX support [ON]
+(I) 2020-06-05T21:27:30 - Anonymous mode [OFF]
+(I) 2020-06-05T21:27:30 - Encryption support [ON]
+(I) 2020-06-05T21:27:30 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-05T21:27:30 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-05T21:27:32 - Options were saved successfully.
+(I) 2020-06-05T21:27:32 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-05T21:27:32 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-05T21:27:32 - Successfully listening on IP: 192.168.0.140, port: TCP/53650
+(I) 2020-06-05T21:27:32 - Successfully listening on IP: 192.168.0.140, port: UDP/53650
+(I) 2020-06-05T21:27:32 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-05T21:27:32 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-05T21:27:32 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: TCP/53650
+(I) 2020-06-05T21:27:32 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: UDP/53650
+(I) 2020-06-05T21:27:32 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-05T21:27:32 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(N) 2020-06-05T21:27:32 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-05T21:27:32 - 'The Terminal (2004)' restored.
+(N) 2020-06-05T21:27:32 - 'Peaky Blinders Season 5 Complete 720p AMZN WEB-DL x264 [i_c]' restored.
+(N) 2020-06-05T21:27:32 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-05T21:27:32 - 'Peaky.Blinders.S04.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-05T21:27:32 - 'Peaky.Blinders.S02.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-05T21:27:32 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-05T21:27:32 - 'Peaky.Blinders.S01.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-05T21:27:32 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-05T21:27:32 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-05T21:27:32 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-06-05T21:27:32 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-05T21:27:32 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-05T21:27:32 - 'House MD Complete Season' restored.
+(N) 2020-06-05T21:27:32 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-05T21:27:32 - 'Peaky.Blinders.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(I) 2020-06-05T21:27:33 - Detected external IP: 103.102.43.17
+(N) 2020-06-05T21:27:55 - Options were saved successfully.
+(I) 2020-06-06T00:44:47 - UPnP / NAT-PMP support [OFF]
+(N) 2020-06-06T01:18:27 - qBittorrent v4.2.5 started
+(N) 2020-06-06T01:18:27 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-06T01:18:27 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-06T01:18:28 - Peer ID: -qB4250-
+(N) 2020-06-06T01:18:28 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-06T01:18:28 - DHT support [ON]
+(I) 2020-06-06T01:18:28 - Local Peer Discovery support [ON]
+(I) 2020-06-06T01:18:28 - PeX support [ON]
+(I) 2020-06-06T01:18:28 - Anonymous mode [OFF]
+(I) 2020-06-06T01:18:28 - Encryption support [ON]
+(I) 2020-06-06T01:18:28 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-06T01:18:28 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-06T01:18:28 - Options were saved successfully.
+(I) 2020-06-06T01:18:29 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-06T01:18:29 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-06T01:18:29 - Successfully listening on IP: 192.168.0.140, port: TCP/53650
+(I) 2020-06-06T01:18:29 - Successfully listening on IP: 192.168.0.140, port: UDP/53650
+(I) 2020-06-06T01:18:29 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-06T01:18:29 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-06T01:18:29 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: TCP/53650
+(I) 2020-06-06T01:18:29 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: UDP/53650
+(I) 2020-06-06T01:18:29 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-06T01:18:29 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(I) 2020-06-06T01:18:29 - Detected external IP: 103.102.43.17
+(N) 2020-06-06T01:18:29 - 'Peaky.Blinders.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-06T01:18:29 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-06T01:18:29 - 'Peaky.Blinders.S04.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-06T01:18:29 - 'Peaky.Blinders.S01.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-06T01:18:29 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-06T01:18:29 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-06T01:18:29 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-06T01:18:29 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-06T01:18:29 - 'House MD Complete Season' restored.
+(N) 2020-06-06T01:18:29 - 'Peaky Blinders Season 5 Complete 720p AMZN WEB-DL x264 [i_c]' restored.
+(N) 2020-06-06T01:18:29 - 'Peaky.Blinders.S02.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-06T01:18:29 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-06T01:18:29 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-06T01:18:29 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-06-06T01:18:29 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-06T01:18:29 - 'The Terminal (2004)' restored.
+(N) 2020-06-08T22:12:32 - qBittorrent v4.2.5 started
+(N) 2020-06-08T22:12:32 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-08T22:12:32 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-08T22:12:32 - Peer ID: -qB4250-
+(N) 2020-06-08T22:12:32 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-08T22:12:32 - DHT support [ON]
+(I) 2020-06-08T22:12:32 - Local Peer Discovery support [ON]
+(I) 2020-06-08T22:12:32 - PeX support [ON]
+(I) 2020-06-08T22:12:32 - Anonymous mode [OFF]
+(I) 2020-06-08T22:12:32 - Encryption support [ON]
+(I) 2020-06-08T22:12:32 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-08T22:12:32 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-08T22:12:32 - Options were saved successfully.
+(I) 2020-06-08T22:12:33 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-08T22:12:33 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-08T22:12:33 - Successfully listening on IP: 192.168.0.140, port: TCP/53650
+(I) 2020-06-08T22:12:33 - Successfully listening on IP: 192.168.0.140, port: UDP/53650
+(I) 2020-06-08T22:12:33 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-08T22:12:33 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-08T22:12:33 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: TCP/53650
+(I) 2020-06-08T22:12:33 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: UDP/53650
+(I) 2020-06-08T22:12:33 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-08T22:12:33 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(I) 2020-06-08T22:12:33 - Detected external IP: 103.102.43.9
+(N) 2020-06-08T22:12:33 - 'Peaky.Blinders.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-08T22:12:33 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-08T22:12:33 - 'Peaky.Blinders.S04.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-08T22:12:33 - 'Peaky.Blinders.S01.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-08T22:12:33 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-08T22:12:33 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-08T22:12:33 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-08T22:12:33 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-08T22:12:33 - 'House MD Complete Season' restored.
+(N) 2020-06-08T22:12:33 - 'Peaky Blinders Season 5 Complete 720p AMZN WEB-DL x264 [i_c]' restored.
+(N) 2020-06-08T22:12:33 - 'Peaky.Blinders.S02.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-08T22:12:33 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-08T22:12:33 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-08T22:12:33 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-06-08T22:12:33 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-08T22:12:33 - 'The Terminal (2004)' restored.
+(N) 2020-06-08T22:12:58 - Options were saved successfully.
+(N) 2020-06-08T22:13:13 - Options were saved successfully.
+(N) 2020-06-08T22:13:18 - Options were saved successfully.
+(N) 2020-06-08T22:13:22 - Options were saved successfully.
+(I) 2020-06-08T22:17:46 - UPnP / NAT-PMP support [OFF]
+(N) 2020-06-08T22:28:09 - qBittorrent v4.2.5 started
+(N) 2020-06-08T22:28:09 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-08T22:28:09 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-08T22:28:09 - Peer ID: -qB4250-
+(N) 2020-06-08T22:28:09 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-08T22:28:09 - DHT support [ON]
+(I) 2020-06-08T22:28:09 - Local Peer Discovery support [ON]
+(I) 2020-06-08T22:28:09 - PeX support [ON]
+(I) 2020-06-08T22:28:09 - Anonymous mode [OFF]
+(I) 2020-06-08T22:28:09 - Encryption support [ON]
+(I) 2020-06-08T22:28:09 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-08T22:28:09 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-08T22:28:09 - Options were saved successfully.
+(I) 2020-06-08T22:28:09 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-08T22:28:09 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-08T22:28:09 - Successfully listening on IP: 192.168.0.140, port: TCP/53650
+(I) 2020-06-08T22:28:09 - Successfully listening on IP: 192.168.0.140, port: UDP/53650
+(I) 2020-06-08T22:28:09 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-08T22:28:09 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-08T22:28:09 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: TCP/53650
+(I) 2020-06-08T22:28:09 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: UDP/53650
+(I) 2020-06-08T22:28:09 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-08T22:28:09 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(N) 2020-06-08T22:28:10 - 'House MD Complete Season' restored.
+(N) 2020-06-08T22:28:10 - 'Peaky.Blinders.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-08T22:28:10 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-08T22:28:10 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-08T22:28:10 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-08T22:28:10 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-06-08T22:28:10 - 'Peaky.Blinders.S01.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-08T22:28:10 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-08T22:28:10 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-08T22:28:10 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-08T22:28:10 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-08T22:28:10 - 'Peaky.Blinders.S02.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-08T22:28:10 - 'Peaky.Blinders.S04.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-08T22:28:10 - 'Peaky Blinders Season 5 Complete 720p AMZN WEB-DL x264 [i_c]' restored.
+(N) 2020-06-08T22:28:10 - 'The Terminal (2004)' restored.
+(N) 2020-06-08T22:28:10 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(I) 2020-06-08T22:28:10 - Detected external IP: 103.102.43.9
+(I) 2020-06-08T22:56:39 - Detected external IP: 103.102.43.245
+(N) 2020-06-09T19:41:18 - qBittorrent v4.2.5 started
+(N) 2020-06-09T19:41:18 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-09T19:41:18 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-09T19:41:18 - Peer ID: -qB4250-
+(N) 2020-06-09T19:41:18 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-09T19:41:18 - DHT support [ON]
+(I) 2020-06-09T19:41:18 - Local Peer Discovery support [ON]
+(I) 2020-06-09T19:41:18 - PeX support [ON]
+(I) 2020-06-09T19:41:18 - Anonymous mode [OFF]
+(I) 2020-06-09T19:41:18 - Encryption support [ON]
+(I) 2020-06-09T19:41:18 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-09T19:41:18 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-09T19:41:19 - Options were saved successfully.
+(I) 2020-06-09T19:41:20 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-09T19:41:20 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-09T19:41:20 - Successfully listening on IP: 192.168.0.140, port: TCP/53650
+(I) 2020-06-09T19:41:20 - Successfully listening on IP: 192.168.0.140, port: UDP/53650
+(I) 2020-06-09T19:41:20 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-09T19:41:20 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-09T19:41:20 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: TCP/53650
+(I) 2020-06-09T19:41:20 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: UDP/53650
+(I) 2020-06-09T19:41:20 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-09T19:41:20 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(I) 2020-06-09T19:41:20 - Detected external IP: 103.102.43.245
+(N) 2020-06-09T19:41:20 - 'House MD Complete Season' restored.
+(N) 2020-06-09T19:41:20 - 'Peaky.Blinders.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-09T19:41:20 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-09T19:41:20 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-09T19:41:20 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-09T19:41:20 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-06-09T19:41:20 - 'Peaky.Blinders.S01.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-09T19:41:20 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-09T19:41:20 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-09T19:41:20 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-09T19:41:20 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-09T19:41:20 - 'Peaky.Blinders.S02.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-09T19:41:20 - 'Peaky.Blinders.S04.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-09T19:41:20 - 'Peaky Blinders Season 5 Complete 720p AMZN WEB-DL x264 [i_c]' restored.
+(N) 2020-06-09T19:41:20 - 'The Terminal (2004)' restored.
+(N) 2020-06-09T19:41:20 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-10T00:27:34 - qBittorrent v4.2.5 started
+(N) 2020-06-10T00:27:34 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-10T00:27:34 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-10T00:27:34 - Peer ID: -qB4250-
+(N) 2020-06-10T00:27:34 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-10T00:27:34 - DHT support [ON]
+(I) 2020-06-10T00:27:34 - Local Peer Discovery support [ON]
+(I) 2020-06-10T00:27:34 - PeX support [ON]
+(I) 2020-06-10T00:27:34 - Anonymous mode [OFF]
+(I) 2020-06-10T00:27:34 - Encryption support [ON]
+(I) 2020-06-10T00:27:34 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-10T00:27:34 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-10T00:27:34 - Options were saved successfully.
+(I) 2020-06-10T00:27:35 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-10T00:27:35 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-10T00:27:35 - Successfully listening on IP: 192.168.0.140, port: TCP/53650
+(I) 2020-06-10T00:27:35 - Successfully listening on IP: 192.168.0.140, port: UDP/53650
+(I) 2020-06-10T00:27:35 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-10T00:27:35 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-10T00:27:35 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: TCP/53650
+(I) 2020-06-10T00:27:35 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: UDP/53650
+(I) 2020-06-10T00:27:35 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-10T00:27:35 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(N) 2020-06-10T00:27:35 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-10T00:27:35 - 'House MD Complete Season' restored.
+(N) 2020-06-10T00:27:35 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-10T00:27:35 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-06-10T00:27:35 - 'Peaky.Blinders.S04.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-10T00:27:35 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-10T00:27:35 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-10T00:27:35 - 'Peaky.Blinders.S02.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-10T00:27:35 - 'Peaky Blinders Season 5 Complete 720p AMZN WEB-DL x264 [i_c]' restored.
+(N) 2020-06-10T00:27:35 - 'Peaky.Blinders.S01.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-10T00:27:35 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-10T00:27:35 - 'Peaky.Blinders.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-10T00:27:35 - 'The Terminal (2004)' restored.
+(N) 2020-06-10T00:27:35 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-10T00:27:35 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-10T00:27:35 - 'How I Met Your Mother Season 1' restored.
+(I) 2020-06-10T00:27:35 - Detected external IP: 103.102.43.245
+(I) 2020-06-10T02:09:47 - UPnP / NAT-PMP support [OFF]
+(N) 2020-06-10T22:53:16 - qBittorrent v4.2.5 started
+(N) 2020-06-10T22:53:16 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-10T22:53:17 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-10T22:53:17 - Peer ID: -qB4250-
+(N) 2020-06-10T22:53:17 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-10T22:53:17 - DHT support [ON]
+(I) 2020-06-10T22:53:17 - Local Peer Discovery support [ON]
+(I) 2020-06-10T22:53:17 - PeX support [ON]
+(I) 2020-06-10T22:53:17 - Anonymous mode [OFF]
+(I) 2020-06-10T22:53:17 - Encryption support [ON]
+(I) 2020-06-10T22:53:17 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-10T22:53:17 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-10T22:53:18 - Options were saved successfully.
+(I) 2020-06-10T22:53:19 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-10T22:53:19 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-10T22:53:19 - Successfully listening on IP: 192.168.0.140, port: TCP/53650
+(I) 2020-06-10T22:53:19 - Successfully listening on IP: 192.168.0.140, port: UDP/53650
+(I) 2020-06-10T22:53:19 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-10T22:53:19 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-10T22:53:19 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: TCP/53650
+(I) 2020-06-10T22:53:19 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: UDP/53650
+(I) 2020-06-10T22:53:19 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-10T22:53:19 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(I) 2020-06-10T22:53:19 - Detected external IP: 103.102.43.9
+(N) 2020-06-10T22:53:19 - 'House MD Complete Season' restored.
+(N) 2020-06-10T22:53:19 - 'Peaky.Blinders.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-10T22:53:19 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-10T22:53:19 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-10T22:53:19 - 'The Terminal (2004)' restored.
+(N) 2020-06-10T22:53:19 - 'Peaky.Blinders.S04.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-10T22:53:19 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-10T22:53:19 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-10T22:53:19 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-06-10T22:53:19 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-10T22:53:19 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-10T22:53:19 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-10T22:53:19 - 'Peaky.Blinders.S02.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-10T22:53:19 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-10T22:53:19 - 'Peaky.Blinders.S01.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-10T22:53:19 - 'Peaky Blinders Season 5 Complete 720p AMZN WEB-DL x264 [i_c]' restored.
+(N) 2020-06-11T02:38:31 - qBittorrent v4.2.5 started
+(N) 2020-06-11T02:38:31 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-11T02:38:31 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-11T02:38:31 - Peer ID: -qB4250-
+(N) 2020-06-11T02:38:31 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-11T02:38:31 - DHT support [ON]
+(I) 2020-06-11T02:38:31 - Local Peer Discovery support [ON]
+(I) 2020-06-11T02:38:31 - PeX support [ON]
+(I) 2020-06-11T02:38:31 - Anonymous mode [OFF]
+(I) 2020-06-11T02:38:31 - Encryption support [ON]
+(I) 2020-06-11T02:38:31 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-11T02:38:31 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-11T02:38:33 - Options were saved successfully.
+(I) 2020-06-11T02:38:33 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-11T02:38:33 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-11T02:38:33 - Successfully listening on IP: 192.168.0.140, port: TCP/53650
+(I) 2020-06-11T02:38:33 - Successfully listening on IP: 192.168.0.140, port: UDP/53650
+(I) 2020-06-11T02:38:33 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-11T02:38:33 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-11T02:38:33 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: TCP/53650
+(I) 2020-06-11T02:38:33 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: UDP/53650
+(I) 2020-06-11T02:38:33 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-11T02:38:33 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(N) 2020-06-11T02:38:33 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-11T02:38:33 - 'Peaky Blinders Season 5 Complete 720p AMZN WEB-DL x264 [i_c]' restored.
+(N) 2020-06-11T02:38:33 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-11T02:38:33 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-11T02:38:33 - 'Peaky.Blinders.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-11T02:38:33 - 'Peaky.Blinders.S02.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-11T02:38:33 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-11T02:38:33 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-11T02:38:33 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-06-11T02:38:33 - 'Peaky.Blinders.S01.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-11T02:38:33 - 'House MD Complete Season' restored.
+(N) 2020-06-11T02:38:33 - 'The Terminal (2004)' restored.
+(N) 2020-06-11T02:38:33 - 'Peaky.Blinders.S04.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-11T02:38:33 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-11T02:38:33 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-11T02:38:33 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(I) 2020-06-11T02:38:33 - Detected external IP: 103.102.43.9
+(N) 2020-06-11T02:38:43 - qBittorrent v4.2.5 started
+(N) 2020-06-11T02:38:43 - Using config directory: /home/ankur/.config/qBittorrent/
+(N) 2020-06-11T02:38:56 - qBittorrent v4.2.5 started
+(N) 2020-06-11T02:38:56 - Using config directory: /home/ankur/.config/qBittorrent/
+(N) 2020-06-11T02:41:15 - qBittorrent v4.2.5 started
+(N) 2020-06-11T02:41:15 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-11T02:41:15 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-11T02:41:15 - Peer ID: -qB4250-
+(N) 2020-06-11T02:41:15 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-11T02:41:15 - DHT support [ON]
+(I) 2020-06-11T02:41:15 - Local Peer Discovery support [ON]
+(I) 2020-06-11T02:41:15 - PeX support [ON]
+(I) 2020-06-11T02:41:15 - Anonymous mode [OFF]
+(I) 2020-06-11T02:41:15 - Encryption support [ON]
+(I) 2020-06-11T02:41:15 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-11T02:41:15 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-11T02:41:16 - Options were saved successfully.
+(I) 2020-06-11T02:41:16 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-11T02:41:16 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-11T02:41:16 - Successfully listening on IP: 192.168.0.140, port: TCP/53650
+(I) 2020-06-11T02:41:16 - Successfully listening on IP: 192.168.0.140, port: UDP/53650
+(I) 2020-06-11T02:41:16 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-11T02:41:16 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-11T02:41:16 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: TCP/53650
+(I) 2020-06-11T02:41:16 - Successfully listening on IP: fe80::3d7b:6e24:8436:ec21%wlo1, port: UDP/53650
+(I) 2020-06-11T02:41:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-11T02:41:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(N) 2020-06-11T02:41:16 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-11T02:41:16 - 'Peaky Blinders Season 5 Complete 720p AMZN WEB-DL x264 [i_c]' restored.
+(N) 2020-06-11T02:41:16 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-11T02:41:16 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-11T02:41:16 - 'Peaky.Blinders.S03.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-11T02:41:16 - 'Peaky.Blinders.S02.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-11T02:41:16 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-11T02:41:16 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-11T02:41:16 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-06-11T02:41:16 - 'Peaky.Blinders.S01.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-11T02:41:16 - 'House MD Complete Season' restored.
+(N) 2020-06-11T02:41:16 - 'The Terminal (2004)' restored.
+(N) 2020-06-11T02:41:16 - 'Peaky.Blinders.S04.COMPLETE.720p.BluRay.x264-GalaxyTV[TGx]' restored.
+(N) 2020-06-11T02:41:16 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-11T02:41:16 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-11T02:41:16 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(I) 2020-06-11T02:41:16 - Detected external IP: 103.102.43.9
+(N) 2020-06-11T02:41:31 - qBittorrent v4.2.5 started
+(N) 2020-06-11T02:41:31 - Using config directory: /home/ankur/.config/qBittorrent/
+(N) 2020-06-11T02:48:57 - qBittorrent v4.2.5 started
+(N) 2020-06-11T02:48:57 - Using config directory: /home/ankur/.config/qBittorrent/
+(N) 2020-06-11T10:52:00 - qBittorrent v4.2.5 started
+(N) 2020-06-11T10:52:00 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-11T10:52:00 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-11T10:52:00 - Peer ID: -qB4250-
+(N) 2020-06-11T10:52:00 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-11T10:52:00 - DHT support [ON]
+(I) 2020-06-11T10:52:00 - Local Peer Discovery support [ON]
+(I) 2020-06-11T10:52:00 - PeX support [ON]

@@ -1,0 +1,91 @@
+general {
+        output_format = "i3bar"
+        colors = false
+        markup = pango
+        interval = 1
+        color_good = '#2f343f'
+		color_degraded = '#ebcb8b'
+		color_bad = '#ba5e57'
+}
+
+
+order += "disk /"
+order += "load"
+#order += "memory"
+order += "cpu_temperature 0"
+#order += "ethernet eno1"
+order += "wireless wlo1"
+#order += "battery 0"
+order += "tztime local"
+order += "volume master"
+
+load {
+        format = "  %1min Load "
+        separator_block_width = 1
+        separator = true
+}
+
+cpu_temperature 0 {
+        format = "  %degrees°C "
+        path = "/sys/class/thermal/thermal_zone0/temp"
+        separator = true
+	separator_block_width = 1
+}
+
+disk "/" {
+        format = "  %free"
+   	separator = true
+        separator_block_width = 1
+       
+}
+
+memory {
+        format = " %used "
+   	separator = true
+        separator_block_width = 1
+       
+}
+
+ethernet eno1 {
+        format_up = "  %ip "
+        format_down = "  "
+        separator_block_width = 1
+}
+
+wireless wlo1 {
+        format_up = "  WiFi (%bitrate) "
+        format_down = "  Disconnected "
+        separator_block_width = 1
+	separator = true
+}
+
+volume master {
+        format = "  %volume "
+        format_muted = "  Muted "
+        device = "default"
+        mixer = "Master"
+        mixer_idx = 0
+        separator_block_width = 1
+	separator = true
+        }
+
+battery 0 {
+	last_full_capacity = false
+        format = "  %status %percentage "
+        format_down = "No Battery"
+        status_chr = "Charging"
+        status_bat = "Battery"
+        status_unk = " "
+        status_full = "Charged"
+        path = "/sys/class/power_supply/BAT%d/uevent"
+        low_threshold = 0
+                separator_block_width = 1
+}
+
+tztime local {
+		
+		format = " <b>%time</b> "
+		format_time = "   %l:%M %p"
+	        separator_block_width = 1
+		separator = true
+}

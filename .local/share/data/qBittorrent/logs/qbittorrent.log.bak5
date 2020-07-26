@@ -1,0 +1,797 @@
+(N) 2020-06-14T19:12:51 - qBittorrent v4.2.5 started
+(N) 2020-06-14T19:12:51 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-14T19:12:52 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-14T19:12:52 - Peer ID: -qB4250-
+(N) 2020-06-14T19:12:52 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-14T19:12:52 - DHT support [ON]
+(I) 2020-06-14T19:12:52 - Local Peer Discovery support [ON]
+(I) 2020-06-14T19:12:52 - PeX support [ON]
+(I) 2020-06-14T19:12:52 - Anonymous mode [OFF]
+(I) 2020-06-14T19:12:52 - Encryption support [ON]
+(I) 2020-06-14T19:12:52 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-14T19:12:52 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-14T19:12:58 - Options were saved successfully.
+(I) 2020-06-14T19:12:59 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-14T19:12:59 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-14T19:12:59 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-14T19:12:59 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-14T19:12:59 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-14T19:12:59 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-14T19:12:59 - Successfully listening on IP: fe80::df9f:69a5:88f:8bc%wlo1, port: TCP/53650
+(I) 2020-06-14T19:12:59 - Successfully listening on IP: fe80::df9f:69a5:88f:8bc%wlo1, port: UDP/53650
+(I) 2020-06-14T19:12:59 - Detected external IP: 27.147.191.184
+(N) 2020-06-14T19:12:59 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-14T19:12:59 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-14T19:12:59 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-14T19:12:59 - 'House MD Complete Season' restored.
+(N) 2020-06-14T19:12:59 - 'The Terminal (2004)' restored.
+(N) 2020-06-14T19:12:59 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-14T19:12:59 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-14T19:12:59 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-14T19:12:59 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-06-14T19:12:59 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-14T19:12:59 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-14T19:12:59 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(C) 2020-06-14T19:15:28 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2020-06-14T19:15:28 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(N) 2020-06-14T19:20:37 - qBittorrent v4.2.5 started
+(N) 2020-06-14T19:20:37 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-14T19:20:37 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-14T19:20:37 - Peer ID: -qB4250-
+(N) 2020-06-14T19:20:37 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-14T19:20:37 - DHT support [ON]
+(I) 2020-06-14T19:20:37 - Local Peer Discovery support [ON]
+(I) 2020-06-14T19:20:37 - PeX support [ON]
+(I) 2020-06-14T19:20:37 - Anonymous mode [OFF]
+(I) 2020-06-14T19:20:37 - Encryption support [ON]
+(I) 2020-06-14T19:20:37 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-14T19:20:37 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-14T19:20:38 - Options were saved successfully.
+(I) 2020-06-14T19:20:38 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-14T19:20:38 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-14T19:20:38 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-14T19:20:38 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-14T19:20:38 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-14T19:20:38 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-14T19:20:38 - Successfully listening on IP: fe80::df9f:69a5:88f:8bc%wlo1, port: TCP/53650
+(I) 2020-06-14T19:20:38 - Successfully listening on IP: fe80::df9f:69a5:88f:8bc%wlo1, port: UDP/53650
+(N) 2020-06-14T19:20:38 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-14T19:20:38 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-14T19:20:38 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-14T19:20:38 - 'House MD Complete Season' restored.
+(N) 2020-06-14T19:20:38 - 'The Terminal (2004)' restored.
+(N) 2020-06-14T19:20:38 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-14T19:20:38 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-14T19:20:38 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-14T19:20:38 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-06-14T19:20:38 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-14T19:20:38 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-14T19:20:38 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(I) 2020-06-14T19:20:38 - Detected external IP: 27.147.191.184
+(C) 2020-06-14T19:23:13 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2020-06-14T19:23:13 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(N) 2020-06-14T19:35:30 - qBittorrent v4.2.5 started
+(N) 2020-06-14T19:35:30 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-14T19:35:30 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-14T19:35:30 - Peer ID: -qB4250-
+(N) 2020-06-14T19:35:30 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-14T19:35:30 - DHT support [ON]
+(I) 2020-06-14T19:35:30 - Local Peer Discovery support [ON]
+(I) 2020-06-14T19:35:30 - PeX support [ON]
+(I) 2020-06-14T19:35:30 - Anonymous mode [OFF]
+(I) 2020-06-14T19:35:30 - Encryption support [ON]
+(I) 2020-06-14T19:35:30 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-14T19:35:30 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-14T19:35:34 - Options were saved successfully.
+(I) 2020-06-14T19:35:35 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-14T19:35:35 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-14T19:35:35 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-14T19:35:35 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-14T19:35:35 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-14T19:35:35 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-14T19:35:35 - Successfully listening on IP: fe80::df9f:69a5:88f:8bc%wlo1, port: TCP/53650
+(I) 2020-06-14T19:35:35 - Successfully listening on IP: fe80::df9f:69a5:88f:8bc%wlo1, port: UDP/53650
+(I) 2020-06-14T19:35:35 - Detected external IP: 27.147.191.184
+(N) 2020-06-14T19:35:36 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-14T19:35:36 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-14T19:35:36 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-14T19:35:36 - 'House MD Complete Season' restored.
+(N) 2020-06-14T19:35:36 - 'The Terminal (2004)' restored.
+(N) 2020-06-14T19:35:36 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-14T19:35:36 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-14T19:35:36 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-14T19:35:36 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-06-14T19:35:36 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-14T19:35:36 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-14T19:35:36 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(C) 2020-06-14T19:38:06 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2020-06-14T19:38:06 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2020-06-14T19:40:47 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-14T19:40:47 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-14T19:40:47 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-14T19:40:47 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-14T19:40:47 - System network status changed to OFFLINE
+(I) 2020-06-14T19:41:30 - System network status changed to ONLINE
+(I) 2020-06-14T19:41:31 - Successfully listening on IP: fe80::df9f:69a5:88f:8bc%wlo1, port: TCP/53650
+(I) 2020-06-14T19:41:31 - Successfully listening on IP: fe80::df9f:69a5:88f:8bc%wlo1, port: UDP/53650
+(I) 2020-06-14T19:41:31 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-14T19:41:31 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-14T19:41:31 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-14T19:41:31 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-14T19:41:37 - Detected external IP: 27.147.191.184
+(C) 2020-06-14T19:44:07 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2020-06-14T19:44:07 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2020-06-14T20:09:42 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-14T20:09:42 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-14T20:09:42 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-14T20:09:42 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-14T20:09:42 - System network status changed to OFFLINE
+(I) 2020-06-14T20:09:49 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-14T20:09:49 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-14T20:09:49 - System network status changed to ONLINE
+(I) 2020-06-14T20:09:49 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-14T20:09:49 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-14T20:09:50 - Successfully listening on IP: fe80::df9f:69a5:88f:8bc%wlo1, port: TCP/53650
+(I) 2020-06-14T20:09:50 - Successfully listening on IP: fe80::df9f:69a5:88f:8bc%wlo1, port: UDP/53650
+(I) 2020-06-14T20:10:08 - Detected external IP: 27.147.191.184
+(I) 2020-06-14T20:11:32 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-14T20:11:32 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-14T20:11:32 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-14T20:11:32 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-14T20:11:32 - System network status changed to OFFLINE
+(I) 2020-06-14T20:12:51 - Successfully listening on IP: 192.168.1.100, port: TCP/53650
+(I) 2020-06-14T20:12:51 - Successfully listening on IP: 192.168.1.100, port: UDP/53650
+(I) 2020-06-14T20:12:51 - System network status changed to ONLINE
+(I) 2020-06-14T20:12:51 - Successfully listening on IP: 192.168.1.100, port: TCP/53650
+(I) 2020-06-14T20:12:51 - Successfully listening on IP: 192.168.1.100, port: UDP/53650
+(I) 2020-06-14T20:12:51 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-14T20:12:51 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(I) 2020-06-14T20:12:52 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: TCP/53650
+(I) 2020-06-14T20:12:52 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: UDP/53650
+(I) 2020-06-14T20:12:57 - Detected external IP: 103.102.43.1
+(I) 2020-06-14T20:12:58 - Detected external IP: 103.102.43.25
+(N) 2020-06-14T23:25:40 - qBittorrent v4.2.5 started
+(N) 2020-06-14T23:25:40 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-14T23:25:41 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-14T23:25:41 - Peer ID: -qB4250-
+(N) 2020-06-14T23:25:41 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-14T23:25:41 - DHT support [ON]
+(I) 2020-06-14T23:25:41 - Local Peer Discovery support [ON]
+(I) 2020-06-14T23:25:41 - PeX support [ON]
+(I) 2020-06-14T23:25:41 - Anonymous mode [OFF]
+(I) 2020-06-14T23:25:41 - Encryption support [ON]
+(I) 2020-06-14T23:25:41 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-14T23:25:41 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-14T23:25:44 - Options were saved successfully.
+(I) 2020-06-14T23:25:44 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-14T23:25:44 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-14T23:25:44 - Successfully listening on IP: 192.168.1.100, port: TCP/53650
+(I) 2020-06-14T23:25:44 - Successfully listening on IP: 192.168.1.100, port: UDP/53650
+(I) 2020-06-14T23:25:44 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-14T23:25:44 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-14T23:25:44 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: TCP/53650
+(I) 2020-06-14T23:25:44 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: UDP/53650
+(I) 2020-06-14T23:25:44 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-14T23:25:44 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(I) 2020-06-14T23:25:44 - Detected external IP: 103.102.43.25
+(N) 2020-06-14T23:25:45 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-14T23:25:45 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-14T23:25:45 - 'House MD Complete Season' restored.
+(N) 2020-06-14T23:25:45 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-14T23:25:45 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-14T23:25:45 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-14T23:25:45 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-14T23:25:45 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-06-14T23:25:45 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-06-14T23:25:45 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-14T23:25:45 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-14T23:25:45 - 'The Terminal (2004)' restored.
+(N) 2020-06-15T10:32:15 - qBittorrent v4.2.5 started
+(N) 2020-06-15T10:32:15 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-15T10:32:15 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-15T10:32:15 - Peer ID: -qB4250-
+(N) 2020-06-15T10:32:15 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-15T10:32:15 - DHT support [ON]
+(I) 2020-06-15T10:32:15 - Local Peer Discovery support [ON]
+(I) 2020-06-15T10:32:15 - PeX support [ON]
+(I) 2020-06-15T10:32:15 - Anonymous mode [OFF]
+(I) 2020-06-15T10:32:15 - Encryption support [ON]
+(I) 2020-06-15T10:32:15 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-15T10:32:16 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-15T10:32:22 - Options were saved successfully.
+(I) 2020-06-15T10:32:22 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-15T10:32:22 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-15T10:32:22 - Successfully listening on IP: 192.168.1.100, port: TCP/53650
+(I) 2020-06-15T10:32:22 - Successfully listening on IP: 192.168.1.100, port: UDP/53650
+(I) 2020-06-15T10:32:22 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-15T10:32:22 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-15T10:32:22 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: TCP/53650
+(I) 2020-06-15T10:32:22 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: UDP/53650
+(I) 2020-06-15T10:32:22 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-15T10:32:22 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(I) 2020-06-15T10:32:22 - Detected external IP: 103.102.43.25
+(N) 2020-06-15T10:32:23 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-15T10:32:23 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-15T10:32:23 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-06-15T10:32:23 - 'The Terminal (2004)' restored.
+(N) 2020-06-15T10:32:23 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-15T10:32:23 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-15T10:32:23 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-15T10:32:23 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-15T10:32:23 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-06-15T10:32:23 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-15T10:32:23 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-15T10:32:23 - 'House MD Complete Season' restored.
+(N) 2020-06-15T15:20:08 - qBittorrent v4.2.5 started
+(N) 2020-06-15T15:20:08 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-15T15:20:09 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-15T15:20:09 - Peer ID: -qB4250-
+(N) 2020-06-15T15:20:09 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-15T15:20:09 - DHT support [ON]
+(I) 2020-06-15T15:20:09 - Local Peer Discovery support [ON]
+(I) 2020-06-15T15:20:09 - PeX support [ON]
+(I) 2020-06-15T15:20:09 - Anonymous mode [OFF]
+(I) 2020-06-15T15:20:09 - Encryption support [ON]
+(I) 2020-06-15T15:20:09 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-15T15:20:09 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-15T15:20:15 - Options were saved successfully.
+(I) 2020-06-15T15:20:16 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-15T15:20:16 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-15T15:20:16 - Successfully listening on IP: 192.168.1.100, port: TCP/53650
+(I) 2020-06-15T15:20:16 - Successfully listening on IP: 192.168.1.100, port: UDP/53650
+(I) 2020-06-15T15:20:16 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-15T15:20:16 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-15T15:20:16 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: TCP/53650
+(I) 2020-06-15T15:20:16 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: UDP/53650
+(I) 2020-06-15T15:20:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-15T15:20:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(I) 2020-06-15T15:20:16 - Detected external IP: 103.102.43.25
+(N) 2020-06-15T15:20:16 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-15T15:20:16 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-15T15:20:16 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-06-15T15:20:16 - 'The Terminal (2004)' restored.
+(N) 2020-06-15T15:20:16 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-15T15:20:16 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-15T15:20:16 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-15T15:20:16 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-15T15:20:16 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-06-15T15:20:16 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-15T15:20:16 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-15T15:20:16 - 'House MD Complete Season' restored.
+(N) 2020-06-15T16:21:29 - qBittorrent v4.2.5 started
+(N) 2020-06-15T16:21:29 - Using config directory: /home/ankur/.config/qBittorrent/
+(N) 2020-06-15T16:21:33 - Download first and last piece first: Off, torrent: 'The.Fault.in.Our.Stars.1994.1080p.BluRay.x265.10bit-Joy.mkv'
+(N) 2020-06-15T16:21:33 - 'The.Fault.in.Our.Stars.1994.1080p.BluRay.x265.10bit-Joy.mkv' added to download list.
+(N) 2020-06-15T17:15:14 - qBittorrent v4.2.5 started
+(N) 2020-06-15T17:15:14 - Using config directory: /home/ankur/.config/qBittorrent/
+(N) 2020-06-15T17:15:22 - Download first and last piece first: Off, torrent: 'Funhouse (2019) [720p] [WEBRip] [YTS.MX]'
+(N) 2020-06-15T17:15:22 - 'Funhouse (2019) [720p] [WEBRip] [YTS.MX]' added to download list.
+(C) 2020-06-15T17:46:45 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-06-15T17:46:45 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-06-15T17:46:48 - System network status changed to OFFLINE
+(I) 2020-06-15T17:46:50 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-15T17:46:50 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-15T17:46:50 - System network status changed to ONLINE
+(I) 2020-06-15T17:46:51 - Successfully listening on IP: fe80::df9f:69a5:88f:8bc%wlo1, port: TCP/53650
+(I) 2020-06-15T17:46:51 - Successfully listening on IP: fe80::df9f:69a5:88f:8bc%wlo1, port: UDP/53650
+(I) 2020-06-15T17:46:52 - Detected external IP: 27.147.191.184
+(C) 2020-06-15T17:49:26 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2020-06-15T17:49:26 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2020-06-15T19:43:33 - System network status changed to OFFLINE
+(I) 2020-06-15T19:43:33 - Successfully listening on IP: 192.168.1.100, port: TCP/53650
+(I) 2020-06-15T19:43:33 - Successfully listening on IP: 192.168.1.100, port: UDP/53650
+(I) 2020-06-15T19:43:33 - System network status changed to ONLINE
+(I) 2020-06-15T19:43:34 - Successfully listening on IP: 192.168.1.100, port: TCP/53650
+(I) 2020-06-15T19:43:34 - Successfully listening on IP: 192.168.1.100, port: UDP/53650
+(I) 2020-06-15T19:43:34 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-15T19:43:34 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(I) 2020-06-15T19:43:35 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: TCP/53650
+(I) 2020-06-15T19:43:35 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: UDP/53650
+(I) 2020-06-15T19:43:41 - Detected external IP: 103.102.43.25
+(N) 2020-06-15T20:35:48 - qBittorrent v4.2.5 started
+(N) 2020-06-15T20:35:48 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-15T20:35:48 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-15T20:35:48 - Peer ID: -qB4250-
+(N) 2020-06-15T20:35:48 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-15T20:35:48 - DHT support [ON]
+(I) 2020-06-15T20:35:48 - Local Peer Discovery support [ON]
+(I) 2020-06-15T20:35:48 - PeX support [ON]
+(I) 2020-06-15T20:35:48 - Anonymous mode [OFF]
+(I) 2020-06-15T20:35:48 - Encryption support [ON]
+(I) 2020-06-15T20:35:48 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-15T20:35:48 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-15T20:35:49 - Options were saved successfully.
+(I) 2020-06-15T20:35:50 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-15T20:35:50 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-15T20:35:50 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-15T20:35:50 - Successfully listening on IP: ::1, port: UDP/53650
+(N) 2020-06-15T20:35:50 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-15T20:35:50 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-15T20:35:50 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-15T20:35:50 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-06-15T20:35:50 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-15T20:35:50 - 'Funhouse (2019) [720p] [WEBRip] [YTS.MX]' restored.
+(N) 2020-06-15T20:35:50 - 'House MD Complete Season' restored.
+(N) 2020-06-15T20:35:50 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-15T20:35:50 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-15T20:35:50 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-15T20:35:50 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-15T20:35:50 - 'The.Fault.in.Our.Stars.1994.1080p.BluRay.x265.10bit-Joy.mkv' restored.
+(N) 2020-06-15T20:35:50 - 'The Terminal (2004)' restored.
+(N) 2020-06-15T20:35:50 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(I) 2020-06-15T20:35:58 - Successfully listening on IP: 192.168.1.100, port: TCP/53650
+(I) 2020-06-15T20:35:58 - Successfully listening on IP: 192.168.1.100, port: UDP/53650
+(I) 2020-06-15T20:35:58 - System network status changed to ONLINE
+(I) 2020-06-15T20:35:58 - Successfully listening on IP: 192.168.1.100, port: TCP/53650
+(I) 2020-06-15T20:35:58 - Successfully listening on IP: 192.168.1.100, port: UDP/53650
+(I) 2020-06-15T20:35:58 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-15T20:35:58 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(I) 2020-06-15T20:35:59 - Detected external IP: 103.102.43.25
+(I) 2020-06-15T20:35:59 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: TCP/53650
+(I) 2020-06-15T20:35:59 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: UDP/53650
+(C) 2020-06-15T23:45:37 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-06-15T23:45:37 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-06-15T23:45:40 - System network status changed to OFFLINE
+(I) 2020-06-15T23:45:49 - Successfully listening on IP: 192.168.1.100, port: TCP/53650
+(I) 2020-06-15T23:45:49 - Successfully listening on IP: 192.168.1.100, port: UDP/53650
+(I) 2020-06-15T23:45:49 - System network status changed to ONLINE
+(I) 2020-06-15T23:45:49 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-15T23:45:49 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(I) 2020-06-15T23:45:50 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: TCP/53650
+(I) 2020-06-15T23:45:50 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: UDP/53650
+(I) 2020-06-15T23:45:59 - Detected external IP: 103.102.43.25
+(C) 2020-06-16T02:03:27 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-06-16T02:03:27 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-06-16T02:03:31 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-16T02:03:31 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-16T02:03:32 - Successfully listening on IP: fe80::df9f:69a5:88f:8bc%wlo1, port: TCP/53650
+(I) 2020-06-16T02:03:32 - Successfully listening on IP: fe80::df9f:69a5:88f:8bc%wlo1, port: UDP/53650
+(I) 2020-06-16T02:03:35 - Detected external IP: 27.147.191.184
+(C) 2020-06-16T02:06:07 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2020-06-16T02:06:07 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2020-06-16T02:24:13 - System network status changed to OFFLINE
+(I) 2020-06-16T02:24:18 - Successfully listening on IP: 192.168.1.100, port: TCP/53650
+(I) 2020-06-16T02:24:18 - Successfully listening on IP: 192.168.1.100, port: UDP/53650
+(I) 2020-06-16T02:24:18 - System network status changed to ONLINE
+(I) 2020-06-16T02:24:18 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-16T02:24:18 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(I) 2020-06-16T02:24:20 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: TCP/53650
+(I) 2020-06-16T02:24:20 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: UDP/53650
+(I) 2020-06-16T02:24:24 - Detected external IP: 103.102.43.25
+(N) 2020-06-16T10:24:39 - qBittorrent v4.2.5 started
+(N) 2020-06-16T10:24:39 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-16T10:24:40 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-16T10:24:41 - Peer ID: -qB4250-
+(N) 2020-06-16T10:24:41 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-16T10:24:41 - DHT support [ON]
+(I) 2020-06-16T10:24:41 - Local Peer Discovery support [ON]
+(I) 2020-06-16T10:24:41 - PeX support [ON]
+(I) 2020-06-16T10:24:41 - Anonymous mode [OFF]
+(I) 2020-06-16T10:24:41 - Encryption support [ON]
+(I) 2020-06-16T10:24:41 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-16T10:24:41 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-16T10:24:44 - Options were saved successfully.
+(I) 2020-06-16T10:24:45 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-16T10:24:45 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-16T10:24:45 - Successfully listening on IP: 192.168.1.100, port: TCP/53650
+(I) 2020-06-16T10:24:45 - Successfully listening on IP: 192.168.1.100, port: UDP/53650
+(I) 2020-06-16T10:24:45 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-16T10:24:45 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-16T10:24:45 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: TCP/53650
+(I) 2020-06-16T10:24:45 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: UDP/53650
+(I) 2020-06-16T10:24:45 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-16T10:24:45 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(I) 2020-06-16T10:24:45 - Detected external IP: 103.102.43.25
+(N) 2020-06-16T10:24:46 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-16T10:24:46 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-16T10:24:46 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-16T10:24:46 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-16T10:24:46 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-16T10:24:46 - 'The.Fault.in.Our.Stars.1994.1080p.BluRay.x265.10bit-Joy.mkv' restored.
+(N) 2020-06-16T10:24:46 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-06-16T10:24:46 - 'House MD Complete Season' restored.
+(N) 2020-06-16T10:24:46 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-16T10:24:46 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-16T10:24:46 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-06-16T10:24:46 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-16T10:24:46 - 'Funhouse (2019) [720p] [WEBRip] [YTS.MX]' restored.
+(N) 2020-06-16T10:24:46 - 'The Terminal (2004)' restored.
+(I) 2020-06-16T14:36:32 - System network status changed to OFFLINE
+(C) 2020-06-16T14:36:32 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-06-16T14:36:32 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(N) 2020-06-16T14:43:52 - qBittorrent v4.2.5 started
+(N) 2020-06-16T14:43:52 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-16T14:43:52 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-16T14:43:52 - Peer ID: -qB4250-
+(N) 2020-06-16T14:43:52 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-16T14:43:52 - DHT support [ON]
+(I) 2020-06-16T14:43:52 - Local Peer Discovery support [ON]
+(I) 2020-06-16T14:43:52 - PeX support [ON]
+(I) 2020-06-16T14:43:52 - Anonymous mode [OFF]
+(I) 2020-06-16T14:43:52 - Encryption support [ON]
+(I) 2020-06-16T14:43:52 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-16T14:43:52 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-16T14:43:59 - Options were saved successfully.
+(I) 2020-06-16T14:44:00 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-16T14:44:00 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-16T14:44:00 - Successfully listening on IP: 192.168.1.100, port: TCP/53650
+(I) 2020-06-16T14:44:00 - Successfully listening on IP: 192.168.1.100, port: UDP/53650
+(I) 2020-06-16T14:44:00 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-16T14:44:00 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-16T14:44:00 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: TCP/53650
+(I) 2020-06-16T14:44:00 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: UDP/53650
+(I) 2020-06-16T14:44:00 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-16T14:44:00 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(I) 2020-06-16T14:44:00 - Detected external IP: 103.102.43.25
+(N) 2020-06-16T14:44:01 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-16T14:44:01 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-06-16T14:44:01 - 'The Terminal (2004)' restored.
+(N) 2020-06-16T14:44:01 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-16T14:44:01 - 'House MD Complete Season' restored.
+(N) 2020-06-16T14:44:01 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-16T14:44:01 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-16T14:44:01 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-16T14:44:01 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-06-16T14:44:01 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-16T14:44:01 - 'The.Fault.in.Our.Stars.1994.1080p.BluRay.x265.10bit-Joy.mkv' restored.
+(N) 2020-06-16T14:44:01 - 'Funhouse (2019) [720p] [WEBRip] [YTS.MX]' restored.
+(N) 2020-06-16T14:44:01 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-16T14:44:01 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(C) 2020-06-16T18:25:09 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-06-16T18:25:25 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-06-16T18:25:25 - System network status changed to OFFLINE
+(I) 2020-06-16T18:25:33 - Successfully listening on IP: 192.168.1.100, port: TCP/53650
+(I) 2020-06-16T18:25:33 - Successfully listening on IP: 192.168.1.100, port: UDP/53650
+(I) 2020-06-16T18:25:33 - System network status changed to ONLINE
+(I) 2020-06-16T18:25:33 - Successfully listening on IP: 192.168.1.100, port: TCP/53650
+(I) 2020-06-16T18:25:33 - Successfully listening on IP: 192.168.1.100, port: UDP/53650
+(I) 2020-06-16T18:25:33 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-16T18:25:33 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(I) 2020-06-16T18:25:34 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: TCP/53650
+(I) 2020-06-16T18:25:34 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: UDP/53650
+(I) 2020-06-16T18:25:40 - Detected external IP: 103.102.43.1
+(I) 2020-06-16T18:25:40 - Detected external IP: 103.102.43.25
+(N) 2020-06-16T20:25:23 - qBittorrent v4.2.5 started
+(N) 2020-06-16T20:25:23 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-16T20:25:24 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-16T20:25:24 - Peer ID: -qB4250-
+(N) 2020-06-16T20:25:24 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-16T20:25:24 - DHT support [ON]
+(I) 2020-06-16T20:25:24 - Local Peer Discovery support [ON]
+(I) 2020-06-16T20:25:24 - PeX support [ON]
+(I) 2020-06-16T20:25:24 - Anonymous mode [OFF]
+(I) 2020-06-16T20:25:24 - Encryption support [ON]
+(I) 2020-06-16T20:25:24 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-16T20:25:24 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-16T20:25:26 - Options were saved successfully.
+(I) 2020-06-16T20:25:26 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-16T20:25:26 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-16T20:25:26 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-16T20:25:26 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-16T20:25:26 - Successfully listening on IP: 192.168.1.100, port: TCP/53650
+(I) 2020-06-16T20:25:26 - Successfully listening on IP: 192.168.1.100, port: UDP/53650
+(I) 2020-06-16T20:25:26 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-16T20:25:26 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(N) 2020-06-16T20:25:27 - 'The.Fault.in.Our.Stars.1994.1080p.BluRay.x265.10bit-Joy.mkv' restored.
+(N) 2020-06-16T20:25:27 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-16T20:25:27 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-16T20:25:27 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-16T20:25:27 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-16T20:25:27 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-06-16T20:25:27 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-06-16T20:25:27 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-16T20:25:27 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-16T20:25:27 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-16T20:25:27 - 'The Terminal (2004)' restored.
+(N) 2020-06-16T20:25:27 - 'House MD Complete Season' restored.
+(N) 2020-06-16T20:25:27 - 'Funhouse (2019) [720p] [WEBRip] [YTS.MX]' restored.
+(N) 2020-06-16T20:25:27 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(I) 2020-06-16T20:25:27 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: TCP/53650
+(I) 2020-06-16T20:25:27 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: UDP/53650
+(I) 2020-06-16T20:25:28 - Detected external IP: 103.102.43.25
+(C) 2020-06-16T21:57:03 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-06-16T21:57:03 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-06-16T21:57:08 - System network status changed to OFFLINE
+(I) 2020-06-16T21:57:12 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-16T21:57:12 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-16T21:57:12 - System network status changed to ONLINE
+(I) 2020-06-16T21:57:12 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-16T21:57:12 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-16T21:57:13 - Successfully listening on IP: fe80::df9f:69a5:88f:8bc%wlo1, port: TCP/53650
+(I) 2020-06-16T21:57:13 - Successfully listening on IP: fe80::df9f:69a5:88f:8bc%wlo1, port: UDP/53650
+(I) 2020-06-16T21:57:18 - Detected external IP: 27.147.191.184
+(C) 2020-06-16T21:59:48 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2020-06-16T21:59:48 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2020-06-16T22:02:04 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-16T22:02:04 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-16T22:02:04 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-16T22:02:04 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-16T22:02:04 - System network status changed to OFFLINE
+(I) 2020-06-16T22:02:22 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-16T22:02:22 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-16T22:02:22 - System network status changed to ONLINE
+(I) 2020-06-16T22:02:22 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-16T22:02:22 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-16T22:02:23 - Successfully listening on IP: fe80::df9f:69a5:88f:8bc%wlo1, port: TCP/53650
+(I) 2020-06-16T22:02:23 - Successfully listening on IP: fe80::df9f:69a5:88f:8bc%wlo1, port: UDP/53650
+(I) 2020-06-16T22:02:28 - Detected external IP: 27.147.191.184
+(C) 2020-06-16T22:04:58 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2020-06-16T22:04:58 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2020-06-16T23:26:05 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-16T23:26:05 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-16T23:26:05 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-16T23:26:05 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-16T23:26:05 - System network status changed to OFFLINE
+(I) 2020-06-16T23:26:07 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-16T23:26:07 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-16T23:26:07 - System network status changed to ONLINE
+(I) 2020-06-16T23:26:08 - Successfully listening on IP: fe80::df9f:69a5:88f:8bc%wlo1, port: TCP/53650
+(I) 2020-06-16T23:26:08 - Successfully listening on IP: fe80::df9f:69a5:88f:8bc%wlo1, port: UDP/53650
+(I) 2020-06-16T23:26:25 - Successfully listening on IP: 192.168.1.100, port: TCP/53650
+(I) 2020-06-16T23:26:25 - Successfully listening on IP: 192.168.1.100, port: UDP/53650
+(I) 2020-06-16T23:26:25 - Successfully listening on IP: 192.168.1.100, port: TCP/53650
+(I) 2020-06-16T23:26:25 - Successfully listening on IP: 192.168.1.100, port: UDP/53650
+(I) 2020-06-16T23:26:25 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-16T23:26:25 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(I) 2020-06-16T23:26:27 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: TCP/53650
+(I) 2020-06-16T23:26:27 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: UDP/53650
+(I) 2020-06-16T23:27:10 - Detected external IP: 103.102.43.25
+(N) 2020-06-17T16:20:41 - qBittorrent v4.2.5 started
+(N) 2020-06-17T16:20:41 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-17T16:20:42 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-17T16:20:42 - Peer ID: -qB4250-
+(N) 2020-06-17T16:20:42 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-17T16:20:42 - DHT support [ON]
+(I) 2020-06-17T16:20:42 - Local Peer Discovery support [ON]
+(I) 2020-06-17T16:20:42 - PeX support [ON]
+(I) 2020-06-17T16:20:42 - Anonymous mode [OFF]
+(I) 2020-06-17T16:20:42 - Encryption support [ON]
+(I) 2020-06-17T16:20:42 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-17T16:20:42 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-17T16:20:47 - Options were saved successfully.
+(I) 2020-06-17T16:20:48 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-17T16:20:48 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-17T16:20:48 - Successfully listening on IP: 192.168.1.100, port: TCP/53650
+(I) 2020-06-17T16:20:48 - Successfully listening on IP: 192.168.1.100, port: UDP/53650
+(I) 2020-06-17T16:20:48 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-17T16:20:48 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-17T16:20:48 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: TCP/53650
+(I) 2020-06-17T16:20:48 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: UDP/53650
+(I) 2020-06-17T16:20:48 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-17T16:20:48 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(I) 2020-06-17T16:20:48 - Detected external IP: 103.102.43.25
+(N) 2020-06-17T16:20:49 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-17T16:20:49 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-17T16:20:49 - 'Funhouse (2019) [720p] [WEBRip] [YTS.MX]' restored.
+(N) 2020-06-17T16:20:49 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-17T16:20:49 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-17T16:20:49 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-17T16:20:49 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-06-17T16:20:49 - 'The.Fault.in.Our.Stars.1994.1080p.BluRay.x265.10bit-Joy.mkv' restored.
+(N) 2020-06-17T16:20:49 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-17T16:20:49 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-17T16:20:49 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-17T16:20:49 - 'The Terminal (2004)' restored.
+(N) 2020-06-17T16:20:49 - 'House MD Complete Season' restored.
+(N) 2020-06-17T16:20:49 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-06-17T19:55:16 - qBittorrent v4.2.5 started
+(N) 2020-06-17T19:55:16 - Using config directory: /home/ankur/.config/qBittorrent/
+(N) 2020-06-17T19:55:21 - Download first and last piece first: Off, torrent: 'SEAL.Team.S03E18.iNTERNAL.480p.x264-mSD[eztv].mkv'
+(N) 2020-06-17T19:55:21 - 'SEAL.Team.S03E18.iNTERNAL.480p.x264-mSD[eztv].mkv' added to download list.
+(N) 2020-06-17T19:56:34 - qBittorrent v4.2.5 started
+(N) 2020-06-17T19:56:34 - Using config directory: /home/ankur/.config/qBittorrent/
+(N) 2020-06-17T19:56:35 - qBittorrent v4.2.5 started
+(N) 2020-06-17T19:56:35 - Using config directory: /home/ankur/.config/qBittorrent/
+(N) 2020-06-17T19:56:38 - Download first and last piece first: Off, torrent: 'SEAL.Team.S03E20.HDTV.x264-KILLERS[TGx]'
+(N) 2020-06-17T19:56:38 - 'SEAL.Team.S03E20.HDTV.x264-KILLERS[TGx]' added to download list.
+(N) 2020-06-17T19:56:38 - Download first and last piece first: Off, torrent: 'SEAL.Team.S03E19.720p.HDTV.x265-MiNX[TGx]'
+(N) 2020-06-17T19:56:38 - 'SEAL.Team.S03E19.720p.HDTV.x265-MiNX[TGx]' added to download list.
+(C) 2020-06-17T19:56:46 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-06-17T19:56:46 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-06-17T19:56:47 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-17T19:56:47 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-17T19:56:47 - Detected external IP: 27.147.191.184
+(I) 2020-06-17T19:56:49 - Successfully listening on IP: fe80::df9f:69a5:88f:8bc%wlo1, port: TCP/53650
+(I) 2020-06-17T19:56:49 - Successfully listening on IP: fe80::df9f:69a5:88f:8bc%wlo1, port: UDP/53650
+(C) 2020-06-17T19:59:23 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2020-06-17T19:59:23 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2020-06-17T20:28:49 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-17T20:28:49 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-17T20:28:51 - System network status changed to OFFLINE
+(I) 2020-06-17T20:28:57 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-17T20:28:57 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-17T20:28:57 - System network status changed to ONLINE
+(I) 2020-06-17T20:28:59 - Successfully listening on IP: fe80::df9f:69a5:88f:8bc%wlo1, port: TCP/53650
+(I) 2020-06-17T20:28:59 - Successfully listening on IP: fe80::df9f:69a5:88f:8bc%wlo1, port: UDP/53650
+(I) 2020-06-17T20:29:05 - Detected external IP: 27.147.191.184
+(C) 2020-06-17T20:31:33 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2020-06-17T20:31:33 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2020-06-17T20:33:31 - System network status changed to OFFLINE
+(I) 2020-06-17T20:33:38 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-17T20:33:38 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-17T20:33:38 - System network status changed to ONLINE
+(I) 2020-06-17T20:33:39 - Successfully listening on IP: 192.168.0.103, port: TCP/53650
+(I) 2020-06-17T20:33:39 - Successfully listening on IP: 192.168.0.103, port: UDP/53650
+(I) 2020-06-17T20:33:40 - Successfully listening on IP: fe80::df9f:69a5:88f:8bc%wlo1, port: TCP/53650
+(I) 2020-06-17T20:33:40 - Successfully listening on IP: fe80::df9f:69a5:88f:8bc%wlo1, port: UDP/53650
+(I) 2020-06-17T20:33:54 - Detected external IP: 27.147.191.184
+(C) 2020-06-17T20:36:15 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2020-06-17T20:36:15 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2020-06-17T22:24:41 - System network status changed to OFFLINE
+(I) 2020-06-17T22:24:45 - Successfully listening on IP: 192.168.1.100, port: TCP/53650
+(I) 2020-06-17T22:24:45 - Successfully listening on IP: 192.168.1.100, port: UDP/53650
+(I) 2020-06-17T22:24:45 - System network status changed to ONLINE
+(I) 2020-06-17T22:24:45 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-17T22:24:45 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(I) 2020-06-17T22:24:47 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: TCP/53650
+(I) 2020-06-17T22:24:47 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: UDP/53650
+(I) 2020-06-17T22:24:48 - Detected external IP: 103.102.43.25
+(N) 2020-06-18T01:23:40 - qBittorrent v4.2.5 started
+(N) 2020-06-18T01:23:40 - Using config directory: /home/ankur/.config/qBittorrent/
+(N) 2020-06-18T01:23:56 - Download first and last piece first: Off, torrent: 'Gulabo Sitabo (2020) Hindi 720p AMZN WEBRip ⭐1.1 GB⭐ DD-5.1 ESub x264 - Shadow (BonsaiHD)'
+(N) 2020-06-18T01:23:56 - 'Gulabo Sitabo (2020) Hindi 720p AMZN WEBRip ⭐1.1 GB⭐ DD-5.1 ESub x264 - Shadow (BonsaiHD)' added to download list.
+(N) 2020-06-18T15:24:02 - qBittorrent v4.2.5 started
+(N) 2020-06-18T15:24:03 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-18T15:24:03 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-18T15:24:03 - Peer ID: -qB4250-
+(N) 2020-06-18T15:24:03 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-18T15:24:03 - DHT support [ON]
+(I) 2020-06-18T15:24:03 - Local Peer Discovery support [ON]
+(I) 2020-06-18T15:24:03 - PeX support [ON]
+(I) 2020-06-18T15:24:03 - Anonymous mode [OFF]
+(I) 2020-06-18T15:24:03 - Encryption support [ON]
+(I) 2020-06-18T15:24:03 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-18T15:24:03 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-18T15:24:15 - Options were saved successfully.
+(I) 2020-06-18T15:24:16 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-18T15:24:16 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-18T15:24:16 - Successfully listening on IP: 192.168.1.100, port: TCP/53650
+(I) 2020-06-18T15:24:16 - Successfully listening on IP: 192.168.1.100, port: UDP/53650
+(I) 2020-06-18T15:24:16 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-18T15:24:16 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-18T15:24:16 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: TCP/53650
+(I) 2020-06-18T15:24:16 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: UDP/53650
+(I) 2020-06-18T15:24:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-18T15:24:16 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/53650
+(I) 2020-06-18T15:24:16 - Detected external IP: 103.102.43.25
+(N) 2020-06-18T15:24:18 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-18T15:24:18 - 'SEAL.Team.S03E18.iNTERNAL.480p.x264-mSD[eztv].mkv' restored.
+(N) 2020-06-18T15:24:18 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-18T15:24:18 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-18T15:24:18 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-18T15:24:18 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-18T15:24:18 - 'The.Fault.in.Our.Stars.1994.1080p.BluRay.x265.10bit-Joy.mkv' restored.
+(N) 2020-06-18T15:24:18 - 'House MD Complete Season' restored.
+(N) 2020-06-18T15:24:18 - 'SEAL.Team.S03E19.720p.HDTV.x265-MiNX[TGx]' restored.
+(N) 2020-06-18T15:24:18 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-06-18T15:24:18 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-18T15:24:18 - 'Gulabo Sitabo (2020) Hindi 720p AMZN WEBRip ⭐1.1 GB⭐ DD-5.1 ESub x264 - Shadow (BonsaiHD)' restored.
+(N) 2020-06-18T15:24:18 - 'Funhouse (2019) [720p] [WEBRip] [YTS.MX]' restored.
+(N) 2020-06-18T15:24:18 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-18T15:24:18 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-06-18T15:24:18 - 'SEAL.Team.S03E20.HDTV.x264-KILLERS[TGx]' restored.
+(N) 2020-06-18T15:24:18 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-18T15:24:18 - 'The Terminal (2004)' restored.
+(C) 2020-06-18T18:12:40 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-06-18T18:12:40 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-06-18T18:12:41 - System network status changed to OFFLINE
+(I) 2020-06-18T18:12:51 - Successfully listening on IP: 192.168.1.100, port: TCP/53650
+(I) 2020-06-18T18:12:51 - Successfully listening on IP: 192.168.1.100, port: UDP/53650
+(I) 2020-06-18T18:12:51 - System network status changed to ONLINE
+(I) 2020-06-18T18:12:52 - Successfully listening on IP: 192.168.1.100, port: TCP/53650
+(I) 2020-06-18T18:12:52 - Successfully listening on IP: 192.168.1.100, port: UDP/53650
+(I) 2020-06-18T18:12:52 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-18T18:12:52 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/49456
+(I) 2020-06-18T18:12:53 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: TCP/53650
+(I) 2020-06-18T18:12:53 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: UDP/53650
+(I) 2020-06-18T18:12:57 - Detected external IP: 103.102.43.17
+(N) 2020-06-18T18:42:00 - qBittorrent v4.2.5 started
+(N) 2020-06-18T18:42:00 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-18T18:42:00 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-18T18:42:00 - Peer ID: -qB4250-
+(N) 2020-06-18T18:42:00 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-18T18:42:00 - DHT support [ON]
+(I) 2020-06-18T18:42:00 - Local Peer Discovery support [ON]
+(I) 2020-06-18T18:42:00 - PeX support [ON]
+(I) 2020-06-18T18:42:00 - Anonymous mode [OFF]
+(I) 2020-06-18T18:42:00 - Encryption support [ON]
+(I) 2020-06-18T18:42:00 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-18T18:42:00 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-18T18:42:02 - Options were saved successfully.
+(I) 2020-06-18T18:42:03 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-18T18:42:03 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-18T18:42:03 - Successfully listening on IP: 192.168.1.100, port: TCP/53650
+(I) 2020-06-18T18:42:03 - Successfully listening on IP: 192.168.1.100, port: UDP/53650
+(I) 2020-06-18T18:42:03 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-18T18:42:03 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-18T18:42:03 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: TCP/53650
+(I) 2020-06-18T18:42:03 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: UDP/53650
+(I) 2020-06-18T18:42:03 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-18T18:42:03 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/49624
+(I) 2020-06-18T18:42:03 - Detected external IP: 103.102.43.17
+(N) 2020-06-18T18:42:03 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-06-18T18:42:03 - 'SEAL.Team.S03E19.720p.HDTV.x265-MiNX[TGx]' restored.
+(N) 2020-06-18T18:42:03 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-06-18T18:42:03 - 'House MD Complete Season' restored.
+(N) 2020-06-18T18:42:03 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-18T18:42:03 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-18T18:42:03 - 'SEAL.Team.S03E20.HDTV.x264-KILLERS[TGx]' restored.
+(N) 2020-06-18T18:42:03 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-18T18:42:03 - 'Funhouse (2019) [720p] [WEBRip] [YTS.MX]' restored.
+(N) 2020-06-18T18:42:03 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-18T18:42:03 - 'SEAL.Team.S03E18.iNTERNAL.480p.x264-mSD[eztv].mkv' restored.
+(N) 2020-06-18T18:42:03 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-18T18:42:03 - 'The Terminal (2004)' restored.
+(N) 2020-06-18T18:42:03 - 'The.Fault.in.Our.Stars.1994.1080p.BluRay.x265.10bit-Joy.mkv' restored.
+(N) 2020-06-18T18:42:03 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-18T18:42:03 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-18T18:42:03 - 'Gulabo Sitabo (2020) Hindi 720p AMZN WEBRip ⭐1.1 GB⭐ DD-5.1 ESub x264 - Shadow (BonsaiHD)' restored.
+(N) 2020-06-18T18:42:03 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-18T18:42:38 - qBittorrent v4.2.5 started
+(N) 2020-06-18T18:42:38 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-18T18:42:38 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-18T18:42:38 - Peer ID: -qB4250-
+(N) 2020-06-18T18:42:38 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-18T18:42:38 - DHT support [ON]
+(I) 2020-06-18T18:42:38 - Local Peer Discovery support [ON]
+(I) 2020-06-18T18:42:38 - PeX support [ON]
+(I) 2020-06-18T18:42:38 - Anonymous mode [OFF]
+(I) 2020-06-18T18:42:38 - Encryption support [ON]
+(I) 2020-06-18T18:42:38 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-18T18:42:38 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
+(N) 2020-06-18T18:42:39 - Options were saved successfully.
+(I) 2020-06-18T18:42:39 - Successfully listening on IP: 127.0.0.1, port: TCP/53650
+(I) 2020-06-18T18:42:39 - Successfully listening on IP: 127.0.0.1, port: UDP/53650
+(I) 2020-06-18T18:42:39 - Successfully listening on IP: 192.168.1.100, port: TCP/53650
+(I) 2020-06-18T18:42:39 - Successfully listening on IP: 192.168.1.100, port: UDP/53650
+(I) 2020-06-18T18:42:39 - Successfully listening on IP: ::1, port: TCP/53650
+(I) 2020-06-18T18:42:39 - Successfully listening on IP: ::1, port: UDP/53650
+(I) 2020-06-18T18:42:39 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: TCP/53650
+(I) 2020-06-18T18:42:39 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: UDP/53650
+(I) 2020-06-18T18:42:39 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-18T18:42:39 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/41106
+(N) 2020-06-18T18:42:39 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-06-18T18:42:39 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-06-18T18:42:39 - 'House MD Complete Season' restored.
+(N) 2020-06-18T18:42:39 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-06-18T18:42:39 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-06-18T18:42:39 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-06-18T18:42:39 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-06-18T18:42:39 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-06-18T18:42:39 - 'The Terminal (2004)' restored.
+(N) 2020-06-18T18:42:39 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-06-18T18:42:39 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-06-18T18:42:39 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-06-18T18:42:39 - 'Gulabo Sitabo (2020) Hindi 720p AMZN WEBRip ⭐1.1 GB⭐ DD-5.1 ESub x264 - Shadow (BonsaiHD)' restored.
+(N) 2020-06-18T18:42:39 - 'SEAL.Team.S03E18.iNTERNAL.480p.x264-mSD[eztv].mkv' restored.
+(N) 2020-06-18T18:42:39 - 'Funhouse (2019) [720p] [WEBRip] [YTS.MX]' restored.
+(N) 2020-06-18T18:42:39 - 'SEAL.Team.S03E20.HDTV.x264-KILLERS[TGx]' restored.
+(N) 2020-06-18T18:42:39 - 'SEAL.Team.S03E19.720p.HDTV.x265-MiNX[TGx]' restored.
+(N) 2020-06-18T18:42:39 - 'The.Fault.in.Our.Stars.1994.1080p.BluRay.x265.10bit-Joy.mkv' restored.
+(I) 2020-06-18T18:42:39 - Detected external IP: 103.102.43.17
+(C) 2020-06-18T20:28:45 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-06-18T20:28:45 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-06-18T20:28:48 - System network status changed to OFFLINE
+(I) 2020-06-18T20:28:56 - Successfully listening on IP: 192.168.1.100, port: TCP/53650
+(I) 2020-06-18T20:28:56 - Successfully listening on IP: 192.168.1.100, port: UDP/53650
+(I) 2020-06-18T20:28:56 - System network status changed to ONLINE
+(I) 2020-06-18T20:28:56 - Successfully listening on IP: 192.168.1.100, port: TCP/53650
+(I) 2020-06-18T20:28:56 - Successfully listening on IP: 192.168.1.100, port: UDP/53650
+(I) 2020-06-18T20:28:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/53650
+(I) 2020-06-18T20:28:56 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/42593
+(I) 2020-06-18T20:28:57 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: TCP/53650
+(I) 2020-06-18T20:28:57 - Successfully listening on IP: fe80::b165:4611:4b88:4f94%wlo1, port: UDP/53650
+(I) 2020-06-18T20:29:04 - Detected external IP: 103.102.43.17
+(I) 2020-06-18T21:44:00 - UPnP / NAT-PMP support [OFF]
+(N) 2020-06-18T23:48:49 - qBittorrent v4.2.5 started
+(N) 2020-06-18T23:48:49 - Using config directory: /home/ankur/.config/qBittorrent/
+(I) 2020-06-18T23:48:49 - Trying to listen on: 0.0.0.0:53650,[::]:53650
+(N) 2020-06-18T23:48:49 - Peer ID: -qB4250-
+(N) 2020-06-18T23:48:49 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-06-18T23:48:49 - DHT support [ON]
+(I) 2020-06-18T23:48:49 - Local Peer Discovery support [ON]
+(I) 2020-06-18T23:48:49 - PeX support [ON]
+(I) 2020-06-18T23:48:49 - Anonymous mode [OFF]
+(I) 2020-06-18T23:48:49 - Encryption support [ON]
+(I) 2020-06-18T23:48:49 - UPnP / NAT-PMP support [ON]
+(I) 2020-06-18T23:48:49 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 05:55:08 2020.
