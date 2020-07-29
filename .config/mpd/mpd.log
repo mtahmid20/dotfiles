@@ -16692,3 +16692,199 @@ Jul 26 23:47 : client: [1] opened from 127.0.0.1:33016
 Jul 26 23:48 : client: [2] opened from [::1]:34988
 Jul 26 23:48 : client: [2] closed
 Jul 26 23:54 : player: played "2010 - Blood Of The Nations/04 Blood Of The Nations.mp3"
+Jul 26 23:58 : client: [3] opened from [::1]:35298
+Jul 26 23:58 : client: [3] closed
+Jul 27 00:34 : client: [4] opened from 127.0.0.1:35980
+Jul 27 00:34 : player: played "2010 - Blood Of The Nations/05 Shades Of Death.mp3"
+Jul 27 00:34 : client: [4] closed
+Jul 27 00:47 : client: [5] opened from [::1]:38492
+Jul 27 00:47 : client: [5] closed
+Jul 27 02:45 : client: [1] closed
+Jul 27 02:45 : client: [0] closed
+Jul 27 02:45 : client: [6] opened from 127.0.0.1:37842
+Jul 27 02:45 : client: [7] opened from 127.0.0.1:37844
+Jul 27 02:49 : client: [6] closed
+Jul 27 02:49 : client: [7] closed
+Jul 27 02:49 : client: [8] opened from 127.0.0.1:37864
+Jul 27 02:49 : client: [9] opened from 127.0.0.1:37866
+Jul 27 02:50 : client: [10] opened from [::1]:39838
+Jul 27 02:50 : client: [10] closed
+Jul 27 02:53 : client: [9] closed
+Jul 27 02:53 : client: [8] closed
+Jul 27 02:53 : client: [11] opened from 127.0.0.1:37922
+Jul 27 02:53 : client: [12] opened from 127.0.0.1:37924
+Jul 27 02:53 : client: [11] closed
+Jul 27 02:53 : client: [12] closed
+Jul 27 02:53 : client: [13] opened from 127.0.0.1:37926
+Jul 27 02:53 : client: [14] opened from 127.0.0.1:37928
+Jul 27 02:53 : client: [13] closed
+Jul 27 02:53 : client: [14] closed
+Jul 27 02:53 : client: [15] opened from 127.0.0.1:37934
+Jul 27 02:53 : client: [16] opened from 127.0.0.1:37936
+Jul 27 02:58 : client: [15] closed
+Jul 27 02:58 : client: [16] closed
+Jul 27 02:59 : client: [17] opened from 127.0.0.1:38218
+Jul 27 02:59 : client: [18] opened from 127.0.0.1:38220
+Jul 27 03:02 : client: [17] closed
+Jul 27 03:02 : client: [18] closed
+Jul 27 03:03 : client: [19] opened from 127.0.0.1:38250
+Jul 27 03:03 : client: [20] opened from 127.0.0.1:38252
+Jul 27 03:04 : client: [19] closed
+Jul 27 03:04 : client: [20] closed
+Jul 27 03:04 : client: [21] opened from 127.0.0.1:38258
+Jul 27 03:04 : client: [22] opened from 127.0.0.1:38260
+Jul 27 03:05 : client: [21] closed
+Jul 27 03:05 : client: [22] closed
+Jul 27 03:05 : client: [23] opened from 127.0.0.1:38266
+Jul 27 03:05 : client: [24] opened from 127.0.0.1:38268
+Jul 27 03:06 : client: [24] closed
+Jul 27 03:06 : client: [23] closed
+Jul 27 03:06 : client: [25] opened from 127.0.0.1:38274
+Jul 27 03:06 : client: [26] opened from 127.0.0.1:38276
+Jul 27 03:07 : client: [25] closed
+Jul 27 03:07 : client: [26] closed
+Jul 27 03:07 : client: [27] opened from 127.0.0.1:38284
+Jul 27 03:07 : client: [28] opened from 127.0.0.1:38286
+Jul 27 03:08 : client: [27] closed
+Jul 27 03:08 : client: [28] closed
+Jul 27 16:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 16:06 : config: option 'device' on line 19 was not recognized
+Jul 27 16:06 : client: [0] opened from 127.0.0.1:51852
+Jul 27 16:06 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Jul 27 16:06 : client: [1] opened from 127.0.0.1:51854
+Jul 27 16:06 : client: [1] closed
+Jul 27 16:06 : client: [0] closed
+Jul 27 16:06 : client: [2] opened from 127.0.0.1:51856
+Jul 27 16:06 : client: [3] opened from 127.0.0.1:51858
+Jul 27 16:23 : client: [3] closed
+Jul 27 16:23 : client: [2] closed
+Jul 27 16:23 : client: [4] opened from 127.0.0.1:52084
+Jul 27 16:23 : client: [5] opened from 127.0.0.1:52086
+Jul 27 16:24 : client: [5] closed
+Jul 27 16:24 : client: [4] closed
+Jul 27 16:24 : client: [6] opened from 127.0.0.1:52092
+Jul 27 16:24 : client: [7] opened from 127.0.0.1:52094
+Jul 27 16:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 16:26 : config: option 'device' on line 19 was not recognized
+Jul 27 16:26 : client: [0] opened from 127.0.0.1:53600
+Jul 27 16:26 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Jul 27 16:26 : client: [1] opened from 127.0.0.1:53602
+Jul 27 16:36 : client: [2] opened from 127.0.0.1:53876
+Jul 27 16:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 16:36 : client: [2] closed
+Jul 27 16:36 : client: [3] opened from [::1]:48916
+Jul 27 16:36 : client: [3] closed
+Jul 27 20:24 : client: [0] closed
+Jul 27 20:24 : client: [1] closed
+Jul 27 20:24 : client: [4] opened from 127.0.0.1:55002
+Jul 27 20:24 : client: [5] opened from 127.0.0.1:55004
+Jul 27 20:35 : client: [4] closed
+Jul 27 20:35 : client: [5] closed
+Jul 27 20:35 : client: [6] opened from 127.0.0.1:55366
+Jul 27 20:35 : client: [7] opened from 127.0.0.1:55368
+Jul 27 20:36 : client: [8] opened from 127.0.0.1:55374
+Jul 27 20:36 : player: played "Downloads/Arbovirus - Bishesh Droshtobyo/3 Nilam.flac"
+Jul 27 20:36 : client: [8] closed
+Jul 27 20:36 : client: [9] opened from 127.0.0.1:55376
+Jul 27 20:36 : client: [9] closed
+Jul 27 20:36 : client: [10] opened from 127.0.0.1:55378
+Jul 27 20:37 : client: [10] closed
+Jul 27 20:38 : client: [11] opened from 127.0.0.1:55382
+Jul 27 20:38 : client: [11] closed
+Jul 27 20:40 : client: [12] opened from 127.0.0.1:55386
+Jul 27 20:40 : client: [12] closed
+Jul 27 20:57 : client: [7] closed
+Jul 27 20:57 : client: [6] closed
+Jul 27 20:58 : client: [13] opened from 127.0.0.1:55872
+Jul 27 20:58 : client: [14] opened from 127.0.0.1:55874
+Jul 27 21:10 : client: [13] closed
+Jul 27 21:10 : client: [14] closed
+Jul 27 21:10 : client: [15] opened from 127.0.0.1:56016
+Jul 27 21:10 : client: [16] opened from 127.0.0.1:56018
+Jul 27 21:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 21:14 : config: option 'device' on line 19 was not recognized
+Jul 27 21:14 : client: [0] opened from 127.0.0.1:58102
+Jul 27 21:14 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Jul 27 21:14 : client: [1] opened from 127.0.0.1:58104
+Jul 27 21:14 : client: [0] closed
+Jul 27 21:14 : client: [2] opened from 127.0.0.1:58106
+Jul 27 21:14 : client: [1] closed
+Jul 27 21:14 : client: [3] opened from 127.0.0.1:58108
+Jul 27 22:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 22:01 : config: option 'device' on line 19 was not recognized
+Jul 27 22:01 : client: [0] opened from 127.0.0.1:52874
+Jul 27 22:01 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Jul 27 22:01 : client: [1] opened from 127.0.0.1:52876
+Jul 27 22:01 : client: [0] closed
+Jul 27 22:01 : client: [2] opened from 127.0.0.1:52878
+Jul 27 22:01 : client: [1] closed
+Jul 27 22:01 : client: [3] opened from 127.0.0.1:52880
+Jul 27 22:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 22:04 : config: option 'device' on line 19 was not recognized
+Jul 27 22:04 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Jul 27 22:04 : client: [0] opened from 127.0.0.1:52894
+Jul 27 22:10 : client: [0] closed
+Jul 27 22:10 : client: [1] opened from 127.0.0.1:52916
+Jul 27 22:11 : client: [1] closed
+Jul 27 22:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 22:14 : config: option 'device' on line 19 was not recognized
+Jul 27 22:14 : client: [0] opened from 127.0.0.1:47926
+Jul 27 22:14 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Jul 27 22:14 : client: [1] opened from 127.0.0.1:47928
+Jul 27 22:14 : client: [0] closed
+Jul 27 22:14 : client: [2] opened from 127.0.0.1:47930
+Jul 27 22:14 : client: [1] closed
+Jul 27 22:14 : client: [3] opened from 127.0.0.1:47932
+Jul 27 22:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 22:15 : config: option 'device' on line 19 was not recognized
+Jul 27 22:15 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Jul 27 22:15 : client: [0] opened from 127.0.0.1:47946
+Jul 27 22:15 : client: [1] opened from 127.0.0.1:47948
+Jul 27 22:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 22:22 : config: option 'device' on line 19 was not recognized
+Jul 27 22:22 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Jul 27 22:22 : client: [0] opened from 127.0.0.1:48264
+Jul 27 22:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 22:25 : config: option 'device' on line 19 was not recognized
+Jul 27 22:25 : client: [0] opened from 127.0.0.1:48296
+Jul 27 22:25 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Jul 27 22:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 27 22:29 : config: option 'device' on line 19 was not recognized
+Jul 27 22:29 : client: [0] opened from 127.0.0.1:46534
+Jul 27 22:29 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Jul 27 22:29 : client: [1] opened from 127.0.0.1:46536
+Jul 27 22:29 : client: [0] closed
+Jul 27 22:29 : client: [2] opened from 127.0.0.1:46538
+Jul 27 22:29 : client: [1] closed
+Jul 27 22:29 : client: [3] opened from 127.0.0.1:46540
+Jul 27 22:29 : client: [2] closed
+Jul 27 22:29 : client: [4] opened from 127.0.0.1:46550
+Jul 27 22:29 : client: [3] closed
+Jul 27 22:29 : client: [5] opened from 127.0.0.1:46552
+Jul 28 01:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 28 01:32 : config: option 'device' on line 19 was not recognized
+Jul 28 01:32 : client: [0] opened from 127.0.0.1:47322
+Jul 28 01:32 : client: [1] opened from 127.0.0.1:47324
+Jul 28 01:32 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Jul 28 16:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 28 16:04 : config: option 'device' on line 19 was not recognized
+Jul 28 16:04 : client: [0] opened from 127.0.0.1:51910
+Jul 28 16:04 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Jul 28 16:04 : client: [1] opened from 127.0.0.1:51912
+Jul 28 16:04 : client: [0] closed
+Jul 28 16:04 : client: [2] opened from 127.0.0.1:51914
+Jul 28 16:04 : client: [1] closed
+Jul 28 16:04 : client: [3] opened from 127.0.0.1:51916
+Jul 29 01:17 : client: [2] closed
+Jul 29 01:17 : client: [3] closed
+Jul 29 12:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 29 12:05 : config: option 'device' on line 19 was not recognized
+Jul 29 12:05 : client: [0] opened from 127.0.0.1:37694
+Jul 29 12:05 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Jul 29 12:05 : client: [1] opened from 127.0.0.1:37696
+Jul 29 12:05 : client: [0] closed
+Jul 29 12:05 : client: [2] opened from 127.0.0.1:37698
+Jul 29 12:05 : client: [1] closed
+Jul 29 12:05 : client: [3] opened from 127.0.0.1:37700
+Jul 29 18:08 : client: [4] opened from [::1]:58740
+Jul 29 18:08 : client: [4] closed

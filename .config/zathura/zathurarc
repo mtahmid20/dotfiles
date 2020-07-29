@@ -1,4 +1,4 @@
-
+#
 map [fullscreen] j scroll down
 map [fullscreen] k scroll up
 map [fullscreen] h navigate previous

@@ -7,10 +7,11 @@ export ZSH="/home/tahmid/.oh-my-zsh"
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-#ZSH_THEME="refined"
+ZSH_THEME="refined"
 #ZSH_THEME="eastwood"
 #ZSH_THEME="bureau"
-ZSH_THEME="candy"
+#ZSH_THEME="candy"
+#ZSH_THEME="robbyrussell"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -124,9 +125,9 @@ bindkey '^ ' autosuggest-accept
 # ( ) # Hide shell job control messages.
 #(cat ~/.cache/wal/sequences &)
 # Alternative (blocks terminal for 0-3ms)
-##cat ~/.cache/wal/sequences
+cat ~/.cache/wal/sequences
 # To add support for TTYs this line can be optionally added.
-##source ~/.cache/wal/colors-tty.sh
+source ~/.cache/wal/colors-tty.sh
 
 # Ibus KDE
 #export GTK_IM_MODULE=ibus
