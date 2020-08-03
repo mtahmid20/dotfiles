@@ -8,15 +8,18 @@ Plug 'preservim/nerdtree'
 call plug#end()
 
 set mouse=a
-color nord
+let g:gruvbox_contrast_dark = 'soft'
+color gruvbox
 set background=dark
 syntax on
 set termguicolors
 hi! Normal ctermbg=NONE guibg=NONE
 hi! Normal ctermbg=NONE guibg=NONE
 set encoding=utf-8
-"set number relativenumber
-set number
+
+set number relativenumber
+"set number
+
 " Automatically delete all trailing whitespaces on save
     autocmd BufWritePre * %s/\s\+$//e
 " clipboard
@@ -28,11 +31,23 @@ set number
     set expandtab
     set smartindent
     set fileformat=unix
-    set nowrap
+    "set nowrap
 " Copy selected text to system clipboard (requires gvim/nvim/vim-x11 installed):
     vnoremap <C-c> "+y
     map <C-p> "+P
 
 " Replace all is aliased to X.
 	nnoremap X :%s//g<Left><Left>
+
+    " NERDTREE
     map <C-o> :NERDTreeToggle<CR>
+    let NERDTreeShowHidden=1
+
+
+
+
+
+
+
+
+
