@@ -9,10 +9,10 @@ export ZSH="/home/tahmid/.oh-my-zsh"
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 #ZSH_THEME="refined"
 #ZSH_THEME="eastwood"
-#ZSH_THEME="bureau"
+ZSH_THEME="bureau"
 #ZSH_THEME="candy"
 #ZSH_THEME="robbyrussell"
-ZSH_THEME="avit"
+#ZSH_THEME="avit"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"

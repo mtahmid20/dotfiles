@@ -48,8 +48,8 @@ exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 exec --no-startup-id mpd
 #exec --no-startup-id killall redshift; sleep 1; redshift -t 6400:4200
 exec_always --no-startup-id autotiling
-exec --no-startup-id "nitrogen --restore"
 exec --no-startup-id "wal -R"
+exec --no-startup-id "nitrogen --restore"
 exec --no-startup-id picom -b
 exec --no-startup-id "pactl set-sink-volume 0 50%"
 #exec --no-startup-id nm-applet

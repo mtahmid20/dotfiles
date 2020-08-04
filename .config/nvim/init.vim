@@ -1,5 +1,4 @@
 call plug#begin('~/.config/nvim/plugged')
-
 Plug 'ap/vim-css-color'
 Plug 'mboughaba/i3config.vim'
 Plug 'morhetz/gruvbox'
@@ -8,13 +7,16 @@ Plug 'preservim/nerdtree'
 call plug#end()
 
 set mouse=a
-let g:gruvbox_contrast_dark = 'soft'
-color gruvbox
+
+" Theme
+"let g:gruvbox_contrast_dark=soft
+colorscheme nord
 set background=dark
-syntax on
+hi! Normal ctermbg=NONE guibg=NONE
+hi! Normal ctermbg=NONE guibg=NONE
 set termguicolors
-hi! Normal ctermbg=NONE guibg=NONE
-hi! Normal ctermbg=NONE guibg=NONE
+
+syntax on
 set encoding=utf-8
 
 set number relativenumber
@@ -31,7 +33,8 @@ set number relativenumber
     set expandtab
     set smartindent
     set fileformat=unix
-    "set nowrap
+    set nowrap
+
 " Copy selected text to system clipboard (requires gvim/nvim/vim-x11 installed):
     vnoremap <C-c> "+y
     map <C-p> "+P
