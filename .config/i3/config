@@ -24,7 +24,6 @@ exec numlockx
 #Default Orientation vertical, horizontal, auto
 default_orientation horizontal
 
-
 focus_follows_mouse yes
 
 #window title alignment
@@ -44,7 +43,7 @@ floating_modifier $mod
 # Autostart applications
 
 
-exec_always --no-startup-id "killall polybar;sleep 1; ~/.config/polybar/launch.sh"
+exec_always --no-startup-id "~/.config/polybar/launch.sh"
 exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 exec --no-startup-id mpd
 #exec --no-startup-id killall redshift; sleep 1; redshift -t 6400:4200
@@ -70,7 +69,6 @@ bindsym $mod1+F4 kill
 bindsym $mod1+space exec rofi -show drun
 
 #SOUND
-
 #exec --no-startup-id pasystray
 #bindsym $mod+Ctrl+m exec terminal -e 'alsamixer'
 #exec --no-startup-id pulseaudio
