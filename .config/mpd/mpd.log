@@ -17305,3 +17305,1278 @@ Aug 04 23:25 : client: [34] opened from 127.0.0.1:34702
 Aug 04 23:27 : player: played "Bela Bose Hello 2441139 Bela Bose Tumi-(Mr-Jatt.com).mp3"
 Aug 04 23:31 : player: played "(webmusic.in)_Chyapta-Golap.mp3"
 Aug 04 23:35 : player: played "Mary Ann Chotto Beler Prem Amar Kalo Mem-(Mr-Jatt.com).mp3"
+Aug 05 09:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 05 09:58 : config: option 'device' on line 19 was not recognized
+Aug 05 09:58 : client: [0] opened from 127.0.0.1:42040
+Aug 05 09:58 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 05 09:58 : client: [1] opened from 127.0.0.1:42042
+Aug 05 09:58 : client: [0] closed
+Aug 05 09:58 : client: [2] opened from 127.0.0.1:42044
+Aug 05 09:58 : client: [1] closed
+Aug 05 09:58 : client: [3] opened from 127.0.0.1:42046
+Aug 05 09:59 : client: [2] closed
+Aug 05 09:59 : client: [3] closed
+Aug 05 09:59 : client: [4] opened from 127.0.0.1:42048
+Aug 05 09:59 : client: [5] opened from 127.0.0.1:42050
+Aug 05 10:00 : client: [5] closed
+Aug 05 10:00 : client: [4] closed
+Aug 05 10:00 : client: [6] opened from 127.0.0.1:42060
+Aug 05 10:00 : client: [7] opened from 127.0.0.1:42062
+Aug 05 10:00 : client: [7] closed
+Aug 05 10:00 : client: [6] closed
+Aug 05 10:00 : client: [8] opened from 127.0.0.1:42064
+Aug 05 10:00 : client: [9] opened from 127.0.0.1:42066
+Aug 05 10:01 : client: [9] closed
+Aug 05 10:01 : client: [8] closed
+Aug 05 10:01 : client: [10] opened from 127.0.0.1:42068
+Aug 05 10:01 : client: [11] opened from 127.0.0.1:42070
+Aug 05 10:01 : client: [10] closed
+Aug 05 10:01 : client: [11] closed
+Aug 05 10:01 : client: [12] opened from 127.0.0.1:42072
+Aug 05 10:01 : client: [13] opened from 127.0.0.1:42074
+Aug 05 10:02 : client: [12] closed
+Aug 05 10:02 : client: [13] closed
+Aug 05 10:02 : client: [14] opened from 127.0.0.1:42078
+Aug 05 10:02 : client: [15] opened from 127.0.0.1:42080
+Aug 05 10:02 : client: [15] closed
+Aug 05 10:02 : client: [14] closed
+Aug 05 10:02 : client: [16] opened from 127.0.0.1:42082
+Aug 05 10:02 : client: [17] opened from 127.0.0.1:42084
+Aug 05 10:02 : client: [18] opened from [::1]:42812
+Aug 05 10:02 : client: [18] closed
+Aug 05 10:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 05 10:02 : client: [17] closed
+Aug 05 10:02 : client: [16] closed
+Aug 05 10:02 : client: [19] opened from 127.0.0.1:42088
+Aug 05 10:02 : client: [20] opened from 127.0.0.1:42090
+Aug 05 10:03 : client: [20] closed
+Aug 05 10:03 : client: [19] closed
+Aug 05 10:03 : client: [21] opened from 127.0.0.1:42092
+Aug 05 10:03 : client: [22] opened from 127.0.0.1:42094
+Aug 05 10:03 : client: [21] closed
+Aug 05 10:03 : client: [22] closed
+Aug 05 10:03 : client: [23] opened from 127.0.0.1:42096
+Aug 05 10:03 : client: [24] opened from 127.0.0.1:42098
+Aug 05 10:04 : client: [23] closed
+Aug 05 10:04 : client: [24] closed
+Aug 05 10:04 : client: [25] opened from 127.0.0.1:42108
+Aug 05 10:04 : client: [26] opened from 127.0.0.1:42110
+Aug 05 10:04 : client: [26] closed
+Aug 05 10:04 : client: [25] closed
+Aug 05 10:04 : client: [27] opened from 127.0.0.1:42112
+Aug 05 10:04 : client: [28] opened from 127.0.0.1:42114
+Aug 05 10:05 : client: [28] closed
+Aug 05 10:05 : client: [27] closed
+Aug 05 10:05 : client: [29] opened from 127.0.0.1:42116
+Aug 05 10:05 : client: [30] opened from 127.0.0.1:42118
+Aug 05 10:05 : client: [30] closed
+Aug 05 10:05 : client: [29] closed
+Aug 05 10:05 : client: [31] opened from 127.0.0.1:42126
+Aug 05 10:05 : client: [32] opened from 127.0.0.1:42128
+Aug 05 10:06 : client: [32] closed
+Aug 05 10:06 : client: [31] closed
+Aug 05 10:06 : client: [33] opened from 127.0.0.1:42130
+Aug 05 10:06 : client: [34] opened from 127.0.0.1:42132
+Aug 05 10:06 : client: [34] closed
+Aug 05 10:06 : client: [33] closed
+Aug 05 10:06 : client: [35] opened from 127.0.0.1:42134
+Aug 05 10:06 : client: [36] opened from 127.0.0.1:42136
+Aug 05 10:07 : player: played "Bela Bose Hello 2441139 Bela Bose Tumi-(Mr-Jatt.com).mp3"
+Aug 05 10:09 : client: [35] closed
+Aug 05 10:09 : client: [36] closed
+Aug 05 10:09 : client: [37] opened from 127.0.0.1:42138
+Aug 05 10:09 : client: [38] opened from 127.0.0.1:42140
+Aug 05 10:09 : client: [37] closed
+Aug 05 10:09 : client: [38] closed
+Aug 05 10:09 : client: [39] opened from 127.0.0.1:42142
+Aug 05 10:09 : client: [40] opened from 127.0.0.1:42144
+Aug 05 10:09 : client: [40] closed
+Aug 05 10:09 : client: [39] closed
+Aug 05 10:09 : client: [41] opened from 127.0.0.1:42146
+Aug 05 10:09 : client: [42] opened from 127.0.0.1:42148
+Aug 05 10:09 : client: [42] closed
+Aug 05 10:09 : client: [41] closed
+Aug 05 10:10 : client: [43] opened from 127.0.0.1:42150
+Aug 05 10:10 : client: [44] opened from 127.0.0.1:42152
+Aug 05 10:10 : client: [44] closed
+Aug 05 10:10 : client: [43] closed
+Aug 05 10:10 : client: [45] opened from 127.0.0.1:42154
+Aug 05 10:10 : client: [46] opened from 127.0.0.1:42156
+Aug 05 10:10 : client: [45] closed
+Aug 05 10:10 : client: [46] closed
+Aug 05 10:10 : client: [47] opened from 127.0.0.1:42158
+Aug 05 10:10 : client: [48] opened from 127.0.0.1:42160
+Aug 05 10:11 : client: [49] opened from 127.0.0.1:42164
+Aug 05 10:11 : update: added Bleach/Nirvana - About A Girl.mp3
+Aug 05 10:11 : update: added Bleach/Nirvana - Big Cheese.mp3
+Aug 05 10:11 : update: added Bleach/Nirvana - Blew.mp3
+Aug 05 10:11 : update: added Bleach/Nirvana - Downer.mp3
+Aug 05 10:11 : update: added Bleach/Nirvana - Floyd The Barber.mp3
+Aug 05 10:11 : update: added Bleach/Nirvana - Love Buzz.mp3
+Aug 05 10:11 : update: added Bleach/Nirvana - Mr Moustache.mp3
+Aug 05 10:11 : update: added Bleach/Nirvana - Negative Creep.mp3
+Aug 05 10:11 : update: added Bleach/Nirvana - Paper Cuts.mp3
+Aug 05 10:11 : update: added Bleach/Nirvana - School.mp3
+Aug 05 10:11 : update: added Bleach/Nirvana - Scoff.mp3
+Aug 05 10:11 : update: added Bleach/Nirvana - Sifting.mp3
+Aug 05 10:11 : update: added Bleach/Nirvana - Swap Meet.mp3
+Aug 05 10:11 : update: added Incesticide/Nirvana - (New Wave) Polly - BBC Mark Goodier Session.mp3
+Aug 05 10:11 : update: added Incesticide/Nirvana - Aero Zeppelin.mp3
+Aug 05 10:11 : update: added Incesticide/Nirvana - Aneurysm.mp3
+Aug 05 10:11 : update: added Incesticide/Nirvana - Been A Son - BBC Mark Goodier Session.mp3
+Aug 05 10:11 : update: added Incesticide/Nirvana - Big Long Now.mp3
+Aug 05 10:11 : update: added Incesticide/Nirvana - Dive.mp3
+Aug 05 10:11 : update: added Incesticide/Nirvana - Downer.mp3
+Aug 05 10:11 : update: added Incesticide/Nirvana - Hairspray Queen.mp3
+Aug 05 10:11 : update: added Incesticide/Nirvana - Mexican Seafood.mp3
+Aug 05 10:11 : update: added Incesticide/Nirvana - Mollys Lips - BBC John Peel Session 1990.mp3
+Aug 05 10:11 : update: added Incesticide/Nirvana - Sliver.mp3
+Aug 05 10:11 : update: added Incesticide/Nirvana - Son Of A Gun - BBC John Peel Session 1990.mp3
+Aug 05 10:11 : update: added Incesticide/Nirvana - Stain.mp3
+Aug 05 10:11 : update: added Incesticide/Nirvana - Turnaround - BBC John Peel Session 1990.mp3
+Aug 05 10:11 : update: added /Bay of Bengal - Je Shohore Ami Nei.mp3
+Aug 05 10:11 : update: added /David Bowie - Heroes - 2017 Remaster.mp3
+Aug 05 10:11 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:11 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:11 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:11 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:11 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:11 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:11 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:11 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:11 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:11 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:11 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:11 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:11 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:11 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:11 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:11 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:11 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:11 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:11 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:11 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:11 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:11 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:11 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:11 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:11 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:11 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:11 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:11 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:11 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:11 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:11 : update: added /Eida - Aurora Dreams.mp3
+Aug 05 10:11 : update: added /Eida - Nightdriver.mp3
+Aug 05 10:11 : update: added /Evanescence - Bring Me To Life.mp3
+Aug 05 10:11 : update: added /Janis Joplin - Me and Bobby McGee.mp3
+Aug 05 10:11 : update: added /Lana Del Rey - Born To Die.mp3
+Aug 05 10:11 : update: added /Lana Del Rey - Carmen.mp3
+Aug 05 10:11 : update: added /Lana Del Rey - Cola.mp3
+Aug 05 10:11 : update: added /Lana Del Rey - Dark Paradise.mp3
+Aug 05 10:11 : update: added /Lana Del Rey - SUMMER WINE.mp3
+Aug 05 10:11 : update: added /Lana Del Rey - Summertime Sadness (Lana Del Rey Vs Cedric Gervais) - Cedric Gervais Remix.mp3
+Aug 05 10:11 : update: added /Lana Del Rey - Young And Beautiful.mp3
+Aug 05 10:11 : update: added /Meghdol - Esho Amar Shohore.mp3
+Aug 05 10:11 : update: added /Michael Bublé - Sway.mp3
+Aug 05 10:11 : update: added /MrKitty - After Dark.mp3
+Aug 05 10:11 : update: added /Nirvana - The Man Who Sold The World.mp3
+Aug 05 10:11 : update: added /Pink Floyd - Echoes.mp3
+Aug 05 10:11 : update: added /Poets of the Fall (Official) - Poets of the Fall - Carnival of Rust (Official Video w- Lyrics).mp3
+Aug 05 10:11 : update: added /Arctic Monkeys - Do I Wanna Know.mp3
+Aug 05 10:11 : update: added /The Cranberries - Dreams.mp3
+Aug 05 10:11 : update: added /The Cranberries - Linger.mp3
+Aug 05 10:11 : update: added /The Cranberries - Ode To My Family.mp3
+Aug 05 10:11 : update: added /The Cranberries - Promises.mp3
+Aug 05 10:11 : update: added /The Cranberries - Zombie.mp3
+Aug 05 10:11 : update: added /The Paul Butterfield Blues Band - One Night Stand.mp3
+Aug 05 10:11 : update: added /Yanni - Reflections of Passion.mp3
+Aug 05 10:11 : update: added /Yanni - Until the Last Moment - Live.mp3
+Aug 05 10:11 : player: played "(webmusic.in)_Chyapta-Golap.mp3"
+Aug 05 10:12 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:12 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:12 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:12 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:12 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:12 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:12 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:12 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:12 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:12 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:12 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:12 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:12 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:12 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:12 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:12 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:12 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:12 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:12 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:12 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:12 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:12 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:12 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:12 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:12 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:12 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:12 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:12 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:12 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:12 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:12 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:12 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:12 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:12 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:12 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:12 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:12 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:12 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:12 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:12 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:12 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:12 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:12 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:12 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:12 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:12 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:12 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:12 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:12 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:12 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:12 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:12 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:12 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:12 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:12 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:12 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:12 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:12 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:12 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:12 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:16 : update: removing 01. Uru Uru Mon (Amarsong.blogspot.Com).mp3
+Aug 05 10:16 : update: removing 02. Alo R Adhar (Amarsong.blogspot.Com).mp3
+Aug 05 10:16 : update: removing 04. Jak Na (Amarsong.blogspot.Com).mp3
+Aug 05 10:16 : update: removing 05. Golper Shuru (Odbhut Shei Cheleti) (Amarsong.blogspot.Com).mp3
+Aug 05 10:16 : update: removing 06. Majhe Majhe (Amarsong.blogspot.Com).mp3
+Aug 05 10:16 : update: removing 07. Abar (Amarsong.blogspot.Com).mp3
+Aug 05 10:16 : update: removing 08. Akasher Tara (Amarsong.blogspot.Com).mp3
+Aug 05 10:16 : update: removing 09. Shurjo (Amarsong.blogspot.Com).mp3
+Aug 05 10:16 : update: removing 10. Cancer (Amarsong.blogspot.Com).mp3
+Aug 05 10:16 : update: removing 12. Bonus Track (Banglalink Tune) (Amarsong.blogspot.Com).mp3
+Aug 05 10:16 : update: removing 03. Anmone 2 (Amarsong.blogspot.Com).mp3
+Aug 05 10:16 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:16 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:16 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:16 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:16 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:16 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:16 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:16 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:16 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:16 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:16 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:16 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:16 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:16 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:16 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:16 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:16 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:16 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:16 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:16 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:16 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:16 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:16 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:16 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:16 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:16 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:16 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:16 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:16 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:16 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:17 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:17 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:17 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:17 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:17 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:17 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:17 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:17 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:17 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:17 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:17 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:17 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:17 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:17 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:17 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:17 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:17 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:17 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:17 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:17 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:17 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:17 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:17 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:17 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:17 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:17 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:17 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:17 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:17 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:17 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:20 : update: removing Warfaze/Warfaze - Poth Chola/12 - Warfaze - Oshamajik (music.com.bd).mp3
+Aug 05 10:20 : update: removing Warfaze/Shotto by Warfaze/10. Warfaze - Banglalink Tune (music.com.bd).mp3
+Aug 05 10:20 : update: removing Warfaze/Shotto by Warfaze/09. Warfaze - Protikkha (music.com.bd).mp3
+Aug 05 10:20 : update: removing Warfaze/Shotto by Warfaze/08. Warfaze - Jonsrot (music.com.bd).mp3
+Aug 05 10:20 : update: removing Warfaze/Shotto by Warfaze/07. Warfaze - Projonmo 2012 (music.com.bd).mp3
+Aug 05 10:20 : update: removing Warfaze/Shotto by Warfaze/06. Warfaze - Shotto (music.com.bd).mp3
+Aug 05 10:20 : update: removing Warfaze/Shotto by Warfaze/05. Warfaze - Jedin (music.com.bd).mp3
+Aug 05 10:20 : update: removing Warfaze/Shotto by Warfaze/04. Warfaze - Purnota (music.com.bd).mp3
+Aug 05 10:20 : update: removing Warfaze/Shotto by Warfaze/03. Warfaze - Rupkotha (music.com.bd).mp3
+Aug 05 10:20 : update: removing Warfaze/Shotto by Warfaze/02. Warfaze - Na (music.com.bd).mp3
+Aug 05 10:20 : update: removing Warfaze/Shotto by Warfaze/01. Warfaze - Agami (music.com.bd).mp3
+Aug 05 10:20 : update: removing Warfaze/Warfaze - Moharaj (music.com.bd).mp3
+Aug 05 10:20 : update: removing Warfaze/Warfaze - Poth Chola/08 - Warfaze - Joto Dure (music.com.bd).mp3
+Aug 05 10:20 : update: removing Warfaze/Warfaze - Poth Chola/11 - Warfaze - Shomoy (music.com.bd).mp3
+Aug 05 10:20 : update: removing Warfaze/Warfaze - Poth Chola/10 - Warfaze - Asha (music.com.bd).mp3
+Aug 05 10:20 : update: removing Warfaze/Warfaze - Poth Chola/09 - Warfaze - Dhushor Manchitro (music.com.bd).mp3
+Aug 05 10:20 : update: removing Warfaze/Warfaze - Poth Chola/02 - Warfaze - Tomake (music.com.bd).mp3
+Aug 05 10:20 : update: removing Warfaze/Warfaze - Poth Chola/13 - Warfaze - Pothchola (music.com.bd).mp3
+Aug 05 10:20 : update: removing Warfaze/Warfaze - Poth Chola/07 - Warfaze - Shadhikhar (music.com.bd).mp3
+Aug 05 10:20 : update: removing Warfaze/Warfaze - Poth Chola/04 - Warfaze - Obak Bhalobasha (music.com.bd).mp3
+Aug 05 10:20 : update: removing Warfaze/Warfaze - Poth Chola/05 - Warfaze - Hotasha (music.com.bd).mp3
+Aug 05 10:20 : update: removing Warfaze/Warfaze - Poth Chola/06 - Warfaze - Nei Proyojon (music.com.bd).mp3
+Aug 05 10:20 : update: removing Warfaze/Warfaze - Poth Chola/03 - Warfaze - Omanush (music.com.bd).mp3
+Aug 05 10:20 : update: removing Warfaze/Warfaze - Poth Chola/01 - Warfaze - Boshey Achi (music.com.bd).mp3
+Aug 05 10:21 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 05 10:22 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 05 10:22 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 05 10:22 : player: played "Lana Del Rey - Cola.mp3"
+Aug 05 10:23 : client: [49] closed
+Aug 05 10:23 : client: [50] opened from 127.0.0.1:42280
+Aug 05 10:23 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 05 10:23 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 05 10:23 : update: removing Yanni - Reflections of Passion.mp3
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 05 10:23 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 05 10:23 : update: removing Yanni - Until the Last Moment - Live.mp3
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:23 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:23 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:23 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 05 10:24 : update: removing School-Arbovirus.mp3.mp3
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 05 10:24 : update: removing Janis Joplin - Me and Bobby McGee.mp3
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 05 10:24 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:24 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:24 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:24 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:26 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 05 10:26 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 05 10:26 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 05 10:26 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 05 10:26 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 05 10:26 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 05 10:26 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 05 10:26 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:26 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:26 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:26 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:26 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:26 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:26 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:26 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:26 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:26 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:26 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:26 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:26 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:26 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:26 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:26 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:26 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:26 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:26 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:26 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:26 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:26 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:26 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:26 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:26 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:26 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:26 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:26 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:26 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:26 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:26 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:26 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:26 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:26 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:26 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:26 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:26 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:26 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:26 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:26 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:26 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:26 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:26 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:26 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:26 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:26 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:26 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:26 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:26 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:26 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:26 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:26 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:26 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:26 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:26 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:26 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:26 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:26 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:26 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:26 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : update: updating /Hotel California - Eagles.mp3
+Aug 05 10:27 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 05 10:27 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 05 10:27 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 05 10:27 : client: [51] opened from [::1]:43018
+Aug 05 10:27 : client: [51] closed
+Aug 05 10:27 : player: played "Hotel California - Eagles.mp3"
+Aug 05 10:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 05 10:48 : config: option 'device' on line 19 was not recognized
+Aug 05 10:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 05 10:48 : client: [0] opened from 127.0.0.1:53778
+Aug 05 10:48 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 05 10:48 : client: [1] opened from 127.0.0.1:53780
+Aug 05 10:48 : client: [0] closed
+Aug 05 10:48 : client: [2] opened from 127.0.0.1:53782
+Aug 05 10:48 : client: [1] closed
+Aug 05 10:48 : client: [3] opened from 127.0.0.1:53784
+Aug 05 23:36 : client: [3] closed
+Aug 05 23:36 : client: [2] closed
+Aug 05 23:36 : client: [4] opened from 127.0.0.1:56644
+Aug 05 23:36 : client: [5] opened from 127.0.0.1:56646
+Aug 06 00:26 : client: [6] opened from [::1]:45790
+Aug 06 00:26 : client: [6] closed
+Aug 06 00:26 : client: [7] opened from [::1]:45792
+Aug 06 00:26 : client: [8] opened from [::1]:45794
+Aug 06 00:26 : client: [9] opened from [::1]:45796
+Aug 06 00:26 : client: [7] closed
+Aug 06 00:26 : client: [8] closed
+Aug 06 00:26 : client: [9] closed
+Aug 06 00:26 : client: [10] opened from [::1]:45798
+Aug 06 00:26 : client: [11] opened from [::1]:45800
+Aug 06 00:26 : client: [10] closed
+Aug 06 00:26 : client: [11] closed
+Aug 06 00:26 : client: [12] opened from [::1]:45802
+Aug 06 00:26 : client: [13] opened from [::1]:45804
+Aug 06 00:26 : client: [14] opened from [::1]:45806
+Aug 06 00:26 : client: [12] closed
+Aug 06 00:26 : client: [14] closed
+Aug 06 00:26 : client: [13] closed
+Aug 06 00:26 : client: [15] opened from [::1]:45808
+Aug 06 00:26 : client: [15] closed
+Aug 06 00:26 : client: [16] opened from [::1]:45810
+Aug 06 00:26 : client: [16] closed
+Aug 06 00:26 : client: [17] opened from [::1]:45812
+Aug 06 00:26 : client: [17] closed
+Aug 06 00:52 : client: [18] opened from [::1]:45910
+Aug 06 00:52 : client: [18] closed
+Aug 06 00:57 : player: played "Hotel California - Eagles.mp3"
+Aug 06 11:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 06 11:14 : config: option 'device' on line 19 was not recognized
+Aug 06 11:14 : client: [0] opened from 127.0.0.1:58936
+Aug 06 11:14 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 06 11:14 : client: [1] opened from 127.0.0.1:58938
+Aug 06 11:14 : client: [0] closed
+Aug 06 11:14 : client: [2] opened from 127.0.0.1:58940
+Aug 06 11:14 : client: [1] closed
+Aug 06 11:14 : client: [3] opened from 127.0.0.1:58942
+Aug 06 17:30 : client: [4] opened from 127.0.0.1:33796
+Aug 06 17:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 06 17:35 : player: played "Lana Del Rey - SUMMER WINE.mp3"
+Aug 06 17:38 : player: played "Michael Bublé - Sway.mp3"
+Aug 06 17:45 : player: played "Hotel California - Eagles.mp3"
+Aug 06 17:50 : player: played "Downloads/CONCLUSION/Odyssey [2019]/Odyssey - Conclusion.mp3"
+Aug 06 17:57 : player: played "Evanescence - Bring Me To Life.mp3"
+Aug 06 18:02 : player: played "Poets of the Fall (Official) - Poets of the Fall - Carnival of Rust (Official Video w- Lyrics).mp3"
+Aug 06 18:03 : client: [2] closed
+Aug 06 18:03 : client: [3] closed
+Aug 06 18:03 : client: [5] opened from 127.0.0.1:34258
+Aug 06 18:03 : client: [6] opened from 127.0.0.1:34260
+Aug 06 18:20 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 06 18:21 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 06 18:21 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 06 18:21 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 06 18:21 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 06 18:21 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 06 18:21 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 06 18:21 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 06 18:21 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 06 18:21 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 06 18:25 : player: played "Meghdol - Esho Amar Shohore.mp3"
+Aug 06 18:29 : player: played "The Cranberries - Dreams.mp3"
+Aug 06 18:33 : player: played "01. Reflections Of Passion.mp3"
+Aug 06 18:38 : player: played "The Cranberries - Ode To My Family.mp3"
+Aug 06 18:39 : client: [6] closed
+Aug 06 18:39 : player: played "The Cranberries - Zombie.mp3"
+Aug 06 18:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 06 18:41 : config: option 'device' on line 19 was not recognized
+Aug 06 18:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 06 18:41 : client: [0] opened from 127.0.0.1:46312
+Aug 06 18:41 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 06 18:41 : client: [0] closed
+Aug 06 18:41 : client: [1] opened from 127.0.0.1:46318
+Aug 06 18:42 : client: [1] closed
+Aug 06 18:42 : client: [2] opened from 127.0.0.1:46320
+Aug 06 18:42 : player: played "The Cranberries - Zombie.mp3"
+Aug 06 18:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 06 18:48 : config: option 'device' on line 19 was not recognized
+Aug 06 18:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 06 18:48 : client: [0] opened from 127.0.0.1:46096
+Aug 06 18:48 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 06 18:48 : client: [0] closed
+Aug 06 18:48 : client: [1] opened from 127.0.0.1:46102
+Aug 06 18:53 : player: played "The Cranberries - Zombie.mp3"
+Aug 06 18:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 06 18:55 : config: option 'device' on line 19 was not recognized
+Aug 06 18:55 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 06 18:55 : client: [0] opened from 127.0.0.1:34924
+Aug 06 18:55 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 06 18:55 : client: [1] opened from 127.0.0.1:34926
+Aug 06 18:55 : client: [0] closed
+Aug 06 18:55 : client: [2] opened from 127.0.0.1:34928
+Aug 06 18:55 : client: [1] closed
+Aug 06 18:55 : client: [3] opened from 127.0.0.1:34930
+Aug 06 19:20 : client: [4] opened from [::1]:48718
+Aug 06 19:20 : client: [4] closed
+Aug 06 19:20 : client: [5] opened from [::1]:48720
+Aug 06 19:20 : client: [5] closed
+Aug 06 19:27 : client: [6] opened from [::1]:48814
+Aug 06 19:27 : client: [6] closed
+Aug 06 19:27 : client: [7] opened from [::1]:48816
+Aug 06 19:27 : client: [7] closed
+Aug 06 19:27 : client: [8] opened from [::1]:48818
+Aug 06 19:27 : client: [8] closed
+Aug 06 19:27 : client: [9] opened from [::1]:48820
+Aug 06 19:27 : client: [9] closed
+Aug 06 19:41 : client: [3] closed
+Aug 06 19:41 : client: [2] closed
+Aug 06 19:42 : client: [10] opened from 127.0.0.1:35364
+Aug 06 19:42 : client: [11] opened from 127.0.0.1:35368
+Aug 06 19:42 : client: [11] closed
+Aug 06 19:42 : client: [10] closed
+Aug 06 19:42 : client: [12] opened from 127.0.0.1:35372
+Aug 06 19:42 : client: [13] opened from 127.0.0.1:35374
+Aug 06 19:55 : client: [13] closed
+Aug 06 19:55 : client: [12] closed
+Aug 06 19:55 : player: played "The Cranberries - Zombie.mp3"
+Aug 06 19:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 06 19:57 : config: option 'device' on line 19 was not recognized
+Aug 06 19:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 06 19:57 : client: [0] opened from 127.0.0.1:43606
+Aug 06 19:57 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 06 19:57 : client: [1] opened from 127.0.0.1:43608
+Aug 06 19:57 : client: [0] closed
+Aug 06 19:57 : client: [2] opened from 127.0.0.1:43614
+Aug 06 19:57 : client: [1] closed
+Aug 06 19:57 : client: [3] opened from 127.0.0.1:43616
+Aug 06 19:57 : client: [2] closed
+Aug 06 19:57 : client: [3] closed
+Aug 06 19:57 : client: [4] opened from 127.0.0.1:43618
+Aug 06 19:57 : client: [5] opened from 127.0.0.1:43620
+Aug 06 19:57 : client: [6] opened from [::1]:38740
+Aug 06 19:57 : client: [6] closed
+Aug 06 20:01 : player: played "The Cranberries - Zombie.mp3"
+Aug 07 00:29 : client: [4] closed
+Aug 07 00:29 : client: [5] closed
+Aug 07 00:29 : avahi: Client Disconnected, will reconnect shortly
+Aug 07 10:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 10:49 : config: option 'device' on line 19 was not recognized
+Aug 07 10:49 : client: [0] opened from 127.0.0.1:37494
+Aug 07 10:49 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 07 10:49 : client: [1] opened from 127.0.0.1:37500
+Aug 07 10:49 : client: [0] closed
+Aug 07 10:49 : client: [1] closed
+Aug 07 10:49 : client: [2] opened from 127.0.0.1:37502
+Aug 07 10:50 : client: [2] closed
+Aug 07 10:50 : client: [3] opened from 127.0.0.1:37504
+Aug 07 10:50 : client: [4] opened from 127.0.0.1:37506
+Aug 07 10:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 10:51 : config: option 'device' on line 19 was not recognized
+Aug 07 10:51 : client: [0] opened from 127.0.0.1:37512
+Aug 07 10:51 : client: [1] opened from 127.0.0.1:37514
+Aug 07 10:51 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 07 10:51 : client: [1] closed
+Aug 07 10:51 : client: [0] closed
+Aug 07 10:51 : client: [2] opened from 127.0.0.1:37516
+Aug 07 10:51 : client: [3] opened from 127.0.0.1:37518
+Aug 07 19:48 : client: [4] opened from [::1]:48186
+Aug 07 19:48 : client: [4] closed
+Aug 07 19:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 19:48 : client: [5] opened from [::1]:48188
+Aug 07 19:48 : client: [5] closed
+Aug 07 20:19 : client: [6] opened from [::1]:48294
+Aug 07 20:19 : client: [6] closed
+Aug 07 20:19 : client: [7] opened from [::1]:48296
+Aug 07 20:19 : client: [7] closed
+Aug 07 21:22 : client: [2] closed
+Aug 07 21:22 : client: [3] closed
+Aug 07 21:23 : player: played "Lana Del Rey - Born To Die.mp3"
+Aug 07 21:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 21:23 : config: option 'device' on line 19 was not recognized
+Aug 07 21:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 07 21:23 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 07 21:25 : client: [0] opened from 127.0.0.1:40492
+Aug 07 21:25 : client: [1] opened from 127.0.0.1:40494
+Aug 07 21:25 : client: [0] closed
+Aug 07 21:25 : client: [1] closed
+Aug 07 21:25 : client: [2] opened from 127.0.0.1:40500
+Aug 07 21:25 : client: [3] opened from 127.0.0.1:40502
+Aug 07 21:26 : client: [2] closed
+Aug 07 21:26 : client: [3] closed
+Aug 07 21:26 : client: [4] opened from 127.0.0.1:40504
+Aug 07 21:26 : client: [5] opened from 127.0.0.1:40506
+Aug 07 21:27 : client: [5] closed
+Aug 07 21:27 : client: [4] closed
+Aug 07 21:27 : client: [6] opened from 127.0.0.1:40518
+Aug 07 21:27 : client: [7] opened from 127.0.0.1:40520
+Aug 07 21:27 : client: [8] opened from [::1]:48684
+Aug 07 21:27 : client: [8] closed
+Aug 07 21:27 : client: [9] opened from [::1]:48686
+Aug 07 21:27 : client: [9] closed
+Aug 08 01:20 : client: [6] closed
+Aug 08 01:20 : client: [7] closed
+Aug 08 01:20 : player: played "Lana Del Rey - Born To Die.mp3"
+Aug 08 16:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 08 16:10 : config: option 'device' on line 19 was not recognized
+Aug 08 16:10 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 08 16:10 : client: [0] opened from 127.0.0.1:59426
+Aug 08 16:10 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 08 16:10 : client: [1] opened from 127.0.0.1:59432
+Aug 08 16:10 : client: [0] closed
+Aug 08 16:14 : client: [1] closed
+Aug 08 16:14 : client: [2] opened from 127.0.0.1:59452
+Aug 08 16:14 : client: [3] opened from 127.0.0.1:59454
+Aug 08 16:43 : client: [4] opened from [::1]:54422
+Aug 08 16:43 : client: [4] closed
+Aug 08 16:43 : client: [5] opened from [::1]:54424
+Aug 08 16:43 : client: [5] closed
+Aug 08 20:55 : client: [6] opened from [::1]:55046
+Aug 08 20:55 : client: [6] closed
+Aug 08 20:55 : client: [7] opened from [::1]:55048
+Aug 08 20:55 : client: [7] closed
+Aug 09 01:11 : player: played "Lana Del Rey - Born To Die.mp3"
+Aug 09 10:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 09 10:11 : config: option 'device' on line 19 was not recognized
+Aug 09 10:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 09 10:11 : client: [0] opened from 127.0.0.1:47758
+Aug 09 10:11 : client: [1] opened from 127.0.0.1:47760
+Aug 09 10:11 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 09 10:11 : client: [0] closed
+Aug 09 10:11 : client: [2] opened from 127.0.0.1:47766
+Aug 09 10:11 : client: [1] closed
+Aug 09 10:11 : client: [3] opened from 127.0.0.1:47768
+Aug 09 12:37 : client: [3] closed
+Aug 09 12:37 : client: [2] closed
+Aug 09 12:37 : client: [4] opened from 127.0.0.1:48650
+Aug 09 12:37 : client: [5] opened from 127.0.0.1:48652
+Aug 09 16:40 : client: [6] opened from [::1]:58024
+Aug 09 16:40 : client: [6] closed
+Aug 09 16:40 : client: [7] opened from [::1]:58032
+Aug 09 16:40 : client: [7] closed
+Aug 09 16:40 : client: [8] opened from [::1]:58034
+Aug 09 16:40 : client: [8] closed
+Aug 09 16:40 : client: [9] opened from [::1]:58038
+Aug 09 16:40 : client: [9] closed
+Aug 09 21:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 09 21:06 : config: option 'device' on line 19 was not recognized
+Aug 09 21:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 09 21:06 : client: [0] opened from 127.0.0.1:56120
+Aug 09 21:06 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 09 21:06 : client: [1] opened from 127.0.0.1:56122
+Aug 09 21:06 : client: [0] closed
+Aug 09 21:06 : client: [2] opened from 127.0.0.1:56128
+Aug 09 21:06 : client: [1] closed
+Aug 09 21:06 : client: [3] opened from 127.0.0.1:56130
+Aug 09 21:06 : client: [2] closed
+Aug 09 21:06 : client: [4] opened from 127.0.0.1:56132
+Aug 09 21:06 : client: [3] closed
+Aug 09 21:06 : client: [5] opened from 127.0.0.1:56134
+Aug 09 22:01 : client: [6] opened from [::1]:41590
+Aug 09 22:01 : client: [6] closed
+Aug 09 22:05 : player: played "Lana Del Rey - Born To Die.mp3"
+Aug 09 22:05 : client: [7] opened from 127.0.0.1:56928
+Aug 09 22:09 : player: played "Lana Del Rey - Cola.mp3"
+Aug 09 22:13 : player: played "Lana Del Rey - Dark Paradise.mp3"
+Aug 09 22:24 : client: [7] closed
+Aug 09 22:24 : client: [8] opened from 127.0.0.1:57040
+Aug 09 22:24 : client: [8] closed
+Aug 09 22:25 : client: [9] opened from 127.0.0.1:57042
+Aug 09 22:25 : client: [9] closed
+Aug 09 22:25 : client: [10] opened from 127.0.0.1:57044
+Aug 09 22:25 : client: [10] closed
+Aug 09 22:25 : client: [11] opened from 127.0.0.1:57048
+Aug 09 22:25 : client: [12] opened from 127.0.0.1:57050
+Aug 09 22:25 : client: [12] closed
+Aug 09 22:25 : client: [11] closed
+Aug 09 22:25 : client: [13] opened from 127.0.0.1:57052
+Aug 09 22:25 : client: [13] closed
+Aug 09 22:25 : client: [14] opened from 127.0.0.1:57054
+Aug 09 22:25 : client: [15] opened from 127.0.0.1:57056
+Aug 09 22:25 : client: [14] closed
+Aug 09 22:25 : client: [15] closed
+Aug 09 22:28 : client: [16] opened from 127.0.0.1:57164
+Aug 09 22:28 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 09 22:28 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 09 22:28 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 09 22:28 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 09 22:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 09 22:29 : player: played "Downloads/38. Dream Theater -  Studio Discography (1989-2019)/2003 - Train of Thought/01 As I Am.mp3"
+Aug 09 22:35 : client: [16] closed
+Aug 09 22:35 : client: [17] opened from [::1]:41902
+Aug 09 22:36 : client: [17] closed
+Aug 09 22:36 : client: [18] opened from [::1]:41908
+Aug 09 22:36 : client: [19] opened from [::1]:41910
+Aug 09 22:36 : client: [18] closed
+Aug 09 22:37 : client: [19] closed
+Aug 09 22:37 : client: [20] opened from [::1]:41914
+Aug 09 22:38 : client: [20] closed
+Aug 09 22:38 : client: [21] opened from [::1]:41916
+Aug 09 22:39 : client: [21] closed
+Aug 09 22:39 : client: [22] opened from [::1]:41924
+Aug 09 22:39 : client: [23] opened from [::1]:41926
+Aug 09 22:39 : client: [23] closed
+Aug 09 22:39 : client: [22] closed
+Aug 09 22:39 : client: [24] opened from [::1]:41928
+Aug 09 22:40 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 09 22:40 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 09 22:40 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 09 22:40 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 09 22:40 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 09 22:40 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 09 22:40 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 09 22:40 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 09 22:40 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 09 22:40 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 09 22:40 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 09 22:40 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 09 22:40 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 09 22:40 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 09 22:40 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 09 22:40 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 09 22:40 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 09 22:43 : client: [25] opened from [::1]:41950
+Aug 09 22:43 : client: [25] closed
+Aug 09 22:43 : client: [26] opened from [::1]:41952
+Aug 09 22:43 : client: [26] closed
+Aug 09 22:56 : player: played "Downloads/Best Of Nachiketa [16 Bit Lossless FLAC]/O Daktar.flac"
+Aug 09 22:56 : client: [24] closed
+Aug 09 23:36 : client: [5] closed
+Aug 09 23:36 : client: [4] closed
+Aug 09 23:36 : client: [27] opened from 127.0.0.1:57806
+Aug 09 23:36 : client: [28] opened from 127.0.0.1:57808
+Aug 09 23:42 : client: [27] closed
+Aug 09 23:42 : client: [28] closed
+Aug 09 23:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 09 23:45 : config: option 'device' on line 19 was not recognized
+Aug 09 23:45 : client: [0] opened from 127.0.0.1:43544
+Aug 09 23:45 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 09 23:45 : client: [1] opened from 127.0.0.1:43546
+Aug 09 23:45 : client: [0] closed
+Aug 09 23:45 : client: [2] opened from 127.0.0.1:43552
+Aug 09 23:45 : client: [1] closed
+Aug 09 23:45 : client: [3] opened from 127.0.0.1:43554
+Aug 09 23:45 : client: [2] closed
+Aug 09 23:45 : client: [4] opened from 127.0.0.1:43556
+Aug 09 23:45 : client: [3] closed
+Aug 09 23:45 : client: [5] opened from 127.0.0.1:43558
+Aug 09 23:45 : client: [4] closed
+Aug 09 23:45 : client: [5] closed
+Aug 09 23:45 : client: [6] opened from 127.0.0.1:43564
+Aug 09 23:45 : client: [7] opened from 127.0.0.1:43566
+Aug 10 00:06 : client: [7] closed
+Aug 10 00:06 : client: [6] closed
+Aug 10 00:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 00:09 : config: option 'device' on line 19 was not recognized
+Aug 10 00:09 : client: [0] opened from 127.0.0.1:50134
+Aug 10 00:09 : client: [1] opened from 127.0.0.1:50136
+Aug 10 00:09 : client: [0] closed
+Aug 10 00:09 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 10 00:09 : client: [2] opened from 127.0.0.1:50142
+Aug 10 00:09 : client: [1] closed
+Aug 10 00:09 : client: [3] opened from 127.0.0.1:50144
+Aug 10 00:09 : client: [2] closed
+Aug 10 00:09 : client: [4] opened from 127.0.0.1:50146
+Aug 10 00:09 : client: [3] closed
+Aug 10 00:09 : client: [5] opened from 127.0.0.1:50148
+Aug 10 00:09 : client: [4] closed
+Aug 10 00:09 : client: [5] closed
+Aug 10 00:09 : client: [6] opened from 127.0.0.1:50156
+Aug 10 00:09 : client: [7] opened from 127.0.0.1:50154
+Aug 10 00:12 : client: [6] closed
+Aug 10 12:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 12:06 : config: option 'device' on line 19 was not recognized
+Aug 10 12:06 : client: [0] opened from 127.0.0.1:48654
+Aug 10 12:06 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 10 12:06 : client: [1] opened from 127.0.0.1:48656
+Aug 10 12:06 : client: [0] closed
+Aug 10 12:06 : client: [2] opened from 127.0.0.1:48662
+Aug 10 12:06 : client: [1] closed
+Aug 10 12:06 : client: [3] opened from 127.0.0.1:48664
+Aug 10 12:24 : client: [2] closed
+Aug 10 12:24 : client: [3] closed
+Aug 10 12:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 12:26 : config: option 'device' on line 19 was not recognized
+Aug 10 12:26 : client: [0] opened from 127.0.0.1:37322
+Aug 10 12:26 : client: [1] opened from 127.0.0.1:37324
+Aug 10 12:26 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 10 12:26 : client: [0] closed
+Aug 10 12:26 : client: [2] opened from 127.0.0.1:37330
+Aug 10 12:26 : client: [1] closed
+Aug 10 12:26 : client: [3] opened from 127.0.0.1:37332
+Aug 10 12:26 : client: [3] closed
+Aug 10 12:26 : client: [2] closed
+Aug 10 12:26 : client: [4] opened from 127.0.0.1:37334
+Aug 10 12:26 : client: [5] opened from 127.0.0.1:37336
+Aug 10 13:28 : client: [6] opened from [::1]:49234
+Aug 10 13:28 : client: [6] closed
+Aug 10 13:28 : client: [7] opened from [::1]:49236
+Aug 10 13:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 13:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 13:34 : player: played "MrKitty - After Dark.mp3"
+Aug 10 13:54 : player: played "12 - Marvin Gaye, Tammi Terrell - Ain't No Mountain High Enough - Stereo Version.flac"
+Aug 10 14:10 : client: [8] opened from [::1]:49428
+Aug 10 14:10 : client: [8] closed
+Aug 10 14:14 : player: played "MrKitty - After Dark.mp3"
+Aug 10 14:18 : player: played "Eida - Aurora Dreams.mp3"
+Aug 10 14:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 14:27 : config: option 'device' on line 19 was not recognized
+Aug 10 14:27 : client: [0] opened from 127.0.0.1:45174
+Aug 10 14:27 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 10 14:27 : client: [1] opened from 127.0.0.1:45176
+Aug 10 14:27 : client: [0] closed
+Aug 10 14:27 : client: [2] opened from 127.0.0.1:45182
+Aug 10 14:27 : client: [1] closed
+Aug 10 14:27 : client: [3] opened from 127.0.0.1:45184
+Aug 10 14:29 : client: [4] opened from [::1]:53864
+Aug 10 14:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 14:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 14:29 : client: [4] closed
+Aug 10 14:33 : player: played "Eida - Aurora Dreams.mp3"
+Aug 10 14:33 : client: [5] opened from [::1]:53962
+Aug 10 14:33 : client: [5] closed
+Aug 10 14:37 : player: played "MrKitty - After Dark.mp3"
+Aug 10 14:40 : player: played "12 - Marvin Gaye, Tammi Terrell - Ain't No Mountain High Enough - Stereo Version.flac"
+Aug 10 14:44 : player: played "Eida - Aurora Dreams.mp3"
+Aug 10 14:49 : client: [2] closed
+Aug 10 14:49 : client: [3] closed
+Aug 10 15:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 15:03 : config: option 'device' on line 19 was not recognized
+Aug 10 15:03 : client: [0] opened from 127.0.0.1:37102
+Aug 10 15:03 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 10 15:03 : client: [1] opened from 127.0.0.1:37104
+Aug 10 15:03 : client: [0] closed
+Aug 10 15:03 : client: [2] opened from 127.0.0.1:37110
+Aug 10 15:03 : client: [1] closed
+Aug 10 15:03 : client: [3] opened from 127.0.0.1:37112
+Aug 10 15:48 : client: [3] closed
+Aug 10 16:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 16:58 : config: option 'device' on line 19 was not recognized
+Aug 10 16:58 : client: [0] opened from 127.0.0.1:56664
+Aug 10 16:58 : client: [1] opened from 127.0.0.1:56666
+Aug 10 16:58 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 10 16:58 : client: [0] closed
+Aug 10 16:58 : client: [2] opened from 127.0.0.1:56672
+Aug 10 16:58 : client: [1] closed
+Aug 10 16:58 : client: [3] opened from 127.0.0.1:56674
+Aug 10 16:58 : client: [2] closed
+Aug 10 16:58 : client: [4] opened from 127.0.0.1:56716
+Aug 10 16:58 : client: [3] closed
+Aug 10 16:58 : client: [5] opened from 127.0.0.1:56718
+Aug 10 16:58 : client: [4] closed
+Aug 10 16:58 : client: [5] closed
+Aug 10 16:58 : client: [6] opened from 127.0.0.1:56804
+Aug 10 16:58 : client: [7] opened from 127.0.0.1:56802
+Aug 10 19:07 : client: [7] closed
+Aug 10 19:07 : client: [6] closed
+Aug 10 19:07 : client: [8] opened from 127.0.0.1:57276
+Aug 10 19:07 : client: [9] opened from 127.0.0.1:57278
+Aug 10 19:17 : client: [10] opened from [::1]:37882
+Aug 10 19:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 19:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 19:22 : player: played "02 Backstreet Boys - Everybody (Backstreet's Back).mp3"
+Aug 10 19:26 : player: played "03 Backstreet Boys - As Long As You Love Me.mp3"
+Aug 10 19:30 : player: played "04 Backstreet Boys - Show Me The Meaning Of Being Lonely.mp3"
+Aug 10 19:34 : player: played "07 Backstreet Boys - Larger Than Life.mp3"
+Aug 10 19:37 : player: played "10 Backstreet Boys - Shape Of My Heart.mp3"
+Aug 10 19:39 : client: [11] opened from [::1]:37944
+Aug 10 19:39 : client: [11] closed
+Aug 10 19:39 : client: [12] opened from [::1]:37946
+Aug 10 19:39 : client: [12] closed
+Aug 10 19:42 : player: played "02 Backstreet Boys - Everybody (Backstreet's Back).mp3"
+Aug 10 19:46 : player: played "03 Backstreet Boys - As Long As You Love Me.mp3"
+Aug 10 19:50 : player: played "04 Backstreet Boys - Show Me The Meaning Of Being Lonely.mp3"
+Aug 10 19:54 : player: played "07 Backstreet Boys - Larger Than Life.mp3"
+Aug 10 19:58 : player: played "10 Backstreet Boys - Shape Of My Heart.mp3"
+Aug 10 20:02 : client: [10] closed
+Aug 10 20:04 : player: played "01 - Blue Swede - Hooked On A Feeling.flac"

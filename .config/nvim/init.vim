@@ -9,16 +9,15 @@ call plug#end()
 set mouse=a
 
 " Theme
-"let g:gruvbox_contrast_dark=soft
-colorscheme nord
+colorscheme gruvbox
 set background=dark
-hi! Normal ctermbg=NONE guibg=NONE
-hi! Normal ctermbg=NONE guibg=NONE
 set termguicolors
 
 syntax on
 set encoding=utf-8
 
+hi! Normal ctermbg=NONE guibg=NONE
+hi! Normal ctermbg=NONE guibg=NONE
 set number relativenumber
 "set number
 

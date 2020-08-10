@@ -1,54 +1,44 @@
-### Behavior ###
-mpd_music_dir = "/mnt/hdd/music"
-mpd_host = "127.0.0.1"
+[mpd]
+mpd_music_dir = "/mnt/hdd/music/"
+mpd_host = "localhost"
 mpd_port = "6600"
-playlist_shorten_total_times = "yes"
-follow_now_playing_lyrics = "yes"
-locked_screen_width_part = "60"
-external_editor = "nvim"
-message_delay_time = 1
-autocenter_mode = "no"
-centered_cursor = "no"
-ignore_leading_the = "no"
-allow_for_physical_item_deletion = "no"
+mpd_crossfade_time = "2"
 
-# Scripts #
-#execute_on_song_change = "~/.ncmpcpp/notify.sh"
+[visualizer]
+visualizer_fifo_path = "/tmp/mpd.fifo"
+visualizer_in_stereo = "no"
+visualizer_type = "spectrum"
+visualizer_output_name = "my_fifo"
+visualizer_look = "●┃"
+visualizer_color = "default"
 
-### Appearance ###
-colors_enabled = "yes"
-playlist_display_mode = "columns"
-user_interface = "classic"
-song_window_title_format = "mpd » {%a - }{%t}|{%f}"
+[header]
+header_visibility = "no"
+header_window_color = "default"
+volume_color = "default"
+state_line_color = "black"
+
+[playlist]
+playlist_display_mode = "classic"
+song_list_format = "{{%a - %t}|{%f}}{$R%l}"
+now_playing_prefix = "$b$5"
+now_playing_suffix = "$/b$9"
+
+[statusbar]
+progressbar_look = "─╼ "
+progressbar_color = "default"
 statusbar_visibility = "yes"
-header_visibility = "yes"
-titles_visibility = "yes"
-browser_display_mode = "columns"
-search_engine_display_mode = "columns"
-playlist_editor_display_mode = "columns"
-display_bitrate = "no"
-display_remaining_time = "no"
+statusbar_color = "default"
+song_status_format = "{{%a{ - %t}}|{ - %f}{ - %b{ (%y)}}}"
 
-# Progress bar #
-progressbar_look = ─>>
-progressbar_color = "black"
-progressbar_elapsed_color = "blue"
+[library]
+song_library_format = "{{%a - %t}|{%f}}{$R%l}"
+empty_tag_color = "default"
 
-# Song status #
-now_playing_prefix = "$b"
-now_playing_suffix = "$/b"
-song_status_format = "$b$5%t$/b {$8by} $b$6%a$8$/b"
+[global]
+colors_enabled = "yes"
+main_window_color = "default"
+centered_cursor = "yes"
+enable_window_title = "yes"
+external_editor = "nvim"
 
-# Header #
-alternative_header_second_line_format =
-
-# Song list #
-song_list_format = "{$8%a ⠂ }{%t}$R{%l}"
-
-# Playlist #
-#song_columns_list_format = "(45)[red]{t} (30)[yellow]{a} (25)[cyan]{b}"
-song_columns_list_format = "(50)[blue]{a} (50)[cyan]{t}"
-
-# Colors #
-main_window_highlight_color = "cyan"
-main_window_color = "blue"

@@ -8,11 +8,10 @@ export ZSH="/home/tahmid/.oh-my-zsh"
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 #ZSH_THEME="refined"
-#ZSH_THEME="eastwood"
-ZSH_THEME="bureau"
-#ZSH_THEME="candy"
-#ZSH_THEME="robbyrussell"
 #ZSH_THEME="avit"
+#ZSH_THEME="bureau"
+ZSH_THEME="candy"
+#ZSH_THEME="robbyrussell"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"

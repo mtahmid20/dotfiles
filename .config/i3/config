@@ -66,7 +66,7 @@ bindsym $mod+q kill
 bindsym $mod1+F4 kill
 
 # start program launcher
-bindsym $mod1+space exec rofi -show drun
+bindsym $mod1+space exec rofi -show drun -theme Monokai
 
 #SOUND
 #exec --no-startup-id pasystray
@@ -298,7 +298,7 @@ bindsym $mod1+Shift+F10 move container to workspace $ws20; workspace $ws20
 assign [class="Pcmanfm|Thunar|krusader|Engrampa|Fsearch"] $ws3
 assign [class="Gedit|code-oss|Atom"] $ws4
 assign [class="qBittorrent"] $ws8
-assign [class="vlc|Io.github.celluloid_player.Celluloid|mpv"] $ws5
+assign [class="vlc|Io.github.celluloid_player.Celluloid|mpv"] $ws15
 assign [class="openshot|Gimp|audacity"] $ws6
 assign [class="Lxappearance|Kvantum Manager|Manjaro Settings Manager"] $ws7
 assign [class="(?i)virtualbox"] $ws9
