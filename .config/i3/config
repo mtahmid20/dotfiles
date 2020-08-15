@@ -19,7 +19,7 @@ exec numlockx
 
 #Window Properties
 #Maximum floating window size
-#floating_maximum_size 1050 x 550
+floating_maximum_size 1050 x 600
 
 #Default Orientation vertical, horizontal, auto
 default_orientation horizontal
@@ -41,22 +41,19 @@ font pango:JetBrains Mono 11
 floating_modifier $mod
 
 # Autostart applications
-
-
 exec_always --no-startup-id "~/.config/polybar/launch.sh"
 exec --no-startup-id /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1
 exec --no-startup-id mpd
 #exec --no-startup-id killall redshift; sleep 1; redshift -t 6400:4200
 exec_always --no-startup-id autotiling
-exec --no-startup-id "wal -R"
-exec --no-startup-id "nitrogen --restore"
+exec --no-startup-id wal -R
+exec --no-startup-id nitrogen --restore
 exec --no-startup-id picom -b
 exec --no-startup-id "pactl set-sink-volume 0 50%"
 #exec --no-startup-id nm-applet
-#exec --no-startup-id pamac-tray
 exec --no-startup-id xfce4-power-manager
 exec --no-startup-id qbittorrent
-
+exec --no-startup-id thunar --daemon
 # start a terminal
 bindsym $mod+Return exec $term
 bindsym $mod+x exec $term
@@ -86,19 +83,11 @@ bindsym XF86AudioPlay exec mpc toggle
 bindsym XF86AudioPrev exec mpc prev
 bindsym XF86AudioNext exec mpc next
 
-
-
-################################################################################################
-
 # Screen brightness controls
 #bindsym XF86MonBrightnessUp exec "xbacklight -inc 10; notify-send 'brightness up'"
 #bindsym XF86MonBrightnessDown exec "xbacklight -dec 10; notify-send 'brightness down'"
 bindsym $mod1+F1 exec "xbacklight -dec 10; notify-send 'brightness up'"
 bindsym $mod1+F2 exec "xbacklight -inc 10; notify-send 'brightness up'"
-
-#brighness hotkeys for external keyboard
-bindsym $mod1+Shift+Left exec "xbacklight -dec 10; notify-send 'brightness down'"
-bindsym $mod1+Shift+Right exec "xbacklight -inc 10; notify-send 'brightness up'"
 
 ## Screenshot
 #bindsym Print exec "scrot '%Y-%m-%d_%H:%M:%S-screenshot.png' -e 'mv $f ~/Pictures/screenshot'; notify-send 'screenshot taken(fullscreen)' "
@@ -108,7 +97,7 @@ bindsym Ctrl+Print exec "flameshot gui"
 
 # Start Applications
 bindsym $mod+w exec firefox
-bindsym $mod+e exec pcmanfm
+bindsym $mod+e exec thunar
 bindsym $mod+Ctrl+q exec --no-startup-id pkill picom
 bindsym $mod+Ctrl+w exec --no-startup-id picom -b
 bindsym $mod+Shift+d --release exec "killall dunst; exec notify-send 'restart dunst'"
@@ -138,17 +127,12 @@ bindsym $mod+b workspace back_and_forth
 bindsym $mod+Shift+b move container to workspace back_and_forth; workspace back_and_forth
 
 # split orientation
-bindsym $mod+h split h;exec notify-send 'tile horizontally'
-bindsym $mod+v split v;exec notify-send 'tile vertically'
+bindsym $mod+h split h
+bindsym $mod+v split v
 bindsym $mod+s split toggle
 
 # toggle fullscreen mode for the focused container
 bindsym $mod+f fullscreen toggle
-
-# change container layout (stacked, tabbed, toggle split)
-bindsym $mod1+s layout stacking
-bindsym $mod1+w layout tabbed
-bindsym $mod1+a layout toggle split
 
 # toggle tiling / floating
 bindsym $mod+space floating toggle
@@ -297,17 +281,14 @@ bindsym $mod1+Shift+F10 move container to workspace $ws20; workspace $ws20
 #assign [class="firefox|qutebrowser"] $ws2
 assign [class="Pcmanfm|Thunar|krusader|Engrampa|Fsearch"] $ws3
 assign [class="Gedit|code-oss|Atom"] $ws4
-assign [class="qBittorrent"] $ws8
-assign [class="vlc|Io.github.celluloid_player.Celluloid|mpv"] $ws15
 assign [class="openshot|Gimp|audacity"] $ws6
-assign [class="Lxappearance|Kvantum Manager|Manjaro Settings Manager"] $ws7
+assign [class="obs"] $ws8
 assign [class="(?i)virtualbox"] $ws9
-assign [class="obs"] $ws10
+assign [class="qBittorrent"] $ws10
+assign [class="vlc|Io.github.celluloid_player.Celluloid|mpv"] $ws15
 
 # Open specific applications in floating mode
-for_window [title="Pavucontrol"] floating enable border pixel 1
 for_window [title="alsamixer"] floating enable border none
-for_window [class="calamares"] floating enable border normal
 for_window [class="Clipgrab"] floating enable
 for_window [title="File Transfer*"] floating enable border pixel 1
 for_window [class="fpakman"] floating enable
@@ -318,17 +299,13 @@ for_window [class="Lxappearance"] floating enable border 1px
 for_window [class="Manjaro Settings Manager"] floating enable border normal
 for_window [class="Nitrogen"] floating enable sticky enable border none
 for_window [class="octopi"] floating enable
-for_window [class="Pamac-manager"] floating enable border normal
-for_window [class="Pamac-updater"] floating enable border normal
 for_window [class="Pavucontrol"] floating enable
 for_window [class="Qtconfig-qt4"] floating enable border pixel 1
 for_window [class="qt5ct"] floating enable sticky enable border pixel 1
 for_window [class="Simple-scan"] floating enable border normal
 for_window [class="(?i)System-config-printer.py"] floating enable border normal
-for_window [class="Skype"] floating enable border normal
 for_window [class="Timeset-gui"] floating enable border normal
-for_window [class="Pcmanfm"] border pixel 1
-for_window [class=$term|Gedit|code-oss|Pcmanfm|Io.github.celluloid_player.Celluloid|mpv|Ghb|Xfburn|Gimp*|Inkscape|vlc] focus
+for_window [class=$term|Gedit|code-oss|Pcmanfm|Thunar|Io.github.celluloid_player.Celluloid|mpv|Ghb|Xfburn|Gimp*|Inkscape|vlc|virtualbox|obs] focus
 #for_window [floating] move position center
 
 # switch to workspace with urgent window automatically
@@ -336,12 +313,12 @@ for_window [class=$term|Gedit|code-oss|Pcmanfm|Io.github.celluloid_player.Cellul
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
-
 # restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
 bindsym $mod+Shift+r restart
 
 # Set shut down, restart and locking features
-bindsym $mod+$mod1+p mode "$mode_system"
+bindsym $mod+$mod1+p exec ~/.config/rofi/powermenu.sh
+bindsym $mod+Shift+q mode "$mode_system"
 set $mode_system (l)ock, (e)xit, (s)uspend, (h)ibernate, (r)eboot, (Shift+s)hutdown
 mode "$mode_system" {
     bindsym l exec --no-startup-id betterlockscreen --lock; mode "default"
@@ -350,7 +327,6 @@ mode "$mode_system" {
     bindsym h exec --no-startup-id "~/.config/i3/i3exit hibernate && betterlockscreen --lock"; mode "default"
     bindsym r exec --no-startup-id ~/.config/i3/i3exit reboot; mode "default"
     bindsym Shift+s exec --no-startup-id ~/.config/i3/i3exit shutdown; mode "default"
-
     # exit system mode: "Enter" or "Escape"
     bindsym Return mode "default"
     bindsym Escape mode "default"
@@ -359,17 +335,10 @@ mode "$mode_system" {
 # Resize window (you can also use the mouse for that)
 bindsym $mod+r mode "resize"
 mode "resize" {
-        # These bindings trigger as soon as you enter the resize mode
-        # Pressing left will shrink the window’s width.
-        # Pressing right will grow the window’s width.
-        # Pressing up will shrink the window’s height.
-        # Pressing down will grow the window’s height.
-
         bindsym Left resize shrink width 10 px or 10 ppt
         bindsym Down resize grow height 10 px or 10 ppt
         bindsym Up resize shrink height 10 px or 10 ppt
         bindsym Right resize grow width 10 px or 10 ppt
-
         # exit resize mode: Enter or Escape
         bindsym Return mode "default"
         bindsym Escape mode "default"
@@ -484,7 +453,7 @@ set $grv0 #282828
 
 # Set inner/outer gaps
 gaps inner 8
-gaps outer 2
+gaps outer 4
 
 # Additionally, you can issue commands with the following syntax. This is useful to bind keys to changing the gap size.
 # gaps inner|outer current|all set|plus|minus <px>

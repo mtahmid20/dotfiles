@@ -9,7 +9,7 @@ call plug#end()
 set mouse=a
 
 " Theme
-colorscheme gruvbox
+colorscheme nord
 set background=dark
 set termguicolors
 
@@ -33,10 +33,6 @@ set number relativenumber
     set smartindent
     set fileformat=unix
     set nowrap
-
-" Copy selected text to system clipboard (requires gvim/nvim/vim-x11 installed):
-    vnoremap <C-c> "+y
-    map <C-p> "+P
 
 " Replace all is aliased to X.
 	nnoremap X :%s//g<Left><Left>

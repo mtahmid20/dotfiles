@@ -18580,3 +18580,940 @@ Aug 10 19:54 : player: played "07 Backstreet Boys - Larger Than Life.mp3"
 Aug 10 19:58 : player: played "10 Backstreet Boys - Shape Of My Heart.mp3"
 Aug 10 20:02 : client: [10] closed
 Aug 10 20:04 : player: played "01 - Blue Swede - Hooked On A Feeling.flac"
+Aug 10 20:59 : client: [9] closed
+Aug 10 20:59 : client: [8] closed
+Aug 10 22:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 22:15 : config: option 'device' on line 19 was not recognized
+Aug 10 22:15 : client: [0] opened from 127.0.0.1:46514
+Aug 10 22:15 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 10 22:15 : client: [1] opened from 127.0.0.1:46516
+Aug 10 22:15 : client: [0] closed
+Aug 10 22:15 : client: [2] opened from 127.0.0.1:46522
+Aug 10 22:15 : client: [1] closed
+Aug 10 22:15 : client: [3] opened from 127.0.0.1:46524
+Aug 10 22:15 : client: [2] closed
+Aug 10 22:15 : client: [4] opened from 127.0.0.1:46526
+Aug 10 22:15 : client: [3] closed
+Aug 10 22:15 : client: [5] opened from 127.0.0.1:46528
+Aug 10 22:20 : client: [6] opened from [::1]:46068
+Aug 10 22:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 22:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 22:20 : client: [6] closed
+Aug 10 22:22 : client: [7] opened from [::1]:46084
+Aug 10 22:23 : client: [7] closed
+Aug 10 22:24 : client: [8] opened from [::1]:46138
+Aug 10 22:24 : client: [8] closed
+Aug 10 22:27 : player: played "10 Backstreet Boys - Shape Of My Heart.mp3"
+Aug 10 22:28 : client: [9] opened from [::1]:46230
+Aug 10 22:28 : client: [9] closed
+Aug 10 22:30 : player: played "01 - Blue Swede - Hooked On A Feeling.flac"
+Aug 10 22:31 : client: [10] opened from [::1]:46324
+Aug 10 22:34 : client: [10] closed
+Aug 10 22:34 : client: [5] closed
+Aug 10 22:34 : client: [4] closed
+Aug 10 22:34 : player: played "Dance Of Death/01 Wildest Dreams.wma"
+Aug 10 22:34 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Aug 10 23:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 23:03 : ffmpeg/asf: asf_read_pts failed
+Aug 10 23:03 : ffmpeg/asf: asf_read_pts failed
+Aug 10 23:03 : ffmpeg/asf: asf_read_pts failed
+Aug 10 23:03 : ffmpeg/asf: asf_read_pts failed
+Aug 10 23:03 : config: option 'device' on line 19 was not recognized
+Aug 10 23:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 10 23:03 : client: [0] opened from 127.0.0.1:42820
+Aug 10 23:03 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 10 23:03 : client: [1] opened from 127.0.0.1:42822
+Aug 10 23:03 : client: [0] closed
+Aug 10 23:03 : client: [2] opened from 127.0.0.1:42828
+Aug 10 23:03 : client: [1] closed
+Aug 10 23:03 : client: [3] opened from 127.0.0.1:42830
+Aug 10 23:03 : client: [2] closed
+Aug 10 23:03 : client: [4] opened from 127.0.0.1:42874
+Aug 10 23:03 : client: [3] closed
+Aug 10 23:03 : client: [5] opened from 127.0.0.1:42876
+Aug 10 23:03 : client: [4] closed
+Aug 10 23:03 : client: [6] opened from 127.0.0.1:42996
+Aug 10 23:43 : client: [5] closed
+Aug 10 23:43 : player: played "Dance Of Death/01 Wildest Dreams.wma"
+Aug 11 10:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 10:08 : ffmpeg/asf: asf_read_pts failed
+Aug 11 10:08 : ffmpeg/asf: asf_read_pts failed
+Aug 11 10:08 : ffmpeg/asf: asf_read_pts failed
+Aug 11 10:08 : ffmpeg/asf: asf_read_pts failed
+Aug 11 10:08 : config: option 'device' on line 19 was not recognized
+Aug 11 10:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 10:08 : client: [0] opened from 127.0.0.1:36804
+Aug 11 10:08 : client: [1] opened from 127.0.0.1:36806
+Aug 11 10:08 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 11 10:08 : client: [0] closed
+Aug 11 10:08 : client: [2] opened from 127.0.0.1:36812
+Aug 11 10:08 : client: [1] closed
+Aug 11 10:08 : client: [3] opened from 127.0.0.1:36814
+Aug 11 13:00 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 13:01 : ffmpeg/asf: asf_read_pts failed
+Aug 11 13:01 : ffmpeg/asf: asf_read_pts failed
+Aug 11 13:01 : ffmpeg/asf: asf_read_pts failed
+Aug 11 13:01 : ffmpeg/asf: asf_read_pts failed
+Aug 11 13:01 : config: option 'device' on line 19 was not recognized
+Aug 11 13:01 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 13:01 : client: [0] opened from 127.0.0.1:52958
+Aug 11 13:01 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 11 13:01 : client: [1] opened from 127.0.0.1:52960
+Aug 11 13:01 : client: [0] closed
+Aug 11 13:01 : client: [2] opened from 127.0.0.1:52966
+Aug 11 13:01 : client: [1] closed
+Aug 11 13:01 : client: [3] opened from 127.0.0.1:52968
+Aug 11 13:07 : client: [4] opened from [::1]:48206
+Aug 11 13:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 13:07 : client: [4] closed
+Aug 11 13:08 : player: played "Dance Of Death/01 Wildest Dreams.wma"
+Aug 11 13:16 : player: played "Dance Of Death/03 No More Lies.wma"
+Aug 11 13:21 : player: played "Dance Of Death/04 Montsegur.wma"
+Aug 11 13:26 : player: played "Dance Of Death/05 Dance of Death.wma"
+Aug 11 16:25 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 16:25 : ffmpeg/asf: asf_read_pts failed
+Aug 11 16:25 : ffmpeg/asf: asf_read_pts failed
+Aug 11 16:25 : ffmpeg/asf: asf_read_pts failed
+Aug 11 16:25 : ffmpeg/asf: asf_read_pts failed
+Aug 11 16:26 : config: option 'device' on line 19 was not recognized
+Aug 11 16:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 16:26 : client: [0] opened from 127.0.0.1:56220
+Aug 11 16:26 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 11 16:26 : client: [1] opened from 127.0.0.1:56222
+Aug 11 16:26 : client: [0] closed
+Aug 11 16:26 : client: [2] opened from 127.0.0.1:56224
+Aug 11 16:26 : client: [1] closed
+Aug 11 16:26 : client: [3] opened from 127.0.0.1:56226
+Aug 11 16:30 : client: [3] closed
+Aug 11 16:30 : client: [2] closed
+Aug 11 16:30 : player: played "Dance Of Death/05 Dance of Death.wma"
+Aug 11 16:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 16:30 : ffmpeg/asf: asf_read_pts failed
+Aug 11 16:30 : ffmpeg/asf: asf_read_pts failed
+Aug 11 16:30 : ffmpeg/asf: asf_read_pts failed
+Aug 11 16:30 : ffmpeg/asf: asf_read_pts failed
+Aug 11 16:30 : config: option 'device' on line 19 was not recognized
+Aug 11 16:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 16:30 : client: [0] opened from 127.0.0.1:56302
+Aug 11 16:30 : client: [1] opened from 127.0.0.1:56304
+Aug 11 16:30 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 11 16:30 : client: [1] closed
+Aug 11 16:30 : client: [0] closed
+Aug 11 16:30 : client: [2] opened from 127.0.0.1:56310
+Aug 11 16:30 : client: [3] opened from 127.0.0.1:56312
+Aug 11 16:43 : client: [2] closed
+Aug 11 16:43 : client: [3] closed
+Aug 11 16:43 : client: [4] opened from 127.0.0.1:56612
+Aug 11 16:43 : client: [5] opened from 127.0.0.1:56614
+Aug 11 16:44 : client: [5] closed
+Aug 11 16:44 : client: [4] closed
+Aug 11 16:44 : client: [6] opened from 127.0.0.1:56616
+Aug 11 16:44 : client: [7] opened from 127.0.0.1:56618
+Aug 11 16:44 : client: [7] closed
+Aug 11 16:44 : client: [6] closed
+Aug 11 16:44 : client: [8] opened from 127.0.0.1:56624
+Aug 11 16:44 : client: [9] opened from 127.0.0.1:56628
+Aug 11 16:44 : client: [8] closed
+Aug 11 16:44 : client: [9] closed
+Aug 11 16:44 : client: [10] opened from 127.0.0.1:56630
+Aug 11 16:44 : client: [11] opened from 127.0.0.1:56632
+Aug 11 16:47 : client: [10] closed
+Aug 11 16:47 : client: [11] closed
+Aug 11 16:48 : player: played "Dance Of Death/05 Dance of Death.wma"
+Aug 11 16:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 16:48 : ffmpeg/asf: asf_read_pts failed
+Aug 11 16:48 : ffmpeg/asf: asf_read_pts failed
+Aug 11 16:48 : ffmpeg/asf: asf_read_pts failed
+Aug 11 16:48 : ffmpeg/asf: asf_read_pts failed
+Aug 11 16:48 : config: option 'device' on line 19 was not recognized
+Aug 11 16:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 16:48 : client: [0] opened from 127.0.0.1:56726
+Aug 11 16:48 : client: [1] opened from 127.0.0.1:56728
+Aug 11 16:48 : client: [0] closed
+Aug 11 16:48 : client: [1] closed
+Aug 11 16:48 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 11 16:48 : client: [2] opened from 127.0.0.1:56734
+Aug 11 16:48 : client: [3] opened from 127.0.0.1:56736
+Aug 11 16:49 : client: [2] closed
+Aug 11 16:49 : client: [3] closed
+Aug 11 16:49 : player: played "Dance Of Death/05 Dance of Death.wma"
+Aug 11 16:49 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 16:49 : ffmpeg/asf: asf_read_pts failed
+Aug 11 16:49 : ffmpeg/asf: asf_read_pts failed
+Aug 11 16:49 : ffmpeg/asf: asf_read_pts failed
+Aug 11 16:49 : ffmpeg/asf: asf_read_pts failed
+Aug 11 16:49 : config: option 'device' on line 19 was not recognized
+Aug 11 16:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 16:49 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 11 16:50 : player: played "Dance Of Death/05 Dance of Death.wma"
+Aug 11 16:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 16:52 : ffmpeg/asf: asf_read_pts failed
+Aug 11 16:52 : ffmpeg/asf: asf_read_pts failed
+Aug 11 16:52 : ffmpeg/asf: asf_read_pts failed
+Aug 11 16:52 : ffmpeg/asf: asf_read_pts failed
+Aug 11 16:52 : config: option 'device' on line 19 was not recognized
+Aug 11 16:52 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 16:52 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 11 17:06 : client: [0] opened from 127.0.0.1:51776
+Aug 11 17:06 : client: [1] opened from 127.0.0.1:51778
+Aug 11 17:07 : client: [0] closed
+Aug 11 17:07 : client: [1] closed
+Aug 11 17:07 : client: [2] opened from 127.0.0.1:51784
+Aug 11 17:07 : client: [3] opened from 127.0.0.1:51786
+Aug 11 17:13 : client: [2] closed
+Aug 11 17:13 : client: [3] closed
+Aug 11 17:13 : client: [4] opened from 127.0.0.1:51878
+Aug 11 17:13 : client: [5] opened from 127.0.0.1:51882
+Aug 11 17:13 : client: [4] closed
+Aug 11 17:13 : client: [5] closed
+Aug 11 17:13 : client: [6] opened from 127.0.0.1:51884
+Aug 11 17:13 : client: [7] opened from 127.0.0.1:51886
+Aug 11 17:20 : client: [7] closed
+Aug 11 17:20 : client: [6] closed
+Aug 11 17:20 : client: [8] opened from 127.0.0.1:52170
+Aug 11 17:20 : client: [9] opened from 127.0.0.1:52172
+Aug 11 17:20 : client: [9] closed
+Aug 11 17:20 : client: [8] closed
+Aug 11 17:20 : client: [10] opened from 127.0.0.1:52178
+Aug 11 17:20 : client: [11] opened from 127.0.0.1:52180
+Aug 11 17:29 : client: [11] closed
+Aug 11 17:29 : client: [10] closed
+Aug 11 17:29 : client: [12] opened from 127.0.0.1:52324
+Aug 11 17:29 : client: [13] opened from 127.0.0.1:52328
+Aug 11 17:29 : client: [12] closed
+Aug 11 17:29 : client: [13] closed
+Aug 11 17:29 : client: [14] opened from 127.0.0.1:52332
+Aug 11 17:29 : client: [15] opened from 127.0.0.1:52334
+Aug 11 17:34 : client: [14] closed
+Aug 11 17:34 : client: [15] closed
+Aug 11 17:36 : player: played "Dance Of Death/05 Dance of Death.wma"
+Aug 11 17:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 17:37 : ffmpeg/asf: asf_read_pts failed
+Aug 11 17:37 : ffmpeg/asf: asf_read_pts failed
+Aug 11 17:37 : ffmpeg/asf: asf_read_pts failed
+Aug 11 17:37 : ffmpeg/asf: asf_read_pts failed
+Aug 11 17:37 : config: option 'device' on line 19 was not recognized
+Aug 11 17:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 17:37 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 11 17:38 : client: [0] opened from 127.0.0.1:45172
+Aug 11 17:38 : client: [1] opened from 127.0.0.1:45174
+Aug 11 17:38 : client: [1] closed
+Aug 11 17:38 : client: [0] closed
+Aug 11 17:38 : client: [2] opened from 127.0.0.1:45180
+Aug 11 17:38 : client: [3] opened from 127.0.0.1:45182
+Aug 11 17:39 : client: [2] closed
+Aug 11 17:39 : client: [3] closed
+Aug 11 17:47 : player: played "Dance Of Death/05 Dance of Death.wma"
+Aug 11 20:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 20:15 : ffmpeg/asf: asf_read_pts failed
+Aug 11 20:15 : ffmpeg/asf: asf_read_pts failed
+Aug 11 20:15 : ffmpeg/asf: asf_read_pts failed
+Aug 11 20:15 : ffmpeg/asf: asf_read_pts failed
+Aug 11 20:15 : config: option 'device' on line 19 was not recognized
+Aug 11 20:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 20:15 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 11 20:19 : player: played "Dance Of Death/05 Dance of Death.wma"
+Aug 11 20:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 20:20 : ffmpeg/asf: asf_read_pts failed
+Aug 11 20:20 : ffmpeg/asf: asf_read_pts failed
+Aug 11 20:20 : ffmpeg/asf: asf_read_pts failed
+Aug 11 20:20 : ffmpeg/asf: asf_read_pts failed
+Aug 11 20:20 : config: option 'device' on line 19 was not recognized
+Aug 11 20:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 20:20 : player: played "Dance Of Death/05 Dance of Death.wma"
+Aug 11 20:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 20:20 : ffmpeg/asf: asf_read_pts failed
+Aug 11 20:20 : ffmpeg/asf: asf_read_pts failed
+Aug 11 20:20 : ffmpeg/asf: asf_read_pts failed
+Aug 11 20:20 : ffmpeg/asf: asf_read_pts failed
+Aug 11 20:20 : config: option 'device' on line 19 was not recognized
+Aug 11 20:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 20:20 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 11 20:20 : player: played "Dance Of Death/05 Dance of Death.wma"
+Aug 11 20:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 20:27 : ffmpeg/asf: asf_read_pts failed
+Aug 11 20:27 : ffmpeg/asf: asf_read_pts failed
+Aug 11 20:27 : ffmpeg/asf: asf_read_pts failed
+Aug 11 20:27 : ffmpeg/asf: asf_read_pts failed
+Aug 11 20:27 : config: option 'device' on line 19 was not recognized
+Aug 11 20:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 20:27 : client: [0] opened from 127.0.0.1:58430
+Aug 11 20:27 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 11 20:27 : client: [1] opened from 127.0.0.1:58432
+Aug 11 20:27 : client: [0] closed
+Aug 11 20:27 : client: [2] opened from 127.0.0.1:58438
+Aug 11 20:27 : client: [1] closed
+Aug 11 20:27 : client: [3] opened from 127.0.0.1:58440
+Aug 11 20:27 : client: [2] closed
+Aug 11 20:27 : client: [3] closed
+Aug 11 20:27 : client: [4] opened from 127.0.0.1:58442
+Aug 11 20:27 : client: [5] opened from 127.0.0.1:58444
+Aug 11 20:29 : client: [6] opened from [::1]:59630
+Aug 11 20:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 11 20:29 : client: [6] closed
+Aug 11 20:30 : client: [7] opened from [::1]:59642
+Aug 11 20:30 : client: [7] closed
+Aug 11 23:38 : client: [8] opened from [::1]:33828
+Aug 11 23:38 : client: [8] closed
+Aug 11 23:38 : client: [9] opened from [::1]:33830
+Aug 11 23:38 : client: [9] closed
+Aug 12 00:42 : client: [10] opened from [::1]:34290
+Aug 12 00:42 : client: [10] closed
+Aug 12 00:46 : player: played "Dance Of Death/05 Dance of Death.wma"
+Aug 12 00:51 : player: played "Dance Of Death/06 Gates of Tomorrow.wma"
+Aug 12 00:56 : player: played "Dance Of Death/07 New Frontier.wma"
+Aug 12 01:05 : player: played "Dance Of Death/08 Paschendale.wma"
+Aug 12 11:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 12 11:32 : config: option 'device' on line 19 was not recognized
+Aug 12 11:32 : client: [0] opened from 127.0.0.1:59386
+Aug 12 11:32 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 12 11:32 : client: [1] opened from 127.0.0.1:59388
+Aug 12 11:32 : client: [0] closed
+Aug 12 11:32 : client: [2] opened from 127.0.0.1:59394
+Aug 12 11:32 : client: [1] closed
+Aug 12 11:32 : client: [3] opened from 127.0.0.1:59396
+Aug 12 13:26 : client: [4] opened from [::1]:54868
+Aug 12 13:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 12 13:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 12 13:33 : player: played "Downloads/Arnob/Songs from World Tour '08/6 - Ore Nil Doriya.flac"
+Aug 12 13:36 : client: [5] opened from [::1]:55048
+Aug 12 13:36 : client: [5] closed
+Aug 12 14:23 : client: [4] closed
+Aug 12 14:54 : client: [6] opened from [::1]:55858
+Aug 12 14:54 : client: [6] closed
+Aug 12 14:54 : client: [7] opened from [::1]:55876
+Aug 12 14:54 : client: [7] closed
+Aug 12 15:27 : client: [8] opened from [::1]:55970
+Aug 12 15:27 : player: played "Downloads/Indalo - Kokhon Kibhabe Ekhane Ke Jane (2015) (FLAC - 16bits - audhead)/Tomar Shokal.flac"
+Aug 12 15:27 : client: [8] closed
+Aug 12 15:27 : client: [9] opened from [::1]:55976
+Aug 12 15:27 : client: [9] closed
+Aug 12 19:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 12 19:46 : config: option 'device' on line 19 was not recognized
+Aug 12 19:46 : client: [0] opened from 127.0.0.1:60596
+Aug 12 19:46 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 12 19:46 : client: [1] opened from 127.0.0.1:60598
+Aug 12 19:46 : client: [0] closed
+Aug 12 19:46 : client: [2] opened from 127.0.0.1:60604
+Aug 12 19:46 : client: [1] closed
+Aug 12 19:46 : client: [3] opened from 127.0.0.1:60606
+Aug 12 19:46 : client: [2] closed
+Aug 12 19:46 : client: [4] opened from 127.0.0.1:60608
+Aug 12 19:46 : client: [3] closed
+Aug 12 19:46 : client: [5] opened from 127.0.0.1:60610
+Aug 12 20:43 : client: [5] closed
+Aug 12 20:43 : client: [4] closed
+Aug 12 23:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 12 23:24 : config: option 'device' on line 19 was not recognized
+Aug 12 23:24 : client: [0] opened from 127.0.0.1:58890
+Aug 12 23:24 : client: [1] opened from 127.0.0.1:58892
+Aug 12 23:24 : client: [0] closed
+Aug 12 23:24 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 12 23:24 : client: [2] opened from 127.0.0.1:58898
+Aug 12 23:24 : client: [1] closed
+Aug 12 23:24 : client: [3] opened from 127.0.0.1:58900
+Aug 12 23:24 : client: [2] closed
+Aug 12 23:24 : client: [4] opened from 127.0.0.1:58960
+Aug 12 23:24 : client: [3] closed
+Aug 12 23:24 : client: [5] opened from 127.0.0.1:58964
+Aug 12 23:24 : client: [4] closed
+Aug 12 23:24 : client: [5] closed
+Aug 12 23:24 : client: [6] opened from 127.0.0.1:59024
+Aug 12 23:24 : client: [7] opened from 127.0.0.1:59026
+Aug 13 00:30 : client: [7] closed
+Aug 13 00:30 : client: [6] closed
+Aug 13 02:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 02:30 : config: option 'device' on line 19 was not recognized
+Aug 13 02:30 : client: [0] opened from 127.0.0.1:42734
+Aug 13 02:30 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 13 02:30 : client: [1] opened from 127.0.0.1:42736
+Aug 13 02:30 : client: [0] closed
+Aug 13 02:30 : client: [2] opened from 127.0.0.1:42742
+Aug 13 02:30 : client: [1] closed
+Aug 13 02:30 : client: [3] opened from 127.0.0.1:42744
+Aug 13 02:30 : client: [3] closed
+Aug 13 02:30 : client: [2] closed
+Aug 13 02:30 : client: [4] opened from 127.0.0.1:42746
+Aug 13 02:30 : client: [5] opened from 127.0.0.1:42748
+Aug 13 03:22 : client: [4] closed
+Aug 13 03:22 : client: [5] closed
+Aug 13 11:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 11:14 : config: option 'device' on line 19 was not recognized
+Aug 13 11:14 : client: [0] opened from 127.0.0.1:38992
+Aug 13 11:14 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 13 11:14 : client: [1] opened from 127.0.0.1:38994
+Aug 13 11:14 : client: [0] closed
+Aug 13 11:14 : client: [2] opened from 127.0.0.1:39000
+Aug 13 11:14 : client: [1] closed
+Aug 13 11:14 : client: [3] opened from 127.0.0.1:39002
+Aug 13 11:14 : client: [2] closed
+Aug 13 11:14 : client: [4] opened from 127.0.0.1:39064
+Aug 13 11:14 : client: [3] closed
+Aug 13 11:14 : client: [5] opened from 127.0.0.1:39066
+Aug 13 11:14 : client: [4] closed
+Aug 13 11:14 : client: [5] closed
+Aug 13 11:14 : client: [6] opened from 127.0.0.1:39190
+Aug 13 11:14 : client: [7] opened from 127.0.0.1:39192
+Aug 13 12:49 : client: [8] opened from [::1]:56448
+Aug 13 12:49 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 13 12:49 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 13 12:49 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 13 12:49 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 13 12:49 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 13 12:49 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 13 12:49 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 13 12:49 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 13 12:49 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 13 12:49 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 13 12:49 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 13 12:49 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 13 12:49 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 13 12:49 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 13 12:49 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 13 12:49 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 13 12:49 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 13 12:49 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 13 12:49 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 13 12:49 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 13 12:49 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 13 12:49 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 13 12:49 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 13 12:49 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 13 12:49 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 13 12:49 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 13 12:49 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 13 12:49 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 13 12:49 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 13 12:49 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 13 12:49 : update: added /Imagine Dragons - Radioactive.mp3
+Aug 13 12:49 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 13 12:49 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 13 12:49 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 13 12:49 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 13 12:49 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 13 12:49 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 13 12:49 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 13 12:49 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 13 12:49 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 13 12:49 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 13 12:49 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 13 12:49 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 13 12:49 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 13 12:49 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 13 12:49 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 13 12:49 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 13 12:49 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 13 12:49 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 13 12:49 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 13 12:49 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 13 12:49 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 13 12:49 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 13 12:49 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 13 12:49 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 13 12:49 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 13 12:49 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 13 12:49 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 13 12:49 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 13 12:49 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 13 12:49 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 13 12:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 12:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 12:49 : player: played "Imagine Dragons - Radioactive.mp3"
+Aug 13 12:49 : exception: Not playing
+Aug 13 12:49 : exception: Not playing
+Aug 13 12:49 : client: [9] opened from [::1]:56450
+Aug 13 12:49 : client: [9] closed
+Aug 13 12:53 : player: played "Imagine Dragons - Radioactive.mp3"
+Aug 13 13:00 : client: [8] closed
+Aug 13 14:41 : client: [6] closed
+Aug 13 14:41 : client: [7] closed
+Aug 13 14:41 : client: [10] opened from 127.0.0.1:41902
+Aug 13 14:41 : client: [11] opened from 127.0.0.1:41904
+Aug 13 16:00 : client: [12] opened from [::1]:38166
+Aug 13 16:01 : client: [12] closed
+Aug 13 16:01 : client: [13] opened from [::1]:38168
+Aug 13 16:01 : client: [13] closed
+Aug 13 16:31 : player: played "Imagine Dragons - Radioactive.mp3"
+Aug 13 20:19 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 20:19 : config: option 'device' on line 19 was not recognized
+Aug 13 20:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 20:19 : client: [0] opened from 127.0.0.1:53088
+Aug 13 20:19 : client: [1] opened from 127.0.0.1:53086
+Aug 13 20:19 : client: [0] closed
+Aug 13 20:19 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 13 20:19 : client: [2] opened from 127.0.0.1:53094
+Aug 13 20:19 : client: [1] closed
+Aug 13 20:19 : client: [3] opened from 127.0.0.1:53096
+Aug 13 20:19 : client: [2] closed
+Aug 13 20:19 : client: [4] opened from 127.0.0.1:53098
+Aug 13 20:19 : client: [3] closed
+Aug 13 20:19 : client: [5] opened from 127.0.0.1:53100
+Aug 13 20:20 : client: [6] opened from [::1]:33722
+Aug 13 20:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 20:20 : client: [6] closed
+Aug 13 20:23 : client: [7] opened from [::1]:33840
+Aug 13 20:31 : client: [8] opened from [::1]:33998
+Aug 13 20:31 : client: [8] closed
+Aug 13 21:07 : client: [7] closed
+Aug 13 21:07 : client: [4] closed
+Aug 13 21:07 : client: [5] closed
+Aug 13 21:07 : player: played "Downloads/38. Dream Theater -  Studio Discography (1989-2019)/2003 - Train of Thought/01 As I Am.mp3"
+Aug 13 21:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 21:07 : config: option 'device' on line 19 was not recognized
+Aug 13 21:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 21:07 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 13 23:13 : client: [0] opened from [::1]:36420
+Aug 13 23:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 13 23:15 : client: [1] opened from [::1]:36432
+Aug 13 23:15 : client: [1] closed
+Aug 13 23:15 : client: [2] opened from [::1]:36434
+Aug 13 23:15 : client: [2] closed
+Aug 13 23:15 : player: played "Downloads/38. Dream Theater -  Studio Discography (1989-2019)/2003 - Train of Thought/01 As I Am.mp3"
+Aug 13 23:19 : client: [0] closed
+Aug 13 23:20 : client: [3] opened from 127.0.0.1:55924
+Aug 13 23:20 : client: [4] opened from 127.0.0.1:55926
+Aug 13 23:20 : client: [4] closed
+Aug 13 23:20 : client: [3] closed
+Aug 13 23:20 : client: [5] opened from 127.0.0.1:55932
+Aug 13 23:20 : client: [6] opened from 127.0.0.1:55934
+Aug 13 23:23 : client: [5] closed
+Aug 13 23:23 : client: [6] closed
+Aug 13 23:25 : client: [7] opened from [::1]:36862
+Aug 13 23:25 : client: [7] closed
+Aug 13 23:25 : client: [8] opened from [::1]:36904
+Aug 13 23:25 : client: [8] closed
+Aug 13 23:25 : client: [9] opened from [::1]:36906
+Aug 13 23:25 : client: [9] closed
+Aug 14 01:09 : avahi: Client Disconnected, will reconnect shortly
+Aug 14 01:09 : player: played "Downloads/38. Dream Theater -  Studio Discography (1989-2019)/2003 - Train of Thought/02 This Dying Soul.mp3"
+Aug 14 10:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 10:13 : config: option 'device' on line 19 was not recognized
+Aug 14 10:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 10:13 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 14 10:14 : client: [0] opened from [::1]:50848
+Aug 14 10:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 10:14 : client: [0] closed
+Aug 14 10:18 : player: played "Evanescence - Bring Me To Life.mp3"
+Aug 14 10:19 : client: [1] opened from [::1]:51006
+Aug 14 10:19 : player: played "Downloads/Death Metal/Eluveitie/2008 - Slania/03 - Inis Mona.mp3"
+Aug 14 10:19 : client: [2] opened from [::1]:51008
+Aug 14 10:19 : client: [2] closed
+Aug 14 10:20 : client: [1] closed
+Aug 14 10:25 : player: played "Downloads/Death Metal/Eluveitie/2008 - Slania/08 - Slania's Song.mp3"
+Aug 14 10:26 : player: played "Downloads/Death Metal/Eluveitie/2008 - Slania/09 - Giamonios.mp3"
+Aug 14 10:28 : client: [3] opened from [::1]:51166
+Aug 14 10:32 : player: played "Downloads/Death Metal/Eluveitie/2008 - Slania/04 - Gray Sublime Archon.mp3"
+Aug 14 10:34 : client: [4] opened from [::1]:51206
+Aug 14 10:34 : client: [4] closed
+Aug 14 10:34 : client: [5] opened from [::1]:51208
+Aug 14 10:34 : client: [5] closed
+Aug 14 10:36 : player: played "Downloads/Death Metal/Eluveitie/2008 - Slania/05 - Anagantios.mp3"
+Aug 14 10:39 : player: played "Downloads/Death Metal/Eluveitie/2008 - Slania/06 - Bloodstained Ground.mp3"
+Aug 14 10:39 : client: [3] closed
+Aug 14 10:39 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Aug 14 10:39 : player: played "Downloads/Death Metal/Eluveitie/2008 - Slania/07 - The Somber Lay.mp3"
+Aug 14 10:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 10:41 : config: option 'device' on line 19 was not recognized
+Aug 14 10:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 10:41 : client: [0] opened from 127.0.0.1:52808
+Aug 14 10:41 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 14 10:41 : client: [1] opened from 127.0.0.1:52810
+Aug 14 10:41 : client: [0] closed
+Aug 14 10:41 : client: [2] opened from 127.0.0.1:52816
+Aug 14 10:41 : client: [1] closed
+Aug 14 10:41 : client: [3] opened from 127.0.0.1:52818
+Aug 14 10:41 : client: [2] closed
+Aug 14 10:41 : client: [4] opened from 127.0.0.1:52820
+Aug 14 10:41 : client: [3] closed
+Aug 14 10:41 : client: [5] opened from 127.0.0.1:52822
+Aug 14 10:41 : client: [6] opened from [::1]:53748
+Aug 14 10:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 10:41 : client: [6] closed
+Aug 14 10:45 : player: played "Downloads/Death Metal/Eluveitie/2008 - Slania/07 - The Somber Lay.mp3"
+Aug 14 10:49 : client: [7] opened from [::1]:53880
+Aug 14 10:49 : client: [7] closed
+Aug 14 10:49 : client: [8] opened from [::1]:53882
+Aug 14 10:49 : client: [8] closed
+Aug 14 10:51 : player: played "Downloads/Death Metal/Eluveitie/2008 - Slania/08 - Slania's Song.mp3"
+Aug 14 10:52 : player: played "Downloads/Death Metal/Eluveitie/2008 - Slania/09 - Giamonios.mp3"
+Aug 14 10:53 : client: [9] opened from [::1]:53994
+Aug 14 10:53 : client: [9] closed
+Aug 14 10:54 : client: [10] opened from [::1]:54020
+Aug 14 10:54 : client: [10] closed
+Aug 14 10:56 : client: [11] opened from [::1]:54040
+Aug 14 10:56 : client: [11] closed
+Aug 14 10:56 : client: [12] opened from [::1]:54042
+Aug 14 10:56 : client: [12] closed
+Aug 14 10:59 : client: [13] opened from [::1]:54074
+Aug 14 10:59 : client: [13] closed
+Aug 14 10:59 : client: [14] opened from [::1]:54076
+Aug 14 10:59 : client: [14] closed
+Aug 14 11:38 : client: [15] opened from [::1]:54172
+Aug 14 11:38 : client: [15] closed
+Aug 14 12:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 12:28 : config: option 'device' on line 19 was not recognized
+Aug 14 12:28 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 14 12:28 : client: [0] opened from [::1]:55110
+Aug 14 12:28 : client: [0] closed
+Aug 14 12:29 : client: [1] opened from [::1]:55124
+Aug 14 12:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 12:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 12:29 : client: [1] closed
+Aug 14 12:36 : client: [2] opened from [::1]:55192
+Aug 14 12:36 : client: [2] closed
+Aug 14 12:36 : client: [3] opened from [::1]:55194
+Aug 14 12:36 : client: [3] closed
+Aug 14 12:36 : client: [4] opened from [::1]:55196
+Aug 14 12:36 : client: [4] closed
+Aug 14 12:36 : client: [5] opened from [::1]:55198
+Aug 14 12:36 : client: [5] closed
+Aug 14 12:40 : player: played "Downloads/38. Dream Theater -  Studio Discography (1989-2019)/2003 - Train of Thought/03 Endless Sacrifice.mp3"
+Aug 14 12:50 : player: played "Downloads/38. Dream Theater -  Studio Discography (1989-2019)/2003 - Train of Thought/04 Honor Thy Father.mp3"
+Aug 14 12:53 : player: played "Downloads/38. Dream Theater -  Studio Discography (1989-2019)/2003 - Train of Thought/05 Vacant.mp3"
+Aug 14 13:05 : player: played "Downloads/38. Dream Theater -  Studio Discography (1989-2019)/2003 - Train of Thought/06 Stream Of Consciousness.mp3"
+Aug 14 13:15 : player: played "Downloads/38. Dream Theater -  Studio Discography (1989-2019)/2003 - Train of Thought/07 In The Name Of God.mp3"
+Aug 14 13:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 13:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 13:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 13:15 : config: option 'device' on line 19 was not recognized
+Aug 14 13:15 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 14 13:17 : player: played "Downloads/38. Dream Theater -  Studio Discography (1989-2019)/2003 - Train of Thought/07 In The Name Of God.mp3"
+Aug 14 13:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 13:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 13:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 13:17 : config: option 'device' on line 19 was not recognized
+Aug 14 13:17 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 14 13:17 : player: played "Downloads/38. Dream Theater -  Studio Discography (1989-2019)/2003 - Train of Thought/07 In The Name Of God.mp3"
+Aug 14 13:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 13:18 : config: option 'device' on line 19 was not recognized
+Aug 14 13:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 13:18 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 14 13:18 : client: [0] opened from [::1]:55410
+Aug 14 13:18 : client: [1] opened from [::1]:55412
+Aug 14 13:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 13:18 : client: [1] closed
+Aug 14 13:18 : client: [0] closed
+Aug 14 13:18 : client: [2] opened from [::1]:55414
+Aug 14 13:21 : client: [3] opened from [::1]:55592
+Aug 14 13:21 : client: [3] closed
+Aug 14 14:00 : player: played "Imagine Dragons - Radioactive.mp3"
+Aug 14 14:06 : player: played "Deep Purple - Smoke On The Water.mp3"
+Aug 14 14:14 : player: played "Downloads/38. Dream Theater -  Studio Discography (1989-2019)/2003 - Train of Thought/01 As I Am.mp3"
+Aug 14 14:25 : player: played "Downloads/38. Dream Theater -  Studio Discography (1989-2019)/2003 - Train of Thought/02 This Dying Soul.mp3"
+Aug 14 14:37 : player: played "Downloads/38. Dream Theater -  Studio Discography (1989-2019)/2003 - Train of Thought/03 Endless Sacrifice.mp3"
+Aug 14 14:43 : client: [4] opened from [::1]:56268
+Aug 14 14:43 : client: [4] closed
+Aug 14 15:32 : player: played "Downloads/38. Dream Theater -  Studio Discography (1989-2019)/2003 - Train of Thought/04 Honor Thy Father.mp3"
+Aug 14 15:32 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 14 15:32 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 14 15:32 : client: [2] closed
+Aug 14 15:34 : client: [5] opened from [::1]:56842
+Aug 14 15:34 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 14 15:34 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 14 15:35 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 14 15:35 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 14 15:35 : client: [5] closed
+Aug 14 15:35 : client: [6] opened from [::1]:56844
+Aug 14 15:35 : client: [6] closed
+Aug 14 15:35 : client: [7] opened from [::1]:56846
+Aug 14 15:36 : player: played "Taylor Swift - Fearless/01  Taylor Swift - Fearless.mp3"
+Aug 14 15:36 : client: [7] closed
+Aug 14 15:36 : client: [8] opened from [::1]:56850
+Aug 14 15:37 : client: [8] closed
+Aug 14 15:37 : client: [9] opened from [::1]:56876
+Aug 14 15:38 : client: [9] closed
+Aug 14 15:38 : client: [10] opened from [::1]:57008
+Aug 14 15:38 : client: [10] closed
+Aug 14 15:39 : client: [11] opened from [::1]:57010
+Aug 14 15:39 : client: [11] closed
+Aug 14 15:39 : client: [12] opened from [::1]:57012
+Aug 14 15:39 : client: [13] opened from [::1]:57014
+Aug 14 15:39 : client: [13] closed
+Aug 14 15:40 : client: [12] closed
+Aug 14 15:40 : client: [14] opened from [::1]:57074
+Aug 14 15:40 : client: [14] closed
+Aug 14 15:40 : client: [15] opened from [::1]:57076
+Aug 14 15:40 : client: [15] closed
+Aug 14 15:40 : client: [16] opened from [::1]:57078
+Aug 14 15:41 : client: [16] closed
+Aug 14 15:41 : client: [17] opened from [::1]:57080
+Aug 14 15:41 : client: [17] closed
+Aug 14 15:41 : client: [18] opened from [::1]:57082
+Aug 14 15:42 : client: [18] closed
+Aug 14 15:42 : client: [19] opened from [::1]:57084
+Aug 14 15:42 : player: played "09 - Iron Man.mp3"
+Aug 14 15:42 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 14 15:42 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 14 15:42 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 14 15:42 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 14 15:42 : client: [20] opened from [::1]:57086
+Aug 14 15:42 : client: [20] closed
+Aug 14 15:42 : client: [21] opened from [::1]:57088
+Aug 14 15:42 : client: [21] closed
+Aug 14 15:42 : client: [22] opened from [::1]:57090
+Aug 14 15:42 : client: [22] closed
+Aug 14 15:43 : client: [19] closed
+Aug 14 15:43 : client: [23] opened from [::1]:57094
+Aug 14 15:43 : client: [24] opened from [::1]:57096
+Aug 14 15:43 : client: [24] closed
+Aug 14 15:43 : client: [25] opened from [::1]:57098
+Aug 14 15:43 : client: [25] closed
+Aug 14 15:43 : client: [26] opened from [::1]:57100
+Aug 14 15:43 : client: [26] closed
+Aug 14 15:43 : client: [27] opened from [::1]:57102
+Aug 14 15:43 : client: [27] closed
+Aug 14 15:44 : client: [28] opened from [::1]:57156
+Aug 14 15:44 : client: [28] closed
+Aug 14 15:44 : client: [29] opened from [::1]:57158
+Aug 14 15:44 : client: [29] closed
+Aug 14 16:04 : player: played "Downloads/Death Metal/ARCH ENEMY/[2001] Rare & Unreleased/01 - Starbreaker.mp3"
+Aug 14 19:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 19:07 : config: option 'device' on line 19 was not recognized
+Aug 14 19:07 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 19:07 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 14 19:13 : client: [0] opened from [::1]:44302
+Aug 14 19:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 19:14 : client: [0] closed
+Aug 14 19:14 : client: [1] opened from [::1]:44312
+Aug 14 19:17 : player: played "Evanescence - Bring Me To Life.mp3"
+Aug 14 19:18 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 14 19:22 : player: played "Evanescence - Bring Me To Life.mp3"
+Aug 14 20:55 : player: played "Evanescence - Bring Me To Life.mp3"
+Aug 14 20:55 : client: [2] opened from [::1]:44952
+Aug 14 20:55 : client: [2] closed
+Aug 14 20:59 : player: played "Evanescence - Bring Me To Life.mp3"
+Aug 14 21:04 : player: played "Kodaline - High Hopes.mp3"
+Aug 14 21:05 : client: [1] closed
+Aug 14 21:09 : client: [3] opened from [::1]:45168
+Aug 14 21:09 : client: [3] closed
+Aug 14 21:10 : client: [4] opened from [::1]:45178
+Aug 14 21:10 : client: [4] closed
+Aug 14 21:10 : client: [5] opened from [::1]:45180
+Aug 14 21:10 : client: [5] closed
+Aug 14 21:10 : client: [6] opened from [::1]:45182
+Aug 14 21:10 : client: [6] closed
+Aug 14 21:10 : client: [7] opened from [::1]:45184
+Aug 14 21:10 : client: [7] closed
+Aug 14 21:13 : player: played "Kodaline - High Hopes.mp3"
+Aug 14 21:19 : client: [8] opened from [::1]:45554
+Aug 14 21:19 : client: [8] closed
+Aug 14 21:19 : client: [9] opened from [::1]:45556
+Aug 14 21:19 : player: played "Kodaline - High Hopes.mp3"
+Aug 14 21:23 : client: [9] closed
+Aug 14 21:24 : player: played "01 - Battery.mp3"
+Aug 14 21:24 : player: played "02 - Master of Puppets.mp3"
+Aug 14 21:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 21:27 : config: option 'device' on line 19 was not recognized
+Aug 14 21:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 21:27 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 14 21:27 : client: [0] opened from [::1]:47140
+Aug 14 21:27 : client: [1] opened from [::1]:47142
+Aug 14 21:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 14 21:27 : client: [1] closed
+Aug 14 21:27 : client: [0] closed
+Aug 14 21:36 : player: played "02 - Master of Puppets.mp3"
+Aug 14 21:42 : player: played "03 - the Thing That Should Not Be.mp3"
+Aug 14 21:46 : client: [2] opened from [::1]:47548
+Aug 14 21:46 : client: [2] closed
+Aug 14 21:46 : client: [3] opened from [::1]:47550
+Aug 14 21:46 : client: [3] closed
+Aug 14 21:49 : player: played "04 - Welcome Home (Sanitarium).mp3"
+Aug 14 21:54 : client: [4] opened from [::1]:47730
+Aug 14 21:54 : client: [4] closed
+Aug 15 00:05 : client: [5] opened from [::1]:49770
+Aug 15 00:05 : client: [6] opened from [::1]:49772
+Aug 15 00:05 : client: [6] closed
+Aug 15 00:05 : client: [5] closed
+Aug 15 00:06 : client: [7] opened from [::1]:49776
+Aug 15 00:06 : client: [7] closed
+Aug 15 00:06 : client: [8] opened from [::1]:49780
+Aug 15 00:06 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 15 00:06 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 15 00:06 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 15 00:06 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 15 00:06 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 15 00:06 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 15 00:06 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 15 00:06 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 15 00:06 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 15 00:06 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 15 00:06 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 15 00:07 : client: [8] closed
+Aug 15 00:07 : client: [9] opened from [::1]:49782
+Aug 15 00:07 : client: [9] closed
+Aug 15 00:08 : client: [10] opened from [::1]:49794
+Aug 15 00:08 : client: [10] closed
+Aug 15 00:12 : client: [11] opened from [::1]:49810
+Aug 15 00:12 : client: [12] opened from [::1]:49812
+Aug 15 00:12 : client: [12] closed
+Aug 15 00:12 : client: [13] opened from [::1]:49814
+Aug 15 00:12 : client: [13] closed
+Aug 15 00:12 : player: played "05 - Disposable Heroes.mp3"
+Aug 15 00:12 : client: [14] opened from [::1]:49816
+Aug 15 00:12 : client: [14] closed
+Aug 15 00:12 : client: [15] opened from [::1]:49818
+Aug 15 00:12 : client: [15] closed
+Aug 15 00:12 : client: [16] opened from [::1]:49820
+Aug 15 00:12 : client: [16] closed
+Aug 15 00:12 : client: [17] opened from [::1]:49822
+Aug 15 00:12 : client: [17] closed
+Aug 15 00:12 : client: [18] opened from [::1]:49824
+Aug 15 00:12 : client: [18] closed
+Aug 15 00:12 : player: played "03 - the Thing That Should Not Be.mp3"
+Aug 15 00:13 : client: [19] opened from [::1]:49826
+Aug 15 00:13 : client: [19] closed
+Aug 15 00:13 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 15 00:13 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 15 00:13 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 15 00:13 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 15 00:13 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 15 00:13 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 15 00:13 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 15 00:14 : client: [11] closed
+Aug 15 00:15 : player: played "Biday_Shongbidhan-Minerva/01.Abirbhab-Minerva_FusionBD.Com.mp3"
+Aug 15 00:15 : client: [20] opened from [::1]:49838
+Aug 15 00:15 : client: [20] closed
+Aug 15 00:16 : client: [21] opened from [::1]:49840
+Aug 15 00:16 : client: [22] opened from [::1]:49842
+Aug 15 00:16 : client: [22] closed
+Aug 15 00:16 : client: [23] opened from [::1]:49846
+Aug 15 00:16 : client: [23] closed
+Aug 15 00:22 : player: played "Biday_Shongbidhan-Minerva/02.Mrittur_Shesh_Choy-Minerva_FusionBD.Com.mp3"
+Aug 15 00:22 : client: [24] opened from [::1]:49876
+Aug 15 00:22 : client: [24] closed
+Aug 15 00:28 : player: played "Biday_Shongbidhan-Minerva/03.Ashirbad-Minerva_FusionBD.Com.mp3"
+Aug 15 00:28 : client: [25] opened from [::1]:50150
+Aug 15 00:28 : client: [25] closed
+Aug 15 00:29 : client: [21] closed
+Aug 15 00:37 : player: played "Biday_Shongbidhan-Minerva/04.Jaatra-Minerva_FusionBD.Com.mp3"
+Aug 15 00:43 : player: played "Biday_Shongbidhan-Minerva/05.God_of_War-Minerva_FusionBD.Com.mp3"
+Aug 15 00:43 : client: [26] opened from [::1]:50190
+Aug 15 00:43 : client: [27] opened from [::1]:50192
+Aug 15 00:43 : client: [27] closed
+Aug 15 00:43 : client: [26] closed
+Aug 15 00:49 : player: played "Biday_Shongbidhan-Minerva/06.Dhongshoprapto_Jaatishotta-Minerva_FusionBD.Com.mp3"
+Aug 15 00:54 : player: played "Biday_Shongbidhan-Minerva/07.Blood_of_Italia-Minerva_FusionBD.Com.mp3"
+Aug 15 01:00 : player: played "Biday_Shongbidhan-Minerva/08.Shongbidhaner_Biday-Minerva_FusionBD.Com.mp3"
+Aug 15 02:15 : avahi: Client Disconnected, will reconnect shortly
+Aug 15 10:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 15 10:36 : config: option 'device' on line 19 was not recognized
+Aug 15 10:36 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 15 15:57 : client: [0] opened from [::1]:59746
+Aug 15 15:57 : client: [0] closed
+Aug 15 15:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 15 15:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 15 15:57 : client: [1] opened from [::1]:59748
+Aug 15 15:57 : client: [1] closed
+Aug 15 16:31 : client: [2] opened from [::1]:60038
+Aug 15 16:31 : client: [3] opened from [::1]:60040
+Aug 15 16:31 : client: [3] closed
+Aug 15 16:31 : client: [4] opened from [::1]:60042
+Aug 15 16:31 : client: [4] closed
+Aug 15 16:31 : client: [5] opened from [::1]:60044
+Aug 15 16:31 : client: [5] closed
+Aug 15 16:31 : client: [6] opened from [::1]:60046
+Aug 15 16:31 : client: [6] closed
+Aug 15 16:31 : client: [7] opened from [::1]:60048
+Aug 15 16:31 : client: [7] closed
+Aug 15 16:31 : client: [8] opened from [::1]:60050
+Aug 15 16:31 : client: [8] closed
+Aug 15 16:31 : client: [9] opened from [::1]:60052
+Aug 15 16:31 : client: [10] opened from [::1]:60054
+Aug 15 16:31 : client: [9] closed
+Aug 15 16:31 : client: [10] closed
+Aug 15 16:31 : client: [11] opened from [::1]:60056
+Aug 15 16:31 : client: [11] closed
+Aug 15 16:31 : client: [2] closed
+Aug 15 16:33 : client: [12] opened from [::1]:60070
+Aug 15 16:33 : client: [13] opened from [::1]:60072
+Aug 15 16:33 : client: [13] closed
+Aug 15 16:33 : client: [12] closed
+Aug 15 16:37 : client: [14] opened from [::1]:60118
+Aug 15 16:37 : client: [15] opened from [::1]:60120
+Aug 15 16:37 : client: [15] closed
+Aug 15 16:37 : client: [14] closed
+Aug 15 16:38 : player: played "Biday_Shongbidhan-Minerva/03.Ashirbad-Minerva_FusionBD.Com.mp3"
+Aug 15 16:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 15 16:38 : config: option 'device' on line 19 was not recognized
+Aug 15 16:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 15 16:38 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 15 16:38 : client: [0] opened from [::1]:60138
+Aug 15 16:38 : client: [1] opened from [::1]:60140
+Aug 15 16:38 : client: [1] closed
+Aug 15 16:38 : client: [0] closed
+Aug 15 18:14 : client: [2] opened from [::1]:60704
+Aug 15 18:14 : client: [3] opened from [::1]:60706
+Aug 15 18:14 : client: [3] closed
+Aug 15 18:14 : client: [2] closed
+Aug 15 18:14 : client: [4] opened from [::1]:60708
+Aug 15 18:14 : client: [5] opened from [::1]:60710
+Aug 15 18:14 : client: [5] closed
+Aug 15 18:15 : client: [4] closed
+Aug 15 18:15 : client: [6] opened from [::1]:60742
+Aug 15 18:15 : client: [7] opened from [::1]:60744
+Aug 15 18:15 : client: [7] closed
+Aug 15 18:15 : player: played "Biday_Shongbidhan-Minerva/03.Ashirbad-Minerva_FusionBD.Com.mp3"
+Aug 15 18:15 : client: [6] closed
+Aug 15 18:15 : client: [8] opened from [::1]:60752
+Aug 15 18:18 : client: [9] opened from [::1]:60786
+Aug 15 18:18 : client: [9] closed
+Aug 15 18:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 15 18:18 : client: [10] opened from [::1]:60788
+Aug 15 18:18 : client: [10] closed
+Aug 15 18:19 : client: [11] opened from [::1]:60792
+Aug 15 18:19 : client: [11] closed
+Aug 15 18:19 : client: [12] opened from [::1]:60794
+Aug 15 18:19 : client: [12] closed
+Aug 15 18:20 : client: [13] opened from [::1]:60800
+Aug 15 18:20 : client: [13] closed
+Aug 15 18:20 : client: [14] opened from [::1]:60802
+Aug 15 18:20 : client: [14] closed
+Aug 15 18:20 : client: [15] opened from [::1]:60804
+Aug 15 18:20 : client: [16] opened from [::1]:60806
+Aug 15 18:20 : client: [15] closed
+Aug 15 18:20 : client: [16] closed
+Aug 15 18:20 : client: [17] opened from [::1]:60808
+Aug 15 18:20 : client: [17] closed
+Aug 15 18:20 : client: [18] opened from [::1]:60810
+Aug 15 18:20 : client: [18] closed
+Aug 15 18:20 : client: [19] opened from [::1]:60812
+Aug 15 18:20 : client: [19] closed
+Aug 15 18:21 : client: [20] opened from [::1]:60814
+Aug 15 18:21 : client: [20] closed
+Aug 15 18:22 : client: [21] opened from [::1]:60816
+Aug 15 18:22 : client: [21] closed
+Aug 15 18:22 : client: [22] opened from [::1]:60818
+Aug 15 18:22 : client: [22] closed
+Aug 15 18:22 : client: [23] opened from [::1]:60820
+Aug 15 18:22 : client: [23] closed
+Aug 15 18:22 : client: [8] closed
+Aug 15 18:22 : client: [24] opened from [::1]:60822
+Aug 15 18:22 : client: [25] opened from [::1]:60824
+Aug 15 18:22 : client: [25] closed
+Aug 15 18:22 : client: [26] opened from [::1]:60826
+Aug 15 18:22 : client: [26] closed
+Aug 15 18:22 : client: [27] opened from [::1]:60828
+Aug 15 18:22 : client: [27] closed
+Aug 15 18:29 : client: [28] opened from [::1]:60844
+Aug 15 18:29 : client: [28] closed
+Aug 15 18:29 : client: [29] opened from [::1]:60846
+Aug 15 18:29 : client: [29] closed
+Aug 15 18:29 : client: [30] opened from [::1]:60848
+Aug 15 18:29 : client: [30] closed
+Aug 15 18:29 : client: [31] opened from [::1]:60850
+Aug 15 18:29 : client: [31] closed
+Aug 15 18:29 : client: [32] opened from [::1]:60852
+Aug 15 18:29 : client: [32] closed
+Aug 15 18:29 : client: [33] opened from [::1]:60854
+Aug 15 18:29 : client: [33] closed
+Aug 15 18:29 : exception: Failed to open /home/tahmid/.config/mpd/playlists: No such file or directory
+Aug 15 18:29 : client: [34] opened from [::1]:60856
+Aug 15 18:29 : client: [34] closed
+Aug 15 18:29 : client: [35] opened from [::1]:60858
+Aug 15 18:29 : client: [35] closed
+Aug 15 18:29 : client: [36] opened from [::1]:60860
+Aug 15 18:29 : client: [36] closed
+Aug 15 18:29 : client: [37] opened from [::1]:60862
+Aug 15 18:29 : client: [37] closed
+Aug 15 18:29 : client: [38] opened from [::1]:60864
+Aug 15 18:29 : client: [38] closed

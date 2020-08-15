@@ -1,0 +1,796 @@
+(N) 2020-08-15T01:34:20 - Peer ID: -qB4250-
+(N) 2020-08-15T01:34:20 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-15T01:34:20 - DHT support [ON]
+(I) 2020-08-15T01:34:20 - Local Peer Discovery support [ON]
+(I) 2020-08-15T01:34:20 - PeX support [ON]
+(I) 2020-08-15T01:34:20 - Anonymous mode [OFF]
+(I) 2020-08-15T01:34:20 - Encryption support [ON]
+(I) 2020-08-15T01:34:20 - UPnP / NAT-PMP support [ON]
+(I) 2020-08-15T01:34:20 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 05:57:26 2020.
+(N) 2020-08-15T01:34:20 - Options were saved successfully.
+(I) 2020-08-15T01:34:20 - Successfully listening on IP: 127.0.0.1, port: TCP/59488
+(I) 2020-08-15T01:34:20 - Successfully listening on IP: 127.0.0.1, port: UDP/59488
+(I) 2020-08-15T01:34:20 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-08-15T01:34:20 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-08-15T01:34:20 - Successfully listening on IP: ::1, port: TCP/59488
+(I) 2020-08-15T01:34:20 - Successfully listening on IP: ::1, port: UDP/59488
+(I) 2020-08-15T01:34:20 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-08-15T01:34:20 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-08-15T01:34:20 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-08-15T01:34:20 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(N) 2020-08-15T01:34:20 - 'House MD Complete Season' restored.
+(N) 2020-08-15T01:34:20 - 'LinkedIn - Become a Data Scientist' restored.
+(N) 2020-08-15T01:34:20 - 'Raat.Akeli.Hai.2020.1080p.NF.WEB-DL.DDP5.1.H.264-KHN.mkv' restored.
+(N) 2020-08-15T01:34:20 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-08-15T01:34:20 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-08-15T01:34:20 - 'Hirak Rajar Deshe (1980) - DvDRip - AC3 - x264 -= theRock7 =-' restored.
+(N) 2020-08-15T01:34:20 - 'Thappad.2020.1080p.AMZN.WEBRip.AAC.5.1.x265-ExCaLiBuR.mkv' restored.
+(N) 2020-08-15T01:34:20 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-08-15T01:34:20 - 'Lord.Of.War.2005.1080p.bluray.DD.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-08-15T01:34:20 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-08-15T01:34:20 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-08-15T01:34:20 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-08-15T01:34:20 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-08-15T01:34:20 - 'IMDb Charts Top 250 Movies Megapack 1080p 10bit BluRay x265 HEVC-MRN' restored.
+(N) 2020-08-15T01:34:20 - 'Once.Upon.a.Time.in.Hollywood.2019.1080p.BluRay.x265-RARBG.mp4' restored.
+(N) 2020-08-15T01:34:20 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-08-15T01:34:20 - 'Radioactive (2019) [720p] [WEBRip] [YTS.MX]' restored.
+(N) 2020-08-15T01:34:20 - 'Satyajit Ray All Movies Bangla' restored.
+(N) 2020-08-15T01:34:20 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-08-15T01:34:20 - 'FrontEndMasters - Four Semesters of Computer Science in 5 Hours, Part 1 & 2' restored.
+(N) 2020-08-15T01:34:20 - 'Mad Men [S01-S07]' restored.
+(N) 2020-08-15T01:34:20 - 'How.to.Sell.Drugs.Online.Fast.S02.720p.NF.WEB-DL.AAC2.0.x264-KnightKing' restored.
+(N) 2020-08-15T01:34:20 - 'The Terminal (2004)' restored.
+(N) 2020-08-15T01:34:20 - 'Persepolis (2007) (1080p BluRay x265 HEVC 10bit AAC 5.1 French Tigole)' restored.
+(N) 2020-08-15T01:34:20 - 'Good.Time.2017.720p.WEB-DL.800MB.MkvCage.mkv' restored.
+(N) 2020-08-15T01:34:20 - 'Masaan.2015.1080p.BRRip.x264.Hindi.AAC-ETRG' restored.
+(N) 2020-08-15T01:34:20 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-08-15T01:34:20 - 'Carl Jung' restored.
+(N) 2020-08-15T01:34:20 - 'De.Dag.S01.720p.SBS.WEB-DL.AAC2.0.H.264-BTN' restored.
+(N) 2020-08-15T01:34:20 - 'Fatal Frame 2014 1080p BluRay x264 Japanese AAC - Ozlem' restored.
+(N) 2020-08-15T01:34:20 - 'C Programming 2019 Become A Pro, Solve a Lot Of Exercises !' restored.
+(I) 2020-08-15T01:34:21 - Detected external IP: 103.102.43.1
+(I) 2020-08-15T01:34:21 - Detected external IP: 103.102.43.17
+(N) 2020-08-15T01:34:30 - qBittorrent v4.2.5 started
+(N) 2020-08-15T01:34:30 - Using config directory: /home/tahmid/.config/qBittorrent/
+(I) 2020-08-15T01:34:30 - Trying to listen on: 0.0.0.0:59488,[::]:59488
+(N) 2020-08-15T01:34:30 - Peer ID: -qB4250-
+(N) 2020-08-15T01:34:30 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-15T01:34:30 - DHT support [ON]
+(I) 2020-08-15T01:34:30 - Local Peer Discovery support [ON]
+(I) 2020-08-15T01:34:30 - PeX support [ON]
+(I) 2020-08-15T01:34:30 - Anonymous mode [OFF]
+(I) 2020-08-15T01:34:30 - Encryption support [ON]
+(I) 2020-08-15T01:34:30 - UPnP / NAT-PMP support [ON]
+(I) 2020-08-15T01:34:30 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 05:57:26 2020.
+(N) 2020-08-15T01:34:31 - Options were saved successfully.
+(I) 2020-08-15T01:34:31 - Successfully listening on IP: 127.0.0.1, port: TCP/59488
+(I) 2020-08-15T01:34:31 - Successfully listening on IP: 127.0.0.1, port: UDP/59488
+(I) 2020-08-15T01:34:31 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-08-15T01:34:31 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-08-15T01:34:31 - Successfully listening on IP: ::1, port: TCP/59488
+(I) 2020-08-15T01:34:31 - Successfully listening on IP: ::1, port: UDP/59488
+(I) 2020-08-15T01:34:31 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-08-15T01:34:31 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-08-15T01:34:31 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-08-15T01:34:31 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(N) 2020-08-15T01:34:31 - 'House MD Complete Season' restored.
+(N) 2020-08-15T01:34:31 - 'LinkedIn - Become a Data Scientist' restored.
+(N) 2020-08-15T01:34:31 - 'Raat.Akeli.Hai.2020.1080p.NF.WEB-DL.DDP5.1.H.264-KHN.mkv' restored.
+(N) 2020-08-15T01:34:31 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-08-15T01:34:31 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-08-15T01:34:31 - 'Hirak Rajar Deshe (1980) - DvDRip - AC3 - x264 -= theRock7 =-' restored.
+(N) 2020-08-15T01:34:31 - 'Thappad.2020.1080p.AMZN.WEBRip.AAC.5.1.x265-ExCaLiBuR.mkv' restored.
+(N) 2020-08-15T01:34:31 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-08-15T01:34:31 - 'Lord.Of.War.2005.1080p.bluray.DD.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-08-15T01:34:31 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-08-15T01:34:31 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-08-15T01:34:31 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-08-15T01:34:31 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-08-15T01:34:31 - 'IMDb Charts Top 250 Movies Megapack 1080p 10bit BluRay x265 HEVC-MRN' restored.
+(N) 2020-08-15T01:34:31 - 'Once.Upon.a.Time.in.Hollywood.2019.1080p.BluRay.x265-RARBG.mp4' restored.
+(N) 2020-08-15T01:34:31 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-08-15T01:34:31 - 'Radioactive (2019) [720p] [WEBRip] [YTS.MX]' restored.
+(N) 2020-08-15T01:34:31 - 'Satyajit Ray All Movies Bangla' restored.
+(N) 2020-08-15T01:34:31 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-08-15T01:34:31 - 'FrontEndMasters - Four Semesters of Computer Science in 5 Hours, Part 1 & 2' restored.
+(N) 2020-08-15T01:34:31 - 'Mad Men [S01-S07]' restored.
+(N) 2020-08-15T01:34:31 - 'How.to.Sell.Drugs.Online.Fast.S02.720p.NF.WEB-DL.AAC2.0.x264-KnightKing' restored.
+(N) 2020-08-15T01:34:31 - 'The Terminal (2004)' restored.
+(N) 2020-08-15T01:34:31 - 'Persepolis (2007) (1080p BluRay x265 HEVC 10bit AAC 5.1 French Tigole)' restored.
+(N) 2020-08-15T01:34:31 - 'Good.Time.2017.720p.WEB-DL.800MB.MkvCage.mkv' restored.
+(N) 2020-08-15T01:34:31 - 'Masaan.2015.1080p.BRRip.x264.Hindi.AAC-ETRG' restored.
+(N) 2020-08-15T01:34:31 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-08-15T01:34:31 - 'Carl Jung' restored.
+(N) 2020-08-15T01:34:31 - 'De.Dag.S01.720p.SBS.WEB-DL.AAC2.0.H.264-BTN' restored.
+(N) 2020-08-15T01:34:31 - 'Fatal Frame 2014 1080p BluRay x264 Japanese AAC - Ozlem' restored.
+(N) 2020-08-15T01:34:31 - 'C Programming 2019 Become A Pro, Solve a Lot Of Exercises !' restored.
+(I) 2020-08-15T01:34:31 - Detected external IP: 103.102.43.1
+(I) 2020-08-15T01:34:32 - Detected external IP: 103.102.43.17
+(N) 2020-08-15T01:34:45 - qBittorrent v4.2.5 started
+(N) 2020-08-15T01:34:45 - Using config directory: /home/tahmid/.config/qBittorrent/
+(I) 2020-08-15T01:34:45 - Trying to listen on: 0.0.0.0:59488,[::]:59488
+(N) 2020-08-15T01:34:45 - Peer ID: -qB4250-
+(N) 2020-08-15T01:34:45 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-15T01:34:45 - DHT support [ON]
+(I) 2020-08-15T01:34:45 - Local Peer Discovery support [ON]
+(I) 2020-08-15T01:34:45 - PeX support [ON]
+(I) 2020-08-15T01:34:45 - Anonymous mode [OFF]
+(I) 2020-08-15T01:34:45 - Encryption support [ON]
+(I) 2020-08-15T01:34:45 - UPnP / NAT-PMP support [ON]
+(I) 2020-08-15T01:34:45 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 05:57:26 2020.
+(N) 2020-08-15T01:34:45 - Options were saved successfully.
+(I) 2020-08-15T01:34:45 - Successfully listening on IP: 127.0.0.1, port: TCP/59488
+(I) 2020-08-15T01:34:45 - Successfully listening on IP: 127.0.0.1, port: UDP/59488
+(I) 2020-08-15T01:34:45 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-08-15T01:34:45 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-08-15T01:34:45 - Successfully listening on IP: ::1, port: TCP/59488
+(I) 2020-08-15T01:34:45 - Successfully listening on IP: ::1, port: UDP/59488
+(I) 2020-08-15T01:34:45 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-08-15T01:34:45 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-08-15T01:34:45 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-08-15T01:34:45 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(N) 2020-08-15T01:34:45 - 'House MD Complete Season' restored.
+(N) 2020-08-15T01:34:45 - 'LinkedIn - Become a Data Scientist' restored.
+(N) 2020-08-15T01:34:45 - 'Raat.Akeli.Hai.2020.1080p.NF.WEB-DL.DDP5.1.H.264-KHN.mkv' restored.
+(N) 2020-08-15T01:34:45 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-08-15T01:34:45 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-08-15T01:34:45 - 'Hirak Rajar Deshe (1980) - DvDRip - AC3 - x264 -= theRock7 =-' restored.
+(N) 2020-08-15T01:34:45 - 'Thappad.2020.1080p.AMZN.WEBRip.AAC.5.1.x265-ExCaLiBuR.mkv' restored.
+(N) 2020-08-15T01:34:45 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-08-15T01:34:45 - 'Lord.Of.War.2005.1080p.bluray.DD.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-08-15T01:34:45 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-08-15T01:34:45 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-08-15T01:34:45 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-08-15T01:34:45 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-08-15T01:34:45 - 'IMDb Charts Top 250 Movies Megapack 1080p 10bit BluRay x265 HEVC-MRN' restored.
+(N) 2020-08-15T01:34:45 - 'Once.Upon.a.Time.in.Hollywood.2019.1080p.BluRay.x265-RARBG.mp4' restored.
+(N) 2020-08-15T01:34:45 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-08-15T01:34:45 - 'Radioactive (2019) [720p] [WEBRip] [YTS.MX]' restored.
+(N) 2020-08-15T01:34:45 - 'Satyajit Ray All Movies Bangla' restored.
+(N) 2020-08-15T01:34:45 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-08-15T01:34:45 - 'FrontEndMasters - Four Semesters of Computer Science in 5 Hours, Part 1 & 2' restored.
+(N) 2020-08-15T01:34:45 - 'Mad Men [S01-S07]' restored.
+(N) 2020-08-15T01:34:45 - 'How.to.Sell.Drugs.Online.Fast.S02.720p.NF.WEB-DL.AAC2.0.x264-KnightKing' restored.
+(N) 2020-08-15T01:34:45 - 'The Terminal (2004)' restored.
+(N) 2020-08-15T01:34:45 - 'Persepolis (2007) (1080p BluRay x265 HEVC 10bit AAC 5.1 French Tigole)' restored.
+(N) 2020-08-15T01:34:45 - 'Good.Time.2017.720p.WEB-DL.800MB.MkvCage.mkv' restored.
+(N) 2020-08-15T01:34:45 - 'Masaan.2015.1080p.BRRip.x264.Hindi.AAC-ETRG' restored.
+(N) 2020-08-15T01:34:45 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-08-15T01:34:45 - 'Carl Jung' restored.
+(N) 2020-08-15T01:34:45 - 'De.Dag.S01.720p.SBS.WEB-DL.AAC2.0.H.264-BTN' restored.
+(N) 2020-08-15T01:34:45 - 'Fatal Frame 2014 1080p BluRay x264 Japanese AAC - Ozlem' restored.
+(N) 2020-08-15T01:34:45 - 'C Programming 2019 Become A Pro, Solve a Lot Of Exercises !' restored.
+(I) 2020-08-15T01:34:46 - Detected external IP: 103.102.43.1
+(I) 2020-08-15T01:34:46 - Detected external IP: 103.102.43.17
+(N) 2020-08-15T01:36:11 - qBittorrent v4.2.5 started
+(N) 2020-08-15T01:36:11 - Using config directory: /home/tahmid/.config/qBittorrent/
+(I) 2020-08-15T01:36:11 - Trying to listen on: 0.0.0.0:59488,[::]:59488
+(N) 2020-08-15T01:36:11 - Peer ID: -qB4250-
+(N) 2020-08-15T01:36:11 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-15T01:36:11 - DHT support [ON]
+(I) 2020-08-15T01:36:11 - Local Peer Discovery support [ON]
+(I) 2020-08-15T01:36:11 - PeX support [ON]
+(I) 2020-08-15T01:36:11 - Anonymous mode [OFF]
+(I) 2020-08-15T01:36:11 - Encryption support [ON]
+(I) 2020-08-15T01:36:11 - UPnP / NAT-PMP support [ON]
+(I) 2020-08-15T01:36:11 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 05:57:26 2020.
+(N) 2020-08-15T01:36:12 - Options were saved successfully.
+(I) 2020-08-15T01:36:12 - Successfully listening on IP: 127.0.0.1, port: TCP/59488
+(I) 2020-08-15T01:36:12 - Successfully listening on IP: 127.0.0.1, port: UDP/59488
+(I) 2020-08-15T01:36:12 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-08-15T01:36:12 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-08-15T01:36:12 - Successfully listening on IP: ::1, port: TCP/59488
+(I) 2020-08-15T01:36:12 - Successfully listening on IP: ::1, port: UDP/59488
+(I) 2020-08-15T01:36:12 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-08-15T01:36:12 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-08-15T01:36:12 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-08-15T01:36:12 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(N) 2020-08-15T01:36:12 - 'House MD Complete Season' restored.
+(N) 2020-08-15T01:36:12 - 'LinkedIn - Become a Data Scientist' restored.
+(N) 2020-08-15T01:36:12 - 'Raat.Akeli.Hai.2020.1080p.NF.WEB-DL.DDP5.1.H.264-KHN.mkv' restored.
+(N) 2020-08-15T01:36:12 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-08-15T01:36:12 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-08-15T01:36:12 - 'Hirak Rajar Deshe (1980) - DvDRip - AC3 - x264 -= theRock7 =-' restored.
+(N) 2020-08-15T01:36:12 - 'Thappad.2020.1080p.AMZN.WEBRip.AAC.5.1.x265-ExCaLiBuR.mkv' restored.
+(N) 2020-08-15T01:36:12 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-08-15T01:36:12 - 'Lord.Of.War.2005.1080p.bluray.DD.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-08-15T01:36:12 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-08-15T01:36:12 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-08-15T01:36:12 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-08-15T01:36:12 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-08-15T01:36:12 - 'IMDb Charts Top 250 Movies Megapack 1080p 10bit BluRay x265 HEVC-MRN' restored.
+(N) 2020-08-15T01:36:12 - 'Once.Upon.a.Time.in.Hollywood.2019.1080p.BluRay.x265-RARBG.mp4' restored.
+(N) 2020-08-15T01:36:12 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-08-15T01:36:12 - 'Radioactive (2019) [720p] [WEBRip] [YTS.MX]' restored.
+(N) 2020-08-15T01:36:12 - 'Satyajit Ray All Movies Bangla' restored.
+(N) 2020-08-15T01:36:12 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-08-15T01:36:12 - 'FrontEndMasters - Four Semesters of Computer Science in 5 Hours, Part 1 & 2' restored.
+(N) 2020-08-15T01:36:12 - 'Mad Men [S01-S07]' restored.
+(N) 2020-08-15T01:36:12 - 'How.to.Sell.Drugs.Online.Fast.S02.720p.NF.WEB-DL.AAC2.0.x264-KnightKing' restored.
+(N) 2020-08-15T01:36:12 - 'The Terminal (2004)' restored.
+(N) 2020-08-15T01:36:12 - 'Persepolis (2007) (1080p BluRay x265 HEVC 10bit AAC 5.1 French Tigole)' restored.
+(N) 2020-08-15T01:36:12 - 'Good.Time.2017.720p.WEB-DL.800MB.MkvCage.mkv' restored.
+(N) 2020-08-15T01:36:12 - 'Masaan.2015.1080p.BRRip.x264.Hindi.AAC-ETRG' restored.
+(N) 2020-08-15T01:36:12 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-08-15T01:36:12 - 'Carl Jung' restored.
+(N) 2020-08-15T01:36:12 - 'De.Dag.S01.720p.SBS.WEB-DL.AAC2.0.H.264-BTN' restored.
+(N) 2020-08-15T01:36:12 - 'Fatal Frame 2014 1080p BluRay x264 Japanese AAC - Ozlem' restored.
+(N) 2020-08-15T01:36:12 - 'C Programming 2019 Become A Pro, Solve a Lot Of Exercises !' restored.
+(I) 2020-08-15T01:36:12 - Detected external IP: 103.102.43.17
+(N) 2020-08-15T01:36:42 - qBittorrent v4.2.5 started
+(N) 2020-08-15T01:36:42 - Using config directory: /home/tahmid/.config/qBittorrent/
+(I) 2020-08-15T01:36:42 - Trying to listen on: 0.0.0.0:59488,[::]:59488
+(N) 2020-08-15T01:36:42 - Peer ID: -qB4250-
+(N) 2020-08-15T01:36:42 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-15T01:36:42 - DHT support [ON]
+(I) 2020-08-15T01:36:42 - Local Peer Discovery support [ON]
+(I) 2020-08-15T01:36:42 - PeX support [ON]
+(I) 2020-08-15T01:36:42 - Anonymous mode [OFF]
+(I) 2020-08-15T01:36:42 - Encryption support [ON]
+(I) 2020-08-15T01:36:42 - UPnP / NAT-PMP support [ON]
+(I) 2020-08-15T01:36:42 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 05:57:26 2020.
+(N) 2020-08-15T01:36:42 - Options were saved successfully.
+(I) 2020-08-15T01:36:43 - Successfully listening on IP: 127.0.0.1, port: TCP/59488
+(I) 2020-08-15T01:36:43 - Successfully listening on IP: 127.0.0.1, port: UDP/59488
+(I) 2020-08-15T01:36:43 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-08-15T01:36:43 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-08-15T01:36:43 - Successfully listening on IP: ::1, port: TCP/59488
+(I) 2020-08-15T01:36:43 - Successfully listening on IP: ::1, port: UDP/59488
+(I) 2020-08-15T01:36:43 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-08-15T01:36:43 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-08-15T01:36:43 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-08-15T01:36:43 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(N) 2020-08-15T01:36:43 - 'House MD Complete Season' restored.
+(N) 2020-08-15T01:36:43 - 'LinkedIn - Become a Data Scientist' restored.
+(N) 2020-08-15T01:36:43 - 'Raat.Akeli.Hai.2020.1080p.NF.WEB-DL.DDP5.1.H.264-KHN.mkv' restored.
+(N) 2020-08-15T01:36:43 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-08-15T01:36:43 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-08-15T01:36:43 - 'Hirak Rajar Deshe (1980) - DvDRip - AC3 - x264 -= theRock7 =-' restored.
+(N) 2020-08-15T01:36:43 - 'Thappad.2020.1080p.AMZN.WEBRip.AAC.5.1.x265-ExCaLiBuR.mkv' restored.
+(N) 2020-08-15T01:36:43 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-08-15T01:36:43 - 'Lord.Of.War.2005.1080p.bluray.DD.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-08-15T01:36:43 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-08-15T01:36:43 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-08-15T01:36:43 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-08-15T01:36:43 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-08-15T01:36:43 - 'IMDb Charts Top 250 Movies Megapack 1080p 10bit BluRay x265 HEVC-MRN' restored.
+(N) 2020-08-15T01:36:43 - 'Once.Upon.a.Time.in.Hollywood.2019.1080p.BluRay.x265-RARBG.mp4' restored.
+(N) 2020-08-15T01:36:43 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-08-15T01:36:43 - 'Radioactive (2019) [720p] [WEBRip] [YTS.MX]' restored.
+(N) 2020-08-15T01:36:43 - 'Satyajit Ray All Movies Bangla' restored.
+(N) 2020-08-15T01:36:43 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-08-15T01:36:43 - 'FrontEndMasters - Four Semesters of Computer Science in 5 Hours, Part 1 & 2' restored.
+(N) 2020-08-15T01:36:43 - 'Mad Men [S01-S07]' restored.
+(N) 2020-08-15T01:36:43 - 'How.to.Sell.Drugs.Online.Fast.S02.720p.NF.WEB-DL.AAC2.0.x264-KnightKing' restored.
+(N) 2020-08-15T01:36:43 - 'The Terminal (2004)' restored.
+(N) 2020-08-15T01:36:43 - 'Persepolis (2007) (1080p BluRay x265 HEVC 10bit AAC 5.1 French Tigole)' restored.
+(N) 2020-08-15T01:36:43 - 'Good.Time.2017.720p.WEB-DL.800MB.MkvCage.mkv' restored.
+(N) 2020-08-15T01:36:43 - 'Masaan.2015.1080p.BRRip.x264.Hindi.AAC-ETRG' restored.
+(N) 2020-08-15T01:36:43 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-08-15T01:36:43 - 'Carl Jung' restored.
+(N) 2020-08-15T01:36:43 - 'De.Dag.S01.720p.SBS.WEB-DL.AAC2.0.H.264-BTN' restored.
+(N) 2020-08-15T01:36:43 - 'Fatal Frame 2014 1080p BluRay x264 Japanese AAC - Ozlem' restored.
+(N) 2020-08-15T01:36:43 - 'C Programming 2019 Become A Pro, Solve a Lot Of Exercises !' restored.
+(I) 2020-08-15T01:36:43 - Detected external IP: 103.102.43.17
+(N) 2020-08-15T01:56:06 - qBittorrent v4.2.5 started
+(N) 2020-08-15T01:56:06 - Using config directory: /home/tahmid/.config/qBittorrent/
+(I) 2020-08-15T01:56:06 - Trying to listen on: 0.0.0.0:59488,[::]:59488
+(N) 2020-08-15T01:56:06 - Peer ID: -qB4250-
+(N) 2020-08-15T01:56:06 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-15T01:56:06 - DHT support [ON]
+(I) 2020-08-15T01:56:06 - Local Peer Discovery support [ON]
+(I) 2020-08-15T01:56:06 - PeX support [ON]
+(I) 2020-08-15T01:56:06 - Anonymous mode [OFF]
+(I) 2020-08-15T01:56:06 - Encryption support [ON]
+(I) 2020-08-15T01:56:06 - UPnP / NAT-PMP support [ON]
+(I) 2020-08-15T01:56:06 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 05:57:26 2020.
+(N) 2020-08-15T01:56:07 - Options were saved successfully.
+(I) 2020-08-15T01:56:08 - Successfully listening on IP: 127.0.0.1, port: TCP/59488
+(I) 2020-08-15T01:56:08 - Successfully listening on IP: 127.0.0.1, port: UDP/59488
+(I) 2020-08-15T01:56:08 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-08-15T01:56:08 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-08-15T01:56:08 - Successfully listening on IP: ::1, port: TCP/59488
+(I) 2020-08-15T01:56:08 - Successfully listening on IP: ::1, port: UDP/59488
+(I) 2020-08-15T01:56:08 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-08-15T01:56:08 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-08-15T01:56:08 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-08-15T01:56:08 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-08-15T01:56:08 - Detected external IP: 103.102.43.17
+(N) 2020-08-15T01:56:08 - 'House MD Complete Season' restored.
+(N) 2020-08-15T01:56:08 - 'LinkedIn - Become a Data Scientist' restored.
+(N) 2020-08-15T01:56:08 - 'Raat.Akeli.Hai.2020.1080p.NF.WEB-DL.DDP5.1.H.264-KHN.mkv' restored.
+(N) 2020-08-15T01:56:08 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-08-15T01:56:08 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-08-15T01:56:08 - 'Hirak Rajar Deshe (1980) - DvDRip - AC3 - x264 -= theRock7 =-' restored.
+(N) 2020-08-15T01:56:08 - 'Thappad.2020.1080p.AMZN.WEBRip.AAC.5.1.x265-ExCaLiBuR.mkv' restored.
+(N) 2020-08-15T01:56:08 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-08-15T01:56:08 - 'Lord.Of.War.2005.1080p.bluray.DD.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-08-15T01:56:08 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-08-15T01:56:08 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-08-15T01:56:08 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-08-15T01:56:08 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-08-15T01:56:08 - 'IMDb Charts Top 250 Movies Megapack 1080p 10bit BluRay x265 HEVC-MRN' restored.
+(N) 2020-08-15T01:56:08 - 'Once.Upon.a.Time.in.Hollywood.2019.1080p.BluRay.x265-RARBG.mp4' restored.
+(N) 2020-08-15T01:56:08 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-08-15T01:56:08 - 'Radioactive (2019) [720p] [WEBRip] [YTS.MX]' restored.
+(N) 2020-08-15T01:56:08 - 'Satyajit Ray All Movies Bangla' restored.
+(N) 2020-08-15T01:56:08 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-08-15T01:56:08 - 'FrontEndMasters - Four Semesters of Computer Science in 5 Hours, Part 1 & 2' restored.
+(N) 2020-08-15T01:56:08 - 'Mad Men [S01-S07]' restored.
+(N) 2020-08-15T01:56:08 - 'How.to.Sell.Drugs.Online.Fast.S02.720p.NF.WEB-DL.AAC2.0.x264-KnightKing' restored.
+(N) 2020-08-15T01:56:08 - 'The Terminal (2004)' restored.
+(N) 2020-08-15T01:56:08 - 'Persepolis (2007) (1080p BluRay x265 HEVC 10bit AAC 5.1 French Tigole)' restored.
+(N) 2020-08-15T01:56:08 - 'Good.Time.2017.720p.WEB-DL.800MB.MkvCage.mkv' restored.
+(N) 2020-08-15T01:56:08 - 'Masaan.2015.1080p.BRRip.x264.Hindi.AAC-ETRG' restored.
+(N) 2020-08-15T01:56:08 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-08-15T01:56:08 - 'Carl Jung' restored.
+(N) 2020-08-15T01:56:08 - 'De.Dag.S01.720p.SBS.WEB-DL.AAC2.0.H.264-BTN' restored.
+(N) 2020-08-15T01:56:08 - 'Fatal Frame 2014 1080p BluRay x264 Japanese AAC - Ozlem' restored.
+(N) 2020-08-15T01:56:08 - 'C Programming 2019 Become A Pro, Solve a Lot Of Exercises !' restored.
+(N) 2020-08-15T02:00:12 - qBittorrent v4.2.5 started
+(N) 2020-08-15T02:00:12 - Using config directory: /home/tahmid/.config/qBittorrent/
+(I) 2020-08-15T02:00:12 - Trying to listen on: 0.0.0.0:59488,[::]:59488
+(N) 2020-08-15T02:00:12 - Peer ID: -qB4250-
+(N) 2020-08-15T02:00:12 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-15T02:00:12 - DHT support [ON]
+(I) 2020-08-15T02:00:12 - Local Peer Discovery support [ON]
+(I) 2020-08-15T02:00:12 - PeX support [ON]
+(I) 2020-08-15T02:00:12 - Anonymous mode [OFF]
+(I) 2020-08-15T02:00:12 - Encryption support [ON]
+(I) 2020-08-15T02:00:12 - UPnP / NAT-PMP support [ON]
+(I) 2020-08-15T02:00:12 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 05:57:26 2020.
+(N) 2020-08-15T02:00:12 - Options were saved successfully.
+(I) 2020-08-15T02:00:12 - Successfully listening on IP: 127.0.0.1, port: TCP/59488
+(I) 2020-08-15T02:00:12 - Successfully listening on IP: 127.0.0.1, port: UDP/59488
+(I) 2020-08-15T02:00:12 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-08-15T02:00:12 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-08-15T02:00:12 - Successfully listening on IP: ::1, port: TCP/59488
+(I) 2020-08-15T02:00:12 - Successfully listening on IP: ::1, port: UDP/59488
+(I) 2020-08-15T02:00:12 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-08-15T02:00:12 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(N) 2020-08-15T02:00:12 - 'House MD Complete Season' restored.
+(N) 2020-08-15T02:00:12 - 'LinkedIn - Become a Data Scientist' restored.
+(N) 2020-08-15T02:00:12 - 'Raat.Akeli.Hai.2020.1080p.NF.WEB-DL.DDP5.1.H.264-KHN.mkv' restored.
+(N) 2020-08-15T02:00:12 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-08-15T02:00:12 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-08-15T02:00:12 - 'Hirak Rajar Deshe (1980) - DvDRip - AC3 - x264 -= theRock7 =-' restored.
+(N) 2020-08-15T02:00:12 - 'Thappad.2020.1080p.AMZN.WEBRip.AAC.5.1.x265-ExCaLiBuR.mkv' restored.
+(N) 2020-08-15T02:00:12 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-08-15T02:00:12 - 'Lord.Of.War.2005.1080p.bluray.DD.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-08-15T02:00:12 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-08-15T02:00:12 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-08-15T02:00:12 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-08-15T02:00:12 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(I) 2020-08-15T02:00:12 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(N) 2020-08-15T02:00:12 - 'IMDb Charts Top 250 Movies Megapack 1080p 10bit BluRay x265 HEVC-MRN' restored.
+(N) 2020-08-15T02:00:12 - 'Once.Upon.a.Time.in.Hollywood.2019.1080p.BluRay.x265-RARBG.mp4' restored.
+(N) 2020-08-15T02:00:12 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-08-15T02:00:12 - 'Radioactive (2019) [720p] [WEBRip] [YTS.MX]' restored.
+(N) 2020-08-15T02:00:12 - 'Satyajit Ray All Movies Bangla' restored.
+(N) 2020-08-15T02:00:12 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-08-15T02:00:12 - 'FrontEndMasters - Four Semesters of Computer Science in 5 Hours, Part 1 & 2' restored.
+(N) 2020-08-15T02:00:12 - 'Mad Men [S01-S07]' restored.
+(N) 2020-08-15T02:00:12 - 'How.to.Sell.Drugs.Online.Fast.S02.720p.NF.WEB-DL.AAC2.0.x264-KnightKing' restored.
+(N) 2020-08-15T02:00:12 - 'The Terminal (2004)' restored.
+(N) 2020-08-15T02:00:12 - 'Persepolis (2007) (1080p BluRay x265 HEVC 10bit AAC 5.1 French Tigole)' restored.
+(N) 2020-08-15T02:00:12 - 'Good.Time.2017.720p.WEB-DL.800MB.MkvCage.mkv' restored.
+(N) 2020-08-15T02:00:12 - 'Masaan.2015.1080p.BRRip.x264.Hindi.AAC-ETRG' restored.
+(N) 2020-08-15T02:00:12 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-08-15T02:00:12 - 'Carl Jung' restored.
+(N) 2020-08-15T02:00:12 - 'De.Dag.S01.720p.SBS.WEB-DL.AAC2.0.H.264-BTN' restored.
+(N) 2020-08-15T02:00:12 - 'Fatal Frame 2014 1080p BluRay x264 Japanese AAC - Ozlem' restored.
+(N) 2020-08-15T02:00:12 - 'C Programming 2019 Become A Pro, Solve a Lot Of Exercises !' restored.
+(I) 2020-08-15T02:00:12 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-08-15T02:00:12 - Detected external IP: 103.102.43.17
+(N) 2020-08-15T10:36:13 - qBittorrent v4.2.5 started
+(N) 2020-08-15T10:36:13 - Using config directory: /home/tahmid/.config/qBittorrent/
+(I) 2020-08-15T10:36:13 - Trying to listen on: 0.0.0.0:59488,[::]:59488
+(N) 2020-08-15T10:36:13 - Peer ID: -qB4250-
+(N) 2020-08-15T10:36:13 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-15T10:36:13 - DHT support [ON]
+(I) 2020-08-15T10:36:13 - Local Peer Discovery support [ON]
+(I) 2020-08-15T10:36:13 - PeX support [ON]
+(I) 2020-08-15T10:36:13 - Anonymous mode [OFF]
+(I) 2020-08-15T10:36:13 - Encryption support [ON]
+(I) 2020-08-15T10:36:13 - UPnP / NAT-PMP support [ON]
+(I) 2020-08-15T10:36:13 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 05:57:26 2020.
+(N) 2020-08-15T10:36:24 - Options were saved successfully.
+(I) 2020-08-15T10:36:25 - Successfully listening on IP: 127.0.0.1, port: TCP/59488
+(I) 2020-08-15T10:36:25 - Successfully listening on IP: 127.0.0.1, port: UDP/59488
+(I) 2020-08-15T10:36:25 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-08-15T10:36:25 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-08-15T10:36:25 - Successfully listening on IP: ::1, port: TCP/59488
+(I) 2020-08-15T10:36:25 - Successfully listening on IP: ::1, port: UDP/59488
+(I) 2020-08-15T10:36:25 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-08-15T10:36:25 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-08-15T10:36:25 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-08-15T10:36:25 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-08-15T10:36:25 - Detected external IP: 103.102.43.17
+(N) 2020-08-15T10:36:28 - 'House MD Complete Season' restored.
+(N) 2020-08-15T10:36:28 - 'LinkedIn - Become a Data Scientist' restored.
+(N) 2020-08-15T10:36:28 - 'Raat.Akeli.Hai.2020.1080p.NF.WEB-DL.DDP5.1.H.264-KHN.mkv' restored.
+(N) 2020-08-15T10:36:28 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-08-15T10:36:28 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-08-15T10:36:28 - 'Hirak Rajar Deshe (1980) - DvDRip - AC3 - x264 -= theRock7 =-' restored.
+(N) 2020-08-15T10:36:28 - 'Thappad.2020.1080p.AMZN.WEBRip.AAC.5.1.x265-ExCaLiBuR.mkv' restored.
+(N) 2020-08-15T10:36:28 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-08-15T10:36:28 - 'Lord.Of.War.2005.1080p.bluray.DD.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-08-15T10:36:28 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-08-15T10:36:28 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-08-15T10:36:28 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-08-15T10:36:28 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-08-15T10:36:28 - 'IMDb Charts Top 250 Movies Megapack 1080p 10bit BluRay x265 HEVC-MRN' restored.
+(N) 2020-08-15T10:36:28 - 'Once.Upon.a.Time.in.Hollywood.2019.1080p.BluRay.x265-RARBG.mp4' restored.
+(N) 2020-08-15T10:36:28 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-08-15T10:36:28 - 'Radioactive (2019) [720p] [WEBRip] [YTS.MX]' restored.
+(N) 2020-08-15T10:36:28 - 'Satyajit Ray All Movies Bangla' restored.
+(N) 2020-08-15T10:36:28 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-08-15T10:36:28 - 'FrontEndMasters - Four Semesters of Computer Science in 5 Hours, Part 1 & 2' restored.
+(N) 2020-08-15T10:36:28 - 'Mad Men [S01-S07]' restored.
+(N) 2020-08-15T10:36:28 - 'How.to.Sell.Drugs.Online.Fast.S02.720p.NF.WEB-DL.AAC2.0.x264-KnightKing' restored.
+(N) 2020-08-15T10:36:28 - 'The Terminal (2004)' restored.
+(N) 2020-08-15T10:36:28 - 'Persepolis (2007) (1080p BluRay x265 HEVC 10bit AAC 5.1 French Tigole)' restored.
+(N) 2020-08-15T10:36:28 - 'Good.Time.2017.720p.WEB-DL.800MB.MkvCage.mkv' restored.
+(N) 2020-08-15T10:36:28 - 'Masaan.2015.1080p.BRRip.x264.Hindi.AAC-ETRG' restored.
+(N) 2020-08-15T10:36:28 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-08-15T10:36:28 - 'Carl Jung' restored.
+(N) 2020-08-15T10:36:28 - 'De.Dag.S01.720p.SBS.WEB-DL.AAC2.0.H.264-BTN' restored.
+(N) 2020-08-15T10:36:28 - 'Fatal Frame 2014 1080p BluRay x264 Japanese AAC - Ozlem' restored.
+(N) 2020-08-15T10:36:28 - 'C Programming 2019 Become A Pro, Solve a Lot Of Exercises !' restored.
+(N) 2020-08-15T10:41:57 - qBittorrent v4.2.5 started
+(N) 2020-08-15T10:41:57 - Using config directory: /home/tahmid/.config/qBittorrent/
+(I) 2020-08-15T10:41:57 - Trying to listen on: 0.0.0.0:59488,[::]:59488
+(N) 2020-08-15T10:41:57 - Peer ID: -qB4250-
+(N) 2020-08-15T10:41:57 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-15T10:41:57 - DHT support [ON]
+(I) 2020-08-15T10:41:57 - Local Peer Discovery support [ON]
+(I) 2020-08-15T10:41:57 - PeX support [ON]
+(I) 2020-08-15T10:41:57 - Anonymous mode [OFF]
+(I) 2020-08-15T10:41:57 - Encryption support [ON]
+(I) 2020-08-15T10:41:57 - UPnP / NAT-PMP support [ON]
+(I) 2020-08-15T10:41:57 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 05:57:26 2020.
+(N) 2020-08-15T10:41:57 - Options were saved successfully.
+(I) 2020-08-15T10:41:58 - Successfully listening on IP: 127.0.0.1, port: TCP/59488
+(I) 2020-08-15T10:41:58 - Successfully listening on IP: 127.0.0.1, port: UDP/59488
+(I) 2020-08-15T10:41:58 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-08-15T10:41:58 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-08-15T10:41:58 - Successfully listening on IP: ::1, port: TCP/59488
+(I) 2020-08-15T10:41:58 - Successfully listening on IP: ::1, port: UDP/59488
+(I) 2020-08-15T10:41:58 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-08-15T10:41:58 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(N) 2020-08-15T10:41:58 - 'House MD Complete Season' restored.
+(N) 2020-08-15T10:41:58 - 'LinkedIn - Become a Data Scientist' restored.
+(N) 2020-08-15T10:41:58 - 'Raat.Akeli.Hai.2020.1080p.NF.WEB-DL.DDP5.1.H.264-KHN.mkv' restored.
+(N) 2020-08-15T10:41:58 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-08-15T10:41:58 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-08-15T10:41:58 - 'Hirak Rajar Deshe (1980) - DvDRip - AC3 - x264 -= theRock7 =-' restored.
+(N) 2020-08-15T10:41:58 - 'Thappad.2020.1080p.AMZN.WEBRip.AAC.5.1.x265-ExCaLiBuR.mkv' restored.
+(N) 2020-08-15T10:41:58 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-08-15T10:41:58 - 'Lord.Of.War.2005.1080p.bluray.DD.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-08-15T10:41:58 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-08-15T10:41:58 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-08-15T10:41:58 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-08-15T10:41:58 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-08-15T10:41:58 - 'IMDb Charts Top 250 Movies Megapack 1080p 10bit BluRay x265 HEVC-MRN' restored.
+(N) 2020-08-15T10:41:58 - 'Once.Upon.a.Time.in.Hollywood.2019.1080p.BluRay.x265-RARBG.mp4' restored.
+(N) 2020-08-15T10:41:58 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-08-15T10:41:58 - 'Radioactive (2019) [720p] [WEBRip] [YTS.MX]' restored.
+(N) 2020-08-15T10:41:58 - 'Satyajit Ray All Movies Bangla' restored.
+(N) 2020-08-15T10:41:58 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-08-15T10:41:58 - 'FrontEndMasters - Four Semesters of Computer Science in 5 Hours, Part 1 & 2' restored.
+(N) 2020-08-15T10:41:58 - 'Mad Men [S01-S07]' restored.
+(N) 2020-08-15T10:41:58 - 'How.to.Sell.Drugs.Online.Fast.S02.720p.NF.WEB-DL.AAC2.0.x264-KnightKing' restored.
+(N) 2020-08-15T10:41:58 - 'The Terminal (2004)' restored.
+(N) 2020-08-15T10:41:58 - 'Persepolis (2007) (1080p BluRay x265 HEVC 10bit AAC 5.1 French Tigole)' restored.
+(N) 2020-08-15T10:41:58 - 'Good.Time.2017.720p.WEB-DL.800MB.MkvCage.mkv' restored.
+(N) 2020-08-15T10:41:58 - 'Masaan.2015.1080p.BRRip.x264.Hindi.AAC-ETRG' restored.
+(N) 2020-08-15T10:41:58 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-08-15T10:41:58 - 'Carl Jung' restored.
+(N) 2020-08-15T10:41:58 - 'De.Dag.S01.720p.SBS.WEB-DL.AAC2.0.H.264-BTN' restored.
+(N) 2020-08-15T10:41:58 - 'Fatal Frame 2014 1080p BluRay x264 Japanese AAC - Ozlem' restored.
+(N) 2020-08-15T10:41:58 - 'C Programming 2019 Become A Pro, Solve a Lot Of Exercises !' restored.
+(I) 2020-08-15T10:41:58 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-08-15T10:41:58 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-08-15T10:41:58 - Detected external IP: 103.102.43.17
+(I) 2020-08-15T11:26:58 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-08-15T11:26:58 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(C) 2020-08-15T11:31:04 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-08-15T11:31:04 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-08-15T11:31:08 - Successfully listening on IP: fe80::23ee:9bc5:9643:3c47%wlan0, port: TCP/59488
+(I) 2020-08-15T11:31:08 - Successfully listening on IP: fe80::23ee:9bc5:9643:3c47%wlan0, port: UDP/59488
+(I) 2020-08-15T11:31:41 - Successfully listening on IP: 192.168.0.102, port: TCP/59488
+(I) 2020-08-15T11:31:41 - Successfully listening on IP: 192.168.0.102, port: UDP/59488
+(I) 2020-08-15T11:31:42 - Successfully listening on IP: 192.168.0.102, port: TCP/59488
+(I) 2020-08-15T11:31:42 - Successfully listening on IP: 192.168.0.102, port: UDP/59488
+(I) 2020-08-15T11:31:47 - Detected external IP: 27.147.191.184
+(I) 2020-08-15T11:33:04 - Successfully listening on IP: 192.168.0.102, port: TCP/59488
+(I) 2020-08-15T11:33:04 - Successfully listening on IP: 192.168.0.102, port: UDP/59488
+(I) 2020-08-15T11:33:04 - Successfully listening on IP: 192.168.0.102, port: TCP/59488
+(I) 2020-08-15T11:33:04 - Successfully listening on IP: 192.168.0.102, port: UDP/59488
+(I) 2020-08-15T11:33:04 - System network status changed to OFFLINE
+(I) 2020-08-15T11:33:23 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-08-15T11:33:23 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-08-15T11:33:23 - System network status changed to ONLINE
+(I) 2020-08-15T11:33:23 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-08-15T11:33:23 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-08-15T11:33:23 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-08-15T11:33:23 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-08-15T11:33:25 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-08-15T11:33:25 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-08-15T11:33:29 - Detected external IP: 103.102.43.1
+(I) 2020-08-15T11:33:29 - Detected external IP: 103.102.43.17
+(I) 2020-08-15T12:18:24 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-08-15T12:18:24 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-08-15T13:03:24 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-08-15T13:03:24 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-08-15T13:48:24 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-08-15T13:48:24 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-08-15T14:33:24 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-08-15T14:33:24 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-08-15T15:18:24 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-08-15T15:18:24 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(N) 2020-08-15T16:00:59 - qBittorrent v4.2.5 started
+(N) 2020-08-15T16:00:59 - Using config directory: /home/tahmid/.config/qBittorrent/
+(N) 2020-08-15T16:02:34 - qBittorrent v4.2.5 started
+(N) 2020-08-15T16:02:34 - Using config directory: /home/tahmid/.config/qBittorrent/
+(I) 2020-08-15T16:03:24 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-08-15T16:03:24 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(N) 2020-08-15T16:26:29 - qBittorrent v4.2.5 started
+(N) 2020-08-15T16:26:29 - Using config directory: /home/tahmid/.config/qBittorrent/
+(I) 2020-08-15T16:26:29 - Trying to listen on: 0.0.0.0:59488,[::]:59488
+(N) 2020-08-15T16:26:29 - Peer ID: -qB4250-
+(N) 2020-08-15T16:26:29 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-15T16:26:29 - DHT support [ON]
+(I) 2020-08-15T16:26:29 - Local Peer Discovery support [ON]
+(I) 2020-08-15T16:26:29 - PeX support [ON]
+(I) 2020-08-15T16:26:29 - Anonymous mode [OFF]
+(I) 2020-08-15T16:26:29 - Encryption support [ON]
+(I) 2020-08-15T16:26:29 - UPnP / NAT-PMP support [ON]
+(I) 2020-08-15T16:26:29 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 05:57:26 2020.
+(N) 2020-08-15T16:26:30 - Options were saved successfully.
+(I) 2020-08-15T16:26:30 - Successfully listening on IP: 127.0.0.1, port: TCP/59488
+(I) 2020-08-15T16:26:30 - Successfully listening on IP: 127.0.0.1, port: UDP/59488
+(I) 2020-08-15T16:26:30 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-08-15T16:26:30 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-08-15T16:26:30 - Successfully listening on IP: ::1, port: TCP/59488
+(I) 2020-08-15T16:26:30 - Successfully listening on IP: ::1, port: UDP/59488
+(I) 2020-08-15T16:26:30 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-08-15T16:26:30 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-08-15T16:26:30 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-08-15T16:26:30 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(N) 2020-08-15T16:26:30 - 'Persepolis (2007) (1080p BluRay x265 HEVC 10bit AAC 5.1 French Tigole)' restored.
+(N) 2020-08-15T16:26:30 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-08-15T16:26:30 - 'The Terminal (2004)' restored.
+(N) 2020-08-15T16:26:30 - 'Good.Time.2017.720p.WEB-DL.800MB.MkvCage.mkv' restored.
+(I) 2020-08-15T16:26:30 - Detected external IP: 103.102.43.17
+(N) 2020-08-15T16:26:30 - 'Fatal Frame 2014 1080p BluRay x264 Japanese AAC - Ozlem' restored.
+(N) 2020-08-15T16:26:30 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-08-15T16:26:30 - 'IMDb Charts Top 250 Movies Megapack 1080p 10bit BluRay x265 HEVC-MRN' restored.
+(N) 2020-08-15T16:26:30 - 'Mad Men [S01-S07]' restored.
+(N) 2020-08-15T16:26:30 - 'Once.Upon.a.Time.in.Hollywood.2019.1080p.BluRay.x265-RARBG.mp4' restored.
+(N) 2020-08-15T16:26:30 - 'Thappad.2020.1080p.AMZN.WEBRip.AAC.5.1.x265-ExCaLiBuR.mkv' restored.
+(N) 2020-08-15T16:26:30 - 'De.Dag.S01.720p.SBS.WEB-DL.AAC2.0.H.264-BTN' restored.
+(N) 2020-08-15T16:26:30 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-08-15T16:26:30 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-08-15T16:26:30 - 'FrontEndMasters - Four Semesters of Computer Science in 5 Hours, Part 1 & 2' restored.
+(N) 2020-08-15T16:26:30 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-08-15T16:26:30 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-08-15T16:26:30 - 'Radioactive (2019) [720p] [WEBRip] [YTS.MX]' restored.
+(N) 2020-08-15T16:26:30 - 'Satyajit Ray All Movies Bangla' restored.
+(N) 2020-08-15T16:26:30 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-08-15T16:26:30 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-08-15T16:26:30 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-08-15T16:26:30 - 'C Programming 2019 Become A Pro, Solve a Lot Of Exercises !' restored.
+(N) 2020-08-15T16:26:30 - 'Hirak Rajar Deshe (1980) - DvDRip - AC3 - x264 -= theRock7 =-' restored.
+(N) 2020-08-15T16:26:30 - 'Raat.Akeli.Hai.2020.1080p.NF.WEB-DL.DDP5.1.H.264-KHN.mkv' restored.
+(N) 2020-08-15T16:26:30 - 'Masaan.2015.1080p.BRRip.x264.Hindi.AAC-ETRG' restored.
+(N) 2020-08-15T16:26:30 - 'Carl Jung' restored.
+(N) 2020-08-15T16:26:30 - 'House MD Complete Season' restored.
+(N) 2020-08-15T16:26:30 - 'Lord.Of.War.2005.1080p.bluray.DD.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-08-15T16:26:30 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-08-15T16:26:30 - 'How.to.Sell.Drugs.Online.Fast.S02.720p.NF.WEB-DL.AAC2.0.x264-KnightKing' restored.
+(N) 2020-08-15T16:26:30 - 'LinkedIn - Become a Data Scientist' restored.
+(N) 2020-08-15T16:31:06 - qBittorrent v4.2.5 started
+(N) 2020-08-15T16:31:06 - Using config directory: /home/tahmid/.config/qBittorrent/
+(I) 2020-08-15T16:31:06 - Trying to listen on: 0.0.0.0:59488,[::]:59488
+(N) 2020-08-15T16:31:06 - Peer ID: -qB4250-
+(N) 2020-08-15T16:31:06 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-15T16:31:06 - DHT support [ON]
+(I) 2020-08-15T16:31:06 - Local Peer Discovery support [ON]
+(I) 2020-08-15T16:31:06 - PeX support [ON]
+(I) 2020-08-15T16:31:06 - Anonymous mode [OFF]
+(I) 2020-08-15T16:31:06 - Encryption support [ON]
+(I) 2020-08-15T16:31:06 - UPnP / NAT-PMP support [ON]
+(I) 2020-08-15T16:31:06 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 05:57:26 2020.
+(N) 2020-08-15T16:31:06 - Options were saved successfully.
+(I) 2020-08-15T16:31:06 - Successfully listening on IP: 127.0.0.1, port: TCP/59488
+(I) 2020-08-15T16:31:06 - Successfully listening on IP: 127.0.0.1, port: UDP/59488
+(I) 2020-08-15T16:31:06 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-08-15T16:31:06 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-08-15T16:31:06 - Successfully listening on IP: ::1, port: TCP/59488
+(I) 2020-08-15T16:31:06 - Successfully listening on IP: ::1, port: UDP/59488
+(I) 2020-08-15T16:31:06 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-08-15T16:31:06 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-08-15T16:31:06 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(N) 2020-08-15T16:31:06 - 'Persepolis (2007) (1080p BluRay x265 HEVC 10bit AAC 5.1 French Tigole)' restored.
+(N) 2020-08-15T16:31:06 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-08-15T16:31:06 - 'The Terminal (2004)' restored.
+(N) 2020-08-15T16:31:06 - 'Good.Time.2017.720p.WEB-DL.800MB.MkvCage.mkv' restored.
+(N) 2020-08-15T16:31:06 - 'Fatal Frame 2014 1080p BluRay x264 Japanese AAC - Ozlem' restored.
+(N) 2020-08-15T16:31:06 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-08-15T16:31:06 - 'IMDb Charts Top 250 Movies Megapack 1080p 10bit BluRay x265 HEVC-MRN' restored.
+(N) 2020-08-15T16:31:06 - 'Mad Men [S01-S07]' restored.
+(N) 2020-08-15T16:31:06 - 'Once.Upon.a.Time.in.Hollywood.2019.1080p.BluRay.x265-RARBG.mp4' restored.
+(N) 2020-08-15T16:31:06 - 'Thappad.2020.1080p.AMZN.WEBRip.AAC.5.1.x265-ExCaLiBuR.mkv' restored.
+(N) 2020-08-15T16:31:06 - 'De.Dag.S01.720p.SBS.WEB-DL.AAC2.0.H.264-BTN' restored.
+(N) 2020-08-15T16:31:06 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-08-15T16:31:06 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-08-15T16:31:06 - 'FrontEndMasters - Four Semesters of Computer Science in 5 Hours, Part 1 & 2' restored.
+(N) 2020-08-15T16:31:06 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-08-15T16:31:06 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-08-15T16:31:06 - 'Radioactive (2019) [720p] [WEBRip] [YTS.MX]' restored.
+(N) 2020-08-15T16:31:06 - 'Satyajit Ray All Movies Bangla' restored.
+(N) 2020-08-15T16:31:06 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-08-15T16:31:06 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-08-15T16:31:06 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-08-15T16:31:06 - 'C Programming 2019 Become A Pro, Solve a Lot Of Exercises !' restored.
+(N) 2020-08-15T16:31:06 - 'Hirak Rajar Deshe (1980) - DvDRip - AC3 - x264 -= theRock7 =-' restored.
+(N) 2020-08-15T16:31:06 - 'Raat.Akeli.Hai.2020.1080p.NF.WEB-DL.DDP5.1.H.264-KHN.mkv' restored.
+(N) 2020-08-15T16:31:06 - 'Masaan.2015.1080p.BRRip.x264.Hindi.AAC-ETRG' restored.
+(N) 2020-08-15T16:31:06 - 'Carl Jung' restored.
+(N) 2020-08-15T16:31:06 - 'House MD Complete Season' restored.
+(N) 2020-08-15T16:31:06 - 'Lord.Of.War.2005.1080p.bluray.DD.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-08-15T16:31:06 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-08-15T16:31:06 - 'How.to.Sell.Drugs.Online.Fast.S02.720p.NF.WEB-DL.AAC2.0.x264-KnightKing' restored.
+(N) 2020-08-15T16:31:06 - 'LinkedIn - Become a Data Scientist' restored.
+(I) 2020-08-15T16:31:07 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-08-15T16:31:07 - Detected external IP: 103.102.43.1
+(I) 2020-08-15T16:31:20 - Detected external IP: 103.102.43.17
+(N) 2020-08-15T16:31:52 - qBittorrent v4.2.5 started
+(N) 2020-08-15T16:31:52 - Using config directory: /home/tahmid/.config/qBittorrent/
+(I) 2020-08-15T16:31:52 - Trying to listen on: 0.0.0.0:59488,[::]:59488
+(N) 2020-08-15T16:31:52 - Peer ID: -qB4250-
+(N) 2020-08-15T16:31:52 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-15T16:31:52 - DHT support [ON]
+(I) 2020-08-15T16:31:52 - Local Peer Discovery support [ON]
+(I) 2020-08-15T16:31:52 - PeX support [ON]
+(I) 2020-08-15T16:31:52 - Anonymous mode [OFF]
+(I) 2020-08-15T16:31:52 - Encryption support [ON]
+(I) 2020-08-15T16:31:52 - UPnP / NAT-PMP support [ON]
+(I) 2020-08-15T16:31:52 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 05:57:26 2020.
+(N) 2020-08-15T16:31:52 - Options were saved successfully.
+(I) 2020-08-15T16:31:52 - Successfully listening on IP: 127.0.0.1, port: TCP/59488
+(I) 2020-08-15T16:31:52 - Successfully listening on IP: 127.0.0.1, port: UDP/59488
+(I) 2020-08-15T16:31:52 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-08-15T16:31:52 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-08-15T16:31:52 - Successfully listening on IP: ::1, port: TCP/59488
+(I) 2020-08-15T16:31:52 - Successfully listening on IP: ::1, port: UDP/59488
+(I) 2020-08-15T16:31:52 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-08-15T16:31:52 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-08-15T16:31:52 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-08-15T16:31:52 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(N) 2020-08-15T16:31:52 - 'Persepolis (2007) (1080p BluRay x265 HEVC 10bit AAC 5.1 French Tigole)' restored.
+(N) 2020-08-15T16:31:52 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-08-15T16:31:52 - 'The Terminal (2004)' restored.
+(N) 2020-08-15T16:31:52 - 'Good.Time.2017.720p.WEB-DL.800MB.MkvCage.mkv' restored.
+(N) 2020-08-15T16:31:52 - 'Fatal Frame 2014 1080p BluRay x264 Japanese AAC - Ozlem' restored.
+(N) 2020-08-15T16:31:52 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-08-15T16:31:52 - 'IMDb Charts Top 250 Movies Megapack 1080p 10bit BluRay x265 HEVC-MRN' restored.
+(N) 2020-08-15T16:31:52 - 'Mad Men [S01-S07]' restored.
+(N) 2020-08-15T16:31:52 - 'Once.Upon.a.Time.in.Hollywood.2019.1080p.BluRay.x265-RARBG.mp4' restored.
+(N) 2020-08-15T16:31:52 - 'Thappad.2020.1080p.AMZN.WEBRip.AAC.5.1.x265-ExCaLiBuR.mkv' restored.
+(N) 2020-08-15T16:31:52 - 'De.Dag.S01.720p.SBS.WEB-DL.AAC2.0.H.264-BTN' restored.
+(N) 2020-08-15T16:31:52 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-08-15T16:31:52 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-08-15T16:31:52 - 'FrontEndMasters - Four Semesters of Computer Science in 5 Hours, Part 1 & 2' restored.
+(N) 2020-08-15T16:31:52 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-08-15T16:31:52 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-08-15T16:31:52 - 'Radioactive (2019) [720p] [WEBRip] [YTS.MX]' restored.
+(N) 2020-08-15T16:31:52 - 'Satyajit Ray All Movies Bangla' restored.
+(N) 2020-08-15T16:31:52 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-08-15T16:31:52 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-08-15T16:31:52 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-08-15T16:31:52 - 'C Programming 2019 Become A Pro, Solve a Lot Of Exercises !' restored.
+(N) 2020-08-15T16:31:52 - 'Hirak Rajar Deshe (1980) - DvDRip - AC3 - x264 -= theRock7 =-' restored.
+(N) 2020-08-15T16:31:52 - 'Raat.Akeli.Hai.2020.1080p.NF.WEB-DL.DDP5.1.H.264-KHN.mkv' restored.
+(N) 2020-08-15T16:31:52 - 'Masaan.2015.1080p.BRRip.x264.Hindi.AAC-ETRG' restored.
+(N) 2020-08-15T16:31:52 - 'Carl Jung' restored.
+(N) 2020-08-15T16:31:52 - 'House MD Complete Season' restored.
+(N) 2020-08-15T16:31:52 - 'Lord.Of.War.2005.1080p.bluray.DD.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-08-15T16:31:52 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-08-15T16:31:52 - 'How.to.Sell.Drugs.Online.Fast.S02.720p.NF.WEB-DL.AAC2.0.x264-KnightKing' restored.
+(N) 2020-08-15T16:31:52 - 'LinkedIn - Become a Data Scientist' restored.
+(I) 2020-08-15T16:31:53 - Detected external IP: 103.102.43.1
+(I) 2020-08-15T16:32:05 - Detected external IP: 103.102.43.17
+(N) 2020-08-15T16:38:15 - qBittorrent v4.2.5 started
+(N) 2020-08-15T16:38:15 - Using config directory: /home/tahmid/.config/qBittorrent/
+(I) 2020-08-15T16:38:15 - Trying to listen on: 0.0.0.0:59488,[::]:59488
+(N) 2020-08-15T16:38:15 - Peer ID: -qB4250-
+(N) 2020-08-15T16:38:15 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-15T16:38:15 - DHT support [ON]
+(I) 2020-08-15T16:38:15 - Local Peer Discovery support [ON]
+(I) 2020-08-15T16:38:15 - PeX support [ON]
+(I) 2020-08-15T16:38:15 - Anonymous mode [OFF]
+(I) 2020-08-15T16:38:15 - Encryption support [ON]
+(I) 2020-08-15T16:38:15 - UPnP / NAT-PMP support [ON]
+(I) 2020-08-15T16:38:15 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 05:57:26 2020.
+(N) 2020-08-15T16:38:15 - Options were saved successfully.
+(I) 2020-08-15T16:38:15 - Successfully listening on IP: 127.0.0.1, port: TCP/59488
+(I) 2020-08-15T16:38:15 - Successfully listening on IP: 127.0.0.1, port: UDP/59488
+(I) 2020-08-15T16:38:15 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-08-15T16:38:15 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-08-15T16:38:15 - Successfully listening on IP: ::1, port: TCP/59488
+(I) 2020-08-15T16:38:15 - Successfully listening on IP: ::1, port: UDP/59488
+(I) 2020-08-15T16:38:15 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-08-15T16:38:15 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-08-15T16:38:15 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(N) 2020-08-15T16:38:15 - 'Persepolis (2007) (1080p BluRay x265 HEVC 10bit AAC 5.1 French Tigole)' restored.
+(N) 2020-08-15T16:38:15 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-08-15T16:38:15 - 'The Terminal (2004)' restored.
+(N) 2020-08-15T16:38:15 - 'Good.Time.2017.720p.WEB-DL.800MB.MkvCage.mkv' restored.
+(N) 2020-08-15T16:38:15 - 'Fatal Frame 2014 1080p BluRay x264 Japanese AAC - Ozlem' restored.
+(N) 2020-08-15T16:38:15 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-08-15T16:38:15 - 'IMDb Charts Top 250 Movies Megapack 1080p 10bit BluRay x265 HEVC-MRN' restored.
+(N) 2020-08-15T16:38:15 - 'Mad Men [S01-S07]' restored.
+(N) 2020-08-15T16:38:15 - 'Once.Upon.a.Time.in.Hollywood.2019.1080p.BluRay.x265-RARBG.mp4' restored.
+(N) 2020-08-15T16:38:15 - 'Thappad.2020.1080p.AMZN.WEBRip.AAC.5.1.x265-ExCaLiBuR.mkv' restored.
+(N) 2020-08-15T16:38:15 - 'De.Dag.S01.720p.SBS.WEB-DL.AAC2.0.H.264-BTN' restored.
+(N) 2020-08-15T16:38:15 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-08-15T16:38:15 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-08-15T16:38:15 - 'FrontEndMasters - Four Semesters of Computer Science in 5 Hours, Part 1 & 2' restored.
+(N) 2020-08-15T16:38:15 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-08-15T16:38:15 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-08-15T16:38:15 - 'Radioactive (2019) [720p] [WEBRip] [YTS.MX]' restored.
+(N) 2020-08-15T16:38:15 - 'Satyajit Ray All Movies Bangla' restored.
+(N) 2020-08-15T16:38:15 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-08-15T16:38:15 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-08-15T16:38:15 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-08-15T16:38:15 - 'C Programming 2019 Become A Pro, Solve a Lot Of Exercises !' restored.
+(N) 2020-08-15T16:38:15 - 'Hirak Rajar Deshe (1980) - DvDRip - AC3 - x264 -= theRock7 =-' restored.
+(N) 2020-08-15T16:38:15 - 'Raat.Akeli.Hai.2020.1080p.NF.WEB-DL.DDP5.1.H.264-KHN.mkv' restored.
+(N) 2020-08-15T16:38:15 - 'Masaan.2015.1080p.BRRip.x264.Hindi.AAC-ETRG' restored.
+(N) 2020-08-15T16:38:15 - 'Carl Jung' restored.
+(N) 2020-08-15T16:38:15 - 'House MD Complete Season' restored.
+(N) 2020-08-15T16:38:15 - 'Lord.Of.War.2005.1080p.bluray.DD.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-08-15T16:38:15 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-08-15T16:38:15 - 'How.to.Sell.Drugs.Online.Fast.S02.720p.NF.WEB-DL.AAC2.0.x264-KnightKing' restored.
+(N) 2020-08-15T16:38:15 - 'LinkedIn - Become a Data Scientist' restored.
+(I) 2020-08-15T16:38:15 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-08-15T16:38:15 - Detected external IP: 103.102.43.1
+(I) 2020-08-15T16:38:17 - Detected external IP: 103.102.43.17
+(C) 2020-08-15T16:41:32 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-08-15T16:41:32 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-08-15T16:41:32 - System network status changed to OFFLINE
+(I) 2020-08-15T16:48:16 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-08-15T16:48:16 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-08-15T16:48:16 - System network status changed to ONLINE
+(I) 2020-08-15T16:48:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-08-15T16:48:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-08-15T16:48:18 - Detected external IP: 103.102.43.17
+(I) 2020-08-15T16:48:18 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-08-15T16:48:18 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-08-15T17:33:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-08-15T17:33:17 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(N) 2020-08-15T18:05:36 - qBittorrent v4.2.5 started
+(N) 2020-08-15T18:05:36 - Using config directory: /home/tahmid/.config/qBittorrent/
+(I) 2020-08-15T18:05:36 - Trying to listen on: 0.0.0.0:59488,[::]:59488
+(N) 2020-08-15T18:05:36 - Peer ID: -qB4250-
+(N) 2020-08-15T18:05:36 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-08-15T18:05:36 - DHT support [ON]
+(I) 2020-08-15T18:05:36 - Local Peer Discovery support [ON]
+(I) 2020-08-15T18:05:36 - PeX support [ON]
+(I) 2020-08-15T18:05:36 - Anonymous mode [OFF]
+(I) 2020-08-15T18:05:36 - Encryption support [ON]
+(I) 2020-08-15T18:05:36 - UPnP / NAT-PMP support [ON]
+(I) 2020-08-15T18:05:36 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Aug 1 05:57:26 2020.
+(N) 2020-08-15T18:05:36 - Options were saved successfully.
+(I) 2020-08-15T18:05:36 - Successfully listening on IP: 127.0.0.1, port: TCP/59488
+(I) 2020-08-15T18:05:36 - Successfully listening on IP: 127.0.0.1, port: UDP/59488
+(I) 2020-08-15T18:05:36 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-08-15T18:05:36 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-08-15T18:05:36 - Successfully listening on IP: ::1, port: TCP/59488
+(I) 2020-08-15T18:05:36 - Successfully listening on IP: ::1, port: UDP/59488
+(I) 2020-08-15T18:05:36 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-08-15T18:05:36 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-08-15T18:05:36 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488

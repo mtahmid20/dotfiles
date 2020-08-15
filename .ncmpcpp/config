@@ -7,10 +7,11 @@ mpd_crossfade_time = "2"
 [visualizer]
 visualizer_fifo_path = "/tmp/mpd.fifo"
 visualizer_in_stereo = "no"
-visualizer_type = "spectrum"
 visualizer_output_name = "my_fifo"
-visualizer_look = "●┃"
-visualizer_color = "default"
+visualizer_look = "┃┃"
+visualizer_color = "green,blue,yellow,red"
+visualizer_type = "spectrum"
+visualizer_sync_interval="15"
 
 [header]
 header_visibility = "no"
@@ -21,24 +22,28 @@ state_line_color = "black"
 [playlist]
 playlist_display_mode = "classic"
 song_list_format = "{{%a - %t}|{%f}}{$R%l}"
-now_playing_prefix = "$b$5"
-now_playing_suffix = "$/b$9"
+now_playing_prefix = "$4$b"
+now_playing_suffix = "$/b$0"
 
 [statusbar]
-progressbar_look = "─╼ "
-progressbar_color = "default"
-statusbar_visibility = "yes"
+progressbar_look = "━━━"
+progressbar_elapsed_color="blue"
+progressbar_color = "9"
+statusbar_visibility = "no"
 statusbar_color = "default"
 song_status_format = "{{%a{ - %t}}|{ - %f}{ - %b{ (%y)}}}"
 
 [library]
 song_library_format = "{{%a - %t}|{%f}}{$R%l}"
-empty_tag_color = "default"
+empty_tag_color = "blue"
 
 [global]
 colors_enabled = "yes"
 main_window_color = "default"
-centered_cursor = "yes"
-enable_window_title = "yes"
+centered_cursor = "no"
+enable_window_title = "no"
 external_editor = "nvim"
-
+execute_on_song_change = notify-send "Playing" "$(mpc current)"
+mouse_support = "yes"
+user_interface = "classic"
+allow_for_physical_item_deletion = "yes"
