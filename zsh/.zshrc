@@ -7,15 +7,15 @@ export ZSH="/home/tahmid/.oh-my-zsh"
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-#ZSH_THEME="refined"
-ZSH_THEME="avit"
+ZSH_THEME="refined"
+#ZSH_THEME="avit"
 #ZSH_THEME="bureau"
 #ZSH_THEME="candy"
 #ZSH_THEME="robbyrussell"
 #ZSH_THEME="lambda"
 
 # Uncomment the following line to use case-sensitive completion.
-# CASE_SENSITIVE="true"
+CASE_SENSITIVE="true"
 
 # Uncomment the following line to use hyphen-insensitive completion.
 # Case-sensitive completion must be off. _ and - will be interchangeable.
@@ -75,11 +75,11 @@ source $ZSH/oh-my-zsh.sh
 export LANG=en_US.UTF-8
 
 # Preferred editor for local and remote sessions
-# if [[ -n $SSH_CONNECTION ]]; then
-#   export EDITOR='vim'
-# else
-#   export EDITOR='mvim'
-# fi
+ if [[ -n $SSH_CONNECTION ]]; then
+   export EDITOR='nvim'
+ else
+   export EDITOR='nano'
+ fi
 
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"

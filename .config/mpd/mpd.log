@@ -19517,3 +19517,2303 @@ Aug 15 18:29 : client: [37] opened from [::1]:60862
 Aug 15 18:29 : client: [37] closed
 Aug 15 18:29 : client: [38] opened from [::1]:60864
 Aug 15 18:29 : client: [38] closed
+Aug 15 18:35 : player: played "Lana Del Rey - Born To Die.mp3"
+Aug 15 18:35 : client: [39] opened from [::1]:60882
+Aug 15 18:35 : client: [39] closed
+Aug 15 18:39 : player: played "Evanescence - Bring Me To Life.mp3"
+Aug 15 18:39 : client: [40] opened from [::1]:60952
+Aug 15 18:39 : client: [40] closed
+Aug 15 18:44 : client: [41] opened from [::1]:32788
+Aug 15 18:44 : client: [41] closed
+Aug 15 18:48 : client: [42] opened from [::1]:32826
+Aug 15 18:48 : client: [42] closed
+Aug 15 18:49 : player: played "Biday_Shongbidhan-Minerva/08.Shongbidhaner_Biday-Minerva_FusionBD.Com.mp3"
+Aug 15 19:15 : client: [24] closed
+Aug 15 19:15 : avahi: Client Disconnected, will reconnect shortly
+Aug 15 23:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 15 23:04 : config: option 'device' on line 19 was not recognized
+Aug 15 23:04 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 15 23:23 : client: [0] opened from [::1]:35462
+Aug 15 23:23 : client: [0] closed
+Aug 15 23:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 15 23:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 15 23:23 : client: [1] opened from [::1]:35464
+Aug 15 23:23 : client: [1] closed
+Aug 16 01:25 : player: played "Lana Del Rey - Born To Die.mp3"
+Aug 16 10:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 10:44 : config: option 'device' on line 19 was not recognized
+Aug 16 10:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 10:44 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 16 10:59 : client: [0] opened from [::1]:50570
+Aug 16 10:59 : client: [1] opened from [::1]:50572
+Aug 16 10:59 : client: [1] closed
+Aug 16 10:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 10:59 : client: [2] opened from [::1]:50574
+Aug 16 10:59 : client: [2] closed
+Aug 16 11:03 : player: played "Evanescence - Bring Me To Life.mp3"
+Aug 16 11:03 : client: [3] opened from [::1]:50696
+Aug 16 11:03 : client: [3] closed
+Aug 16 11:04 : client: [0] closed
+Aug 16 11:09 : player: played "Biday_Shongbidhan-Minerva/08.Shongbidhaner_Biday-Minerva_FusionBD.Com.mp3"
+Aug 16 12:26 : avahi: Client Disconnected, will reconnect shortly
+Aug 16 12:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 12:31 : config: option 'device' on line 19 was not recognized
+Aug 16 12:31 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 16 16:18 : client: [0] opened from [::1]:36456
+Aug 16 16:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 16:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 16:18 : client: [1] opened from [::1]:36458
+Aug 16 16:18 : client: [1] closed
+Aug 16 16:24 : player: played "Queen - Greatest Hits - 01 - Bohemian Rhapsody.mp3"
+Aug 16 16:24 : client: [2] opened from [::1]:36494
+Aug 16 16:24 : client: [2] closed
+Aug 16 16:28 : player: played "Queen - Greatest Hits - 02 - Another One Bites The Dust.mp3"
+Aug 16 16:28 : client: [3] opened from [::1]:36520
+Aug 16 16:28 : client: [3] closed
+Aug 16 16:31 : player: played "Queen - Greatest Hits - 03 - Killer Queen.mp3"
+Aug 16 16:31 : client: [4] opened from [::1]:36546
+Aug 16 16:31 : client: [4] closed
+Aug 16 16:34 : player: played "Queen - Greatest Hits - 04 - Fat Bottomed Girls.mp3"
+Aug 16 16:34 : client: [5] opened from [::1]:36730
+Aug 16 16:34 : client: [5] closed
+Aug 16 16:35 : client: [6] opened from [::1]:36748
+Aug 16 16:35 : client: [6] closed
+Aug 16 16:35 : client: [7] opened from [::1]:36750
+Aug 16 16:35 : client: [7] closed
+Aug 16 16:36 : client: [8] opened from [::1]:36756
+Aug 16 16:36 : client: [8] closed
+Aug 16 16:48 : client: [0] closed
+Aug 16 16:48 : avahi: Client Disconnected, will reconnect shortly
+Aug 16 16:48 : player: played "Queen - Greatest Hits - 16 - We Will Rock You.mp3"
+Aug 16 20:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 20:14 : config: option 'device' on line 19 was not recognized
+Aug 16 20:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 20:14 : player: played "Queen - Greatest Hits - 16 - We Will Rock You.mp3"
+Aug 16 21:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 21:46 : config: option 'device' on line 19 was not recognized
+Aug 16 21:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 21:46 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 16 21:46 : client: [0] opened from [::1]:51042
+Aug 16 21:46 : client: [1] opened from [::1]:51044
+Aug 16 21:46 : client: [1] closed
+Aug 16 21:46 : client: [0] closed
+Aug 16 22:25 : player: played "Queen - Greatest Hits - 16 - We Will Rock You.mp3"
+Aug 16 22:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 22:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 22:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 16 22:28 : config: option 'device' on line 19 was not recognized
+Aug 16 22:28 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 16 22:30 : client: [0] opened from [::1]:51796
+Aug 16 22:30 : client: [1] opened from [::1]:51798
+Aug 16 22:30 : client: [1] closed
+Aug 16 22:30 : client: [2] opened from [::1]:51860
+Aug 16 22:30 : client: [2] closed
+Aug 16 22:30 : client: [0] closed
+Aug 16 22:36 : player: played "Downloads/Beethoven - The Very Best Of Beethoven (2005) [FLAC] dussin/101_Beethoven_-_Symphony_No_5_in_C_minor_Op_67_I_Allegro_con_brio.flac"
+Aug 16 22:44 : player: played "Downloads/Beethoven - The Very Best Of Beethoven (2005) [FLAC] dussin/102_Beethoven_-_Egmont_Op_84_Overture.flac"
+Aug 16 22:49 : player: played "Downloads/Beethoven - The Very Best Of Beethoven (2005) [FLAC] dussin/103_Beethoven_-_Piano_Sonata_No_14_in_C_sharp_minor_Op_27_No_2_Moonlight_I_Adagio_sostenuto.flac"
+Aug 16 22:55 : client: [3] opened from [::1]:52250
+Aug 16 22:55 : client: [4] opened from [::1]:52252
+Aug 16 22:55 : client: [4] closed
+Aug 16 22:55 : client: [5] opened from [::1]:52254
+Aug 16 22:55 : client: [6] opened from [::1]:52256
+Aug 16 22:55 : client: [6] closed
+Aug 16 22:55 : player: played "Downloads/Beethoven - The Very Best Of Beethoven (2005) [FLAC] dussin/104_Beethoven_-_String_Quartet_No_9_in_C_major_Op_593_Razumovsky_IV_Allegro_molto.flac"
+Aug 16 22:55 : client: [7] opened from [::1]:52258
+Aug 16 22:55 : client: [8] opened from [::1]:52260
+Aug 16 22:55 : client: [7] closed
+Aug 16 22:55 : client: [8] closed
+Aug 16 22:55 : client: [5] closed
+Aug 16 22:55 : client: [3] closed
+Aug 16 23:06 : player: played "Downloads/Beethoven - The Very Best Of Beethoven (2005) [FLAC] dussin/105_Beethoven_-_Violin_Concerto_in_D_major_Op_61_III_Rondo_Allegro.flac"
+Aug 16 23:14 : player: played "Downloads/Beethoven - The Very Best Of Beethoven (2005) [FLAC] dussin/106_Beethoven_-_Fidelio_Op_72_Act_I_No_9_Abscheulicher_wo_eilst_du_hin.flac"
+Aug 16 23:19 : player: played "Downloads/Beethoven - The Very Best Of Beethoven (2005) [FLAC] dussin/107_Beethoven_-_Piano_Sonata_No_8_in_C_minor_Op_13_Pathetique_II_Adagio_cantabile.flac"
+Aug 16 23:30 : player: played "Downloads/Beethoven - The Very Best Of Beethoven (2005) [FLAC] dussin/108_Beethoven_-_Symphony_No_6_in_F_major_Op_68_Pastoral_Allegro_ma_non_troppo.flac"
+Aug 16 23:36 : client: [9] opened from [::1]:53292
+Aug 16 23:36 : client: [9] closed
+Aug 17 01:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 01:03 : config: option 'device' on line 19 was not recognized
+Aug 17 01:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 01:03 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 17 01:12 : player: played "Downloads/Beethoven - The Very Best Of Beethoven (2005) [FLAC] dussin/109_Beethoven_-_Violin_Sonata_No_9_in_A_major_Op_47_Kreutzer_III_Finale_Presto.flac"
+Aug 17 01:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 01:12 : config: option 'device' on line 19 was not recognized
+Aug 17 01:12 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 01:12 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 17 10:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 10:16 : config: option 'device' on line 19 was not recognized
+Aug 17 10:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 10:16 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 17 10:40 : player: played "Downloads/Beethoven - The Very Best Of Beethoven (2005) [FLAC] dussin/109_Beethoven_-_Violin_Sonata_No_9_in_A_major_Op_47_Kreutzer_III_Finale_Presto.flac"
+Aug 17 10:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 10:40 : config: option 'device' on line 19 was not recognized
+Aug 17 10:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 10:40 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 17 10:44 : player: played "Downloads/Beethoven - The Very Best Of Beethoven (2005) [FLAC] dussin/109_Beethoven_-_Violin_Sonata_No_9_in_A_major_Op_47_Kreutzer_III_Finale_Presto.flac"
+Aug 17 10:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 10:44 : config: option 'device' on line 19 was not recognized
+Aug 17 10:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 10:44 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 17 10:48 : player: played "Downloads/Beethoven - The Very Best Of Beethoven (2005) [FLAC] dussin/109_Beethoven_-_Violin_Sonata_No_9_in_A_major_Op_47_Kreutzer_III_Finale_Presto.flac"
+Aug 17 10:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 10:48 : config: option 'device' on line 19 was not recognized
+Aug 17 10:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 10:48 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 17 10:48 : client: [0] opened from [::1]:43384
+Aug 17 10:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 10:48 : client: [0] closed
+Aug 17 10:48 : client: [1] opened from [::1]:43386
+Aug 17 10:48 : client: [1] closed
+Aug 17 11:59 : player: played "Downloads/Beethoven - The Very Best Of Beethoven (2005) [FLAC] dussin/109_Beethoven_-_Violin_Sonata_No_9_in_A_major_Op_47_Kreutzer_III_Finale_Presto.flac"
+Aug 17 11:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 11:59 : config: option 'device' on line 19 was not recognized
+Aug 17 11:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 11:59 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 17 12:50 : client: [0] opened from [::1]:46020
+Aug 17 12:50 : client: [0] closed
+Aug 17 14:11 : client: [1] opened from [::1]:46676
+Aug 17 14:11 : client: [2] opened from [::1]:46678
+Aug 17 14:11 : client: [2] closed
+Aug 17 14:11 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 14:11 : client: [3] opened from [::1]:46680
+Aug 17 14:11 : client: [3] closed
+Aug 17 14:16 : client: [1] closed
+Aug 17 14:16 : client: [4] opened from [::1]:46694
+Aug 17 14:16 : client: [4] closed
+Aug 17 14:18 : player: played "Downloads/Beethoven - The Very Best Of Beethoven (2005) [FLAC] dussin/110_Beethoven_-_Piano_Concerto_No_5_in_E_flat_major_Op_73_Emperor_Rondo_Allegro.flac"
+Aug 17 14:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 14:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 14:18 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 14:18 : config: option 'device' on line 19 was not recognized
+Aug 17 14:18 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 17 14:22 : player: played "Downloads/Beethoven - The Very Best Of Beethoven (2005) [FLAC] dussin/110_Beethoven_-_Piano_Concerto_No_5_in_E_flat_major_Op_73_Emperor_Rondo_Allegro.flac"
+Aug 17 14:22 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 14:22 : config: option 'device' on line 19 was not recognized
+Aug 17 14:22 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 14:22 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 17 14:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 14:30 : config: option 'device' on line 19 was not recognized
+Aug 17 14:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 14:30 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 17 14:34 : player: played "Downloads/Beethoven - The Very Best Of Beethoven (2005) [FLAC] dussin/110_Beethoven_-_Piano_Concerto_No_5_in_E_flat_major_Op_73_Emperor_Rondo_Allegro.flac"
+Aug 17 22:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 22:24 : config: option 'device' on line 19 was not recognized
+Aug 17 22:24 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 22:24 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 17 22:27 : client: [0] opened from [::1]:35056
+Aug 17 22:27 : client: [1] opened from [::1]:35058
+Aug 17 22:27 : client: [1] closed
+Aug 17 22:27 : player: played "Downloads/Beethoven - The Very Best Of Beethoven (2005) [FLAC] dussin/110_Beethoven_-_Piano_Concerto_No_5_in_E_flat_major_Op_73_Emperor_Rondo_Allegro.flac"
+Aug 17 22:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 22:28 : client: [2] opened from [::1]:35092
+Aug 17 22:28 : client: [2] closed
+Aug 17 22:32 : player: played "Evanescence - Bring Me To Life.mp3"
+Aug 17 23:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 17 23:17 : config: option 'device' on line 19 was not recognized
+Aug 17 23:17 : client: [0] opened from [::1]:42486
+Aug 17 23:17 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 17 23:17 : client: [1] opened from [::1]:42488
+Aug 17 23:31 : client: [1] closed
+Aug 18 00:36 : client: [0] closed
+Aug 18 11:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 18 11:08 : config: option 'device' on line 19 was not recognized
+Aug 18 11:08 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 18 14:18 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 18 14:18 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 18 14:18 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 18 14:18 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 18 14:18 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 18 14:18 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 18 14:18 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 18 14:18 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 18 14:18 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 18 14:18 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 18 14:18 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 18 14:18 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 18 14:18 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 18 14:18 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 18 14:18 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 18 14:18 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 18 14:18 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 18 14:18 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 18 14:18 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 18 14:18 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 18 14:18 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 18 14:18 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 18 14:18 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 18 14:18 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 18 14:18 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 18 14:18 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 18 14:18 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 18 14:18 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 18 14:18 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 18 14:18 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 18 14:18 : update: added /Green Day - 21 Guns.mp3
+Aug 18 14:19 : client: [0] opened from [::1]:35340
+Aug 18 14:19 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 18 14:19 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 18 14:19 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 18 14:19 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 18 14:19 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 18 14:19 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 18 14:19 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 18 14:19 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 18 14:19 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 18 14:19 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 18 14:19 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 18 14:19 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 18 14:19 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 18 14:19 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 18 14:19 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 18 14:19 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 18 14:19 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 18 14:19 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 18 14:19 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 18 14:19 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 18 14:19 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 18 14:19 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 18 14:19 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 18 14:19 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 18 14:19 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 18 14:19 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 18 14:19 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 18 14:19 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 18 14:19 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 18 14:19 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 18 14:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 18 14:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 18 14:19 : client: [1] opened from [::1]:35344
+Aug 18 14:19 : client: [1] closed
+Aug 18 14:23 : client: [0] closed
+Aug 18 14:24 : player: played "Green Day - 21 Guns.mp3"
+Aug 18 14:24 : client: [2] opened from [::1]:35464
+Aug 18 14:24 : client: [2] closed
+Aug 18 14:28 : player: played "Evanescence - Bring Me To Life.mp3"
+Aug 18 14:34 : player: played "Green Day - 21 Guns.mp3"
+Aug 18 14:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 18 14:46 : config: option 'device' on line 19 was not recognized
+Aug 18 14:46 : client: [0] opened from 127.0.0.1:46320
+Aug 18 14:46 : client: [1] opened from 127.0.0.1:46322
+Aug 18 14:46 : client: [1] closed
+Aug 18 14:46 : client: [0] closed
+Aug 18 14:46 : client: [2] opened from 127.0.0.1:46328
+Aug 18 14:46 : client: [3] opened from 127.0.0.1:46330
+Aug 18 14:46 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 18 14:48 : client: [3] closed
+Aug 18 14:48 : client: [2] closed
+Aug 18 14:48 : client: [4] opened from 127.0.0.1:46454
+Aug 18 14:48 : client: [5] opened from 127.0.0.1:46456
+Aug 18 14:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 18 14:51 : config: option 'device' on line 19 was not recognized
+Aug 18 14:51 : client: [0] opened from 127.0.0.1:46464
+Aug 18 14:51 : client: [1] opened from 127.0.0.1:46466
+Aug 18 14:51 : client: [0] closed
+Aug 18 14:51 : client: [1] closed
+Aug 18 14:51 : client: [2] opened from 127.0.0.1:46472
+Aug 18 14:51 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 18 14:51 : client: [3] opened from 127.0.0.1:46474
+Aug 18 14:52 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 18 14:52 : config: option 'device' on line 19 was not recognized
+Aug 18 14:52 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 18 16:15 : client: [0] opened from [::1]:37052
+Aug 18 16:15 : client: [0] closed
+Aug 18 18:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 18 18:32 : config: option 'device' on line 19 was not recognized
+Aug 18 18:32 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 18 19:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 18 19:10 : config: option 'device' on line 19 was not recognized
+Aug 18 19:10 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 18 19:11 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 18 19:12 : config: option 'device' on line 19 was not recognized
+Aug 18 19:12 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 18 20:15 : client: [0] opened from [::1]:60158
+Aug 18 20:15 : client: [0] closed
+Aug 18 20:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 18 20:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 18 20:15 : client: [1] opened from [::1]:60160
+Aug 18 20:15 : client: [1] closed
+Aug 18 20:25 : client: [2] opened from [::1]:60248
+Aug 18 20:25 : client: [3] opened from [::1]:60250
+Aug 18 20:25 : client: [3] closed
+Aug 18 20:27 : client: [4] opened from [::1]:60274
+Aug 18 20:27 : client: [4] closed
+Aug 18 20:27 : client: [5] opened from [::1]:60276
+Aug 18 20:27 : client: [5] closed
+Aug 18 20:31 : player: played "11. Toxicity.mp3"
+Aug 18 20:33 : client: [6] opened from [::1]:60476
+Aug 18 20:33 : client: [6] closed
+Aug 18 20:36 : client: [7] opened from [::1]:60536
+Aug 18 20:36 : client: [7] closed
+Aug 18 20:39 : player: played "01 Backstreet Boys - I Want It That Way.mp3"
+Aug 18 20:39 : client: [8] opened from [::1]:60568
+Aug 18 20:39 : client: [8] closed
+Aug 18 20:44 : player: played "02 Backstreet Boys - Everybody (Backstreet's Back).mp3"
+Aug 18 20:44 : client: [9] opened from [::1]:60606
+Aug 18 20:44 : client: [9] closed
+Aug 18 20:48 : player: played "03 Backstreet Boys - As Long As You Love Me.mp3"
+Aug 18 20:48 : client: [10] opened from [::1]:60628
+Aug 18 20:48 : client: [10] closed
+Aug 18 20:52 : player: played "04 Backstreet Boys - Show Me The Meaning Of Being Lonely.mp3"
+Aug 18 20:52 : client: [11] opened from [::1]:60656
+Aug 18 20:52 : client: [11] closed
+Aug 18 20:55 : player: played "07 Backstreet Boys - Larger Than Life.mp3"
+Aug 18 20:55 : client: [12] opened from [::1]:60680
+Aug 18 20:55 : client: [12] closed
+Aug 18 20:59 : player: played "10 Backstreet Boys - Shape Of My Heart.mp3"
+Aug 18 21:13 : client: [13] opened from [::1]:60800
+Aug 18 21:13 : client: [13] closed
+Aug 18 21:16 : player: played "Breaking Benjamin - The Diary of Jane.mp3"
+Aug 18 21:16 : client: [14] opened from [::1]:60882
+Aug 18 21:16 : client: [14] closed
+Aug 18 21:20 : player: played "Breaking Benjamin - Failure (Official Video).mp3"
+Aug 18 21:58 : client: [15] opened from [::1]:33610
+Aug 18 21:58 : client: [15] closed
+Aug 18 22:03 : player: played "Downloads/CONCLUSION/Odyssey [2019]/Odyssey - Conclusion.mp3"
+Aug 18 22:03 : client: [16] opened from [::1]:33706
+Aug 18 22:03 : client: [16] closed
+Aug 18 22:07 : player: played "Kodaline - High Hopes.mp3"
+Aug 18 22:07 : client: [17] opened from [::1]:33762
+Aug 18 22:07 : client: [17] closed
+Aug 18 22:10 : player: played "Michael Bublé - Sway.mp3"
+Aug 18 22:19 : client: [18] opened from [::1]:33882
+Aug 18 22:19 : client: [18] closed
+Aug 18 22:27 : player: played "Biday_Shongbidhan-Minerva/04.Jaatra-Minerva_FusionBD.Com.mp3"
+Aug 18 22:28 : client: [19] opened from [::1]:33966
+Aug 18 22:28 : client: [19] closed
+Aug 18 22:28 : client: [20] opened from [::1]:33968
+Aug 18 22:28 : client: [20] closed
+Aug 18 22:33 : player: played "Green Day - 21 Guns.mp3"
+Aug 18 22:33 : client: [21] opened from [::1]:34038
+Aug 18 22:33 : client: [21] closed
+Aug 18 22:38 : player: played "Evanescence - Bring Me To Life.mp3"
+Aug 18 22:38 : client: [22] opened from [::1]:34094
+Aug 18 22:38 : client: [22] closed
+Aug 18 22:41 : player: played "07. Chop Suey!.mp3"
+Aug 18 22:41 : client: [23] opened from [::1]:34132
+Aug 18 22:41 : client: [23] closed
+Aug 18 22:44 : player: played "09. Stealing Society.mp3"
+Aug 18 22:44 : client: [24] opened from [::1]:34170
+Aug 18 22:44 : client: [24] closed
+Aug 18 22:48 : player: played "11. Toxicity.mp3"
+Aug 18 22:48 : client: [25] opened from [::1]:34210
+Aug 18 22:48 : client: [25] closed
+Aug 18 22:52 : player: played "Queen - Greatest Hits II - 01 - A Kind Of Magic.mp3"
+Aug 18 22:52 : client: [26] opened from [::1]:34260
+Aug 18 22:52 : client: [26] closed
+Aug 18 22:56 : player: played "01 Backstreet Boys - I Want It That Way.mp3"
+Aug 18 22:56 : client: [27] opened from [::1]:34318
+Aug 18 22:56 : client: [27] closed
+Aug 18 23:00 : player: played "02 Backstreet Boys - Everybody (Backstreet's Back).mp3"
+Aug 18 23:00 : client: [28] opened from [::1]:34358
+Aug 18 23:00 : client: [28] closed
+Aug 18 23:04 : player: played "03 Backstreet Boys - As Long As You Love Me.mp3"
+Aug 18 23:04 : client: [29] opened from [::1]:34406
+Aug 18 23:04 : client: [29] closed
+Aug 18 23:08 : player: played "04 Backstreet Boys - Show Me The Meaning Of Being Lonely.mp3"
+Aug 18 23:08 : client: [30] opened from [::1]:34454
+Aug 18 23:08 : client: [30] closed
+Aug 18 23:12 : player: played "07 Backstreet Boys - Larger Than Life.mp3"
+Aug 18 23:12 : client: [31] opened from [::1]:34506
+Aug 18 23:12 : client: [31] closed
+Aug 18 23:16 : player: played "10 Backstreet Boys - Shape Of My Heart.mp3"
+Aug 18 23:16 : client: [32] opened from [::1]:34546
+Aug 18 23:16 : client: [32] closed
+Aug 18 23:16 : client: [33] opened from [::1]:34548
+Aug 18 23:16 : client: [33] closed
+Aug 19 00:53 : client: [2] closed
+Aug 19 00:54 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 19 00:54 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 19 00:54 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 19 00:54 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 19 00:54 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 19 00:54 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 19 00:54 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 19 00:54 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 19 00:54 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 19 00:54 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 19 00:54 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 19 00:54 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 19 00:54 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 19 00:54 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 19 00:54 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 19 00:54 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 19 00:54 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 19 00:54 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 19 00:54 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 19 00:54 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 19 00:54 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 19 00:54 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 19 00:54 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 19 00:54 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 19 00:54 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 19 00:54 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 19 00:54 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 19 00:54 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 19 00:54 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 19 00:54 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 19 00:54 : update: added /Pete Yorn - Lose You.mp3
+Aug 19 00:54 : client: [34] opened from [::1]:36250
+Aug 19 00:54 : client: [35] opened from [::1]:36252
+Aug 19 00:54 : client: [35] closed
+Aug 19 00:54 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 19 00:54 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 19 00:54 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 19 00:54 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 19 00:54 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 19 00:54 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 19 00:54 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 19 00:54 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 19 00:54 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 19 00:54 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 19 00:54 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 19 00:54 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 19 00:54 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 19 00:54 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 19 00:54 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 19 00:54 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 19 00:54 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 19 00:54 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 19 00:54 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 19 00:54 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 19 00:54 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 19 00:54 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 19 00:54 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 19 00:54 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 19 00:54 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 19 00:54 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 19 00:54 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 19 00:54 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 19 00:54 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 19 00:54 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 19 00:54 : client: [36] opened from [::1]:36254
+Aug 19 00:54 : client: [36] closed
+Aug 19 00:59 : client: [34] closed
+Aug 19 00:59 : client: [37] opened from [::1]:36388
+Aug 19 00:59 : client: [38] opened from [::1]:36390
+Aug 19 00:59 : client: [38] closed
+Aug 19 00:59 : player: played "Pete Yorn - Lose You.mp3"
+Aug 19 00:59 : client: [39] opened from [::1]:36402
+Aug 19 00:59 : client: [39] closed
+Aug 19 00:59 : client: [37] closed
+Aug 19 01:04 : player: played "Pete Yorn - Lose You.mp3"
+Aug 19 01:05 : client: [40] opened from [::1]:36446
+Aug 19 01:05 : client: [41] opened from [::1]:36456
+Aug 19 01:05 : client: [41] closed
+Aug 19 01:09 : player: played "Pete Yorn - Lose You.mp3"
+Aug 19 01:15 : client: [42] opened from [::1]:36728
+Aug 19 01:15 : client: [42] closed
+Aug 19 01:20 : player: played "Pete Yorn - Lose You.mp3"
+Aug 19 01:24 : client: [43] opened from [::1]:36798
+Aug 19 01:24 : client: [43] closed
+Aug 19 01:29 : player: played "01. Reflections Of Passion.mp3"
+Aug 19 01:29 : client: [44] opened from [::1]:36894
+Aug 19 01:29 : client: [44] closed
+Aug 19 01:35 : player: played "02. Until The Last Moment.mp3"
+Aug 19 01:35 : client: [45] opened from [::1]:37036
+Aug 19 01:35 : client: [45] closed
+Aug 19 01:40 : player: played "03. Before I Go.mp3"
+Aug 19 01:40 : client: [46] opened from [::1]:37198
+Aug 19 01:40 : client: [46] closed
+Aug 19 01:44 : player: played "04. After The Sunrise.mp3"
+Aug 19 01:44 : client: [47] opened from [::1]:37232
+Aug 19 01:44 : client: [47] closed
+Aug 19 01:50 : player: played "05. To The One Who Knows.mp3"
+Aug 19 01:50 : client: [48] opened from [::1]:37280
+Aug 19 01:50 : client: [48] closed
+Aug 19 01:54 : player: played "06. Once Upon A Time.mp3"
+Aug 19 01:54 : client: [49] opened from [::1]:37308
+Aug 19 01:54 : client: [49] closed
+Aug 19 01:58 : player: played "07. A Word In Private.mp3"
+Aug 19 01:58 : client: [50] opened from [::1]:37344
+Aug 19 01:58 : client: [50] closed
+Aug 19 02:03 : player: played "08. Flight Of Fantasy.mp3"
+Aug 19 02:03 : client: [51] opened from [::1]:37400
+Aug 19 02:03 : client: [51] closed
+Aug 19 02:06 : player: played "09. Almost A Whisper.mp3"
+Aug 19 02:06 : client: [52] opened from [::1]:37432
+Aug 19 02:06 : client: [52] closed
+Aug 19 02:10 : player: played "10. Aria.mp3"
+Aug 19 02:11 : client: [53] opened from [::1]:37502
+Aug 19 02:11 : client: [53] closed
+Aug 19 02:11 : client: [54] opened from [::1]:37504
+Aug 19 02:11 : client: [54] closed
+Aug 19 02:14 : client: [55] opened from [::1]:37626
+Aug 19 02:14 : client: [55] closed
+Aug 19 02:14 : client: [40] closed
+Aug 19 02:18 : player: played "Pete Yorn - Lose You.mp3"
+Aug 19 09:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 09:34 : config: option 'device' on line 19 was not recognized
+Aug 19 09:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 09:34 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 19 09:35 : player: played "Pete Yorn - Lose You.mp3"
+Aug 19 09:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 09:35 : config: option 'device' on line 19 was not recognized
+Aug 19 09:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 09:35 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 19 10:05 : client: [0] opened from [::1]:45810
+Aug 19 10:05 : client: [1] opened from [::1]:45812
+Aug 19 10:05 : client: [1] closed
+Aug 19 10:05 : player: played "Pete Yorn - Lose You.mp3"
+Aug 19 10:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 10:05 : client: [2] opened from [::1]:45814
+Aug 19 10:05 : client: [2] closed
+Aug 19 10:08 : player: played "Arnob/Arnob - Doob (Full Album)/01 - Arnob - Onek Dur (music.com.bd).mp3"
+Aug 19 10:08 : client: [3] opened from [::1]:45830
+Aug 19 10:08 : client: [3] closed
+Aug 19 10:12 : player: played "Arnob/Arnob - Doob (Full Album)/02 - Arnob - Shopno Debe Dub (music.com.bd).mp3"
+Aug 19 10:12 : client: [4] opened from [::1]:45850
+Aug 19 10:12 : client: [4] closed
+Aug 19 10:16 : player: played "Arnob/Arnob - Doob (Full Album)/03 - Arnob - Adkhana (music.com.bd).mp3"
+Aug 19 10:16 : client: [5] opened from [::1]:45866
+Aug 19 10:16 : client: [5] closed
+Aug 19 10:20 : player: played "Arnob/Arnob - Doob (Full Album)/04 - Arnob - Ghor Bahir (music.com.bd).mp3"
+Aug 19 10:20 : client: [6] opened from [::1]:45878
+Aug 19 10:20 : client: [6] closed
+Aug 19 10:23 : player: played "Arnob/Arnob - Doob (Full Album)/05 - Arnob - Lukie (music.com.bd).mp3"
+Aug 19 10:23 : client: [7] opened from [::1]:45902
+Aug 19 10:23 : client: [7] closed
+Aug 19 10:25 : client: [8] opened from [::1]:45924
+Aug 19 10:25 : client: [8] closed
+Aug 19 10:26 : client: [0] closed
+Aug 19 12:09 : client: [9] opened from [::1]:49636
+Aug 19 12:09 : client: [10] opened from [::1]:49638
+Aug 19 12:09 : client: [10] closed
+Aug 19 12:09 : player: played "Arnob/Arnob - Doob (Full Album)/06 - Arnob - Dhaka Rate (music.com.bd).mp3"
+Aug 19 12:09 : client: [11] opened from [::1]:49642
+Aug 19 12:09 : client: [11] closed
+Aug 19 12:14 : player: played "Downloads/CONCLUSION/Odyssey [2019]/Odyssey - Conclusion.mp3"
+Aug 19 12:16 : client: [12] opened from [::1]:49756
+Aug 19 12:16 : client: [12] closed
+Aug 19 12:21 : player: played "Aushomapto - Aurthohin (DJJOhAL.Com).mp3"
+Aug 19 12:22 : client: [9] closed
+Aug 19 20:54 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 20:55 : config: option 'device' on line 19 was not recognized
+Aug 19 20:55 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 19 20:57 : client: [0] opened from [::1]:36552
+Aug 19 20:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 20:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 19 20:58 : client: [1] opened from [::1]:36556
+Aug 19 20:58 : client: [1] closed
+Aug 19 21:00 : player: played "Bleach/Nirvana - Blew.mp3"
+Aug 19 21:00 : client: [2] opened from [::1]:36632
+Aug 19 21:00 : client: [2] closed
+Aug 19 21:03 : player: played "Bleach/Nirvana - Floyd The Barber.mp3"
+Aug 19 21:03 : client: [3] opened from [::1]:36662
+Aug 19 21:03 : client: [3] closed
+Aug 19 21:06 : player: played "Bleach/Nirvana - About A Girl.mp3"
+Aug 19 21:06 : client: [4] opened from [::1]:36684
+Aug 19 21:06 : client: [4] closed
+Aug 19 21:08 : player: played "Bleach/Nirvana - School.mp3"
+Aug 19 21:08 : client: [5] opened from [::1]:36724
+Aug 19 21:08 : client: [5] closed
+Aug 19 21:12 : player: played "Bleach/Nirvana - Love Buzz.mp3"
+Aug 19 21:12 : client: [6] opened from [::1]:36788
+Aug 19 21:12 : client: [6] closed
+Aug 19 21:14 : client: [7] opened from [::1]:36876
+Aug 19 21:14 : client: [7] closed
+Aug 19 21:23 : player: played "Abar Hashimukh  Shironamhin  2015.mp3"
+Aug 19 21:33 : client: [8] opened from [::1]:37112
+Aug 19 21:33 : client: [8] closed
+Aug 19 21:36 : player: played "Michael Bublé - Sway.mp3"
+Aug 19 21:59 : client: [9] opened from [::1]:37366
+Aug 19 21:59 : client: [9] closed
+Aug 19 22:01 : player: played "Biday_Shongbidhan-Minerva/01.Abirbhab-Minerva_FusionBD.Com.mp3"
+Aug 19 22:01 : client: [10] opened from [::1]:37388
+Aug 19 22:01 : client: [10] closed
+Aug 19 22:07 : player: played "Biday_Shongbidhan-Minerva/02.Mrittur_Shesh_Choy-Minerva_FusionBD.Com.mp3"
+Aug 19 22:07 : client: [11] opened from [::1]:37470
+Aug 19 22:07 : client: [11] closed
+Aug 19 22:14 : player: played "Biday_Shongbidhan-Minerva/03.Ashirbad-Minerva_FusionBD.Com.mp3"
+Aug 19 22:14 : client: [12] opened from [::1]:37522
+Aug 19 22:14 : client: [12] closed
+Aug 19 22:19 : client: [13] opened from [::1]:37624
+Aug 19 22:19 : client: [13] closed
+Aug 20 00:12 : client: [14] opened from [::1]:39236
+Aug 20 00:12 : client: [15] opened from [::1]:39238
+Aug 20 00:12 : client: [15] closed
+Aug 20 00:13 : client: [16] opened from [::1]:39240
+Aug 20 00:13 : client: [17] opened from [::1]:39242
+Aug 20 00:13 : client: [16] closed
+Aug 20 00:13 : client: [17] closed
+Aug 20 00:16 : player: played "Downloads/System of A Down/Toxicity/09.  ATWA.flac"
+Aug 20 00:16 : client: [18] opened from [::1]:39274
+Aug 20 00:16 : client: [19] opened from [::1]:39272
+Aug 20 00:16 : client: [19] closed
+Aug 20 00:16 : client: [18] closed
+Aug 20 00:17 : client: [20] opened from [::1]:39316
+Aug 20 00:17 : client: [21] opened from [::1]:39318
+Aug 20 00:17 : client: [20] closed
+Aug 20 00:17 : client: [21] closed
+Aug 20 00:20 : player: played "26. Lonely Day.mp3"
+Aug 20 00:30 : client: [22] opened from [::1]:39622
+Aug 20 00:30 : client: [22] closed
+Aug 20 00:30 : client: [23] opened from [::1]:39624
+Aug 20 00:30 : client: [24] opened from [::1]:39626
+Aug 20 00:30 : client: [23] closed
+Aug 20 00:30 : client: [24] closed
+Aug 20 00:30 : client: [25] opened from [::1]:39628
+Aug 20 00:30 : client: [25] closed
+Aug 20 00:30 : client: [26] opened from [::1]:39630
+Aug 20 00:30 : client: [26] closed
+Aug 20 00:32 : client: [27] opened from [::1]:39652
+Aug 20 00:32 : client: [27] closed
+Aug 20 00:33 : client: [14] closed
+Aug 20 00:33 : player: played "Bleach/Nirvana - Blew.mp3"
+Aug 20 10:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 20 10:23 : config: option 'device' on line 19 was not recognized
+Aug 20 10:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 20 10:23 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 20 10:30 : client: [0] opened from [::1]:53646
+Aug 20 10:30 : client: [1] opened from [::1]:53648
+Aug 20 10:30 : client: [1] closed
+Aug 20 10:30 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 20 10:30 : client: [2] opened from [::1]:53650
+Aug 20 10:30 : client: [2] closed
+Aug 20 10:34 : player: played "10. Aria.mp3"
+Aug 20 10:52 : client: [3] opened from [::1]:53806
+Aug 20 10:52 : client: [3] closed
+Aug 20 10:56 : player: played "Taylor Swift - Fearless/01  Taylor Swift - Fearless.mp3"
+Aug 20 10:56 : client: [4] opened from [::1]:53828
+Aug 20 10:56 : client: [4] closed
+Aug 20 11:01 : player: played "Taylor Swift - Fearless/02  Taylor Swift - Fifteen.mp3"
+Aug 20 11:01 : client: [5] opened from [::1]:53846
+Aug 20 11:01 : client: [5] closed
+Aug 20 11:05 : player: played "Taylor Swift - Fearless/03  Taylor Swift - Love Story.mp3"
+Aug 20 11:05 : client: [6] opened from [::1]:53862
+Aug 20 11:05 : client: [6] closed
+Aug 20 11:09 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 20 11:10 : player: played "02. Sparks Fly - Taylor Swift.mp3"
+Aug 20 11:10 : client: [7] opened from [::1]:53888
+Aug 20 11:10 : client: [7] closed
+Aug 20 11:14 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 20 11:15 : player: played "Red (Deluxe Edition)/Red (Deluxe Edition) - 320Kbps/State Of Grace (TracksNow.net).m4a"
+Aug 20 11:15 : client: [8] opened from [::1]:53908
+Aug 20 11:15 : client: [8] closed
+Aug 20 11:18 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 20 11:18 : player: played "Red (Deluxe Edition)/Red (Deluxe Edition) - 320Kbps/Red (TracksNow.net).m4a"
+Aug 20 11:18 : client: [9] opened from [::1]:53944
+Aug 20 11:18 : client: [9] closed
+Aug 20 11:22 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 20 11:22 : player: played "Red (Deluxe Edition)/Red (Deluxe Edition) - 320Kbps/Treacherous (TracksNow.net).m4a"
+Aug 20 11:22 : client: [10] opened from [::1]:53970
+Aug 20 11:22 : client: [10] closed
+Aug 20 11:26 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 20 11:26 : player: played "Red (Deluxe Edition)/Red (Deluxe Edition) - 320Kbps/I Knew You Were Trouble- (TracksNow.net).m4a"
+Aug 20 11:26 : client: [11] opened from [::1]:54010
+Aug 20 11:26 : client: [11] closed
+Aug 20 11:31 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 20 11:31 : player: played "Red (Deluxe Edition)/Red (Deluxe Edition) - 320Kbps/All Too Well (TracksNow.net).m4a"
+Aug 20 11:31 : client: [12] opened from [::1]:54030
+Aug 20 11:31 : client: [12] closed
+Aug 20 11:35 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 20 11:35 : player: played "Red (Deluxe Edition)/Red (Deluxe Edition) - 320Kbps/22 (TracksNow.net).m4a"
+Aug 20 11:35 : client: [13] opened from [::1]:54044
+Aug 20 11:35 : client: [13] closed
+Aug 20 11:39 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 20 11:39 : player: played "Red (Deluxe Edition)/Red (Deluxe Edition) - 320Kbps/I Almost Do (TracksNow.net).m4a"
+Aug 20 11:39 : client: [14] opened from [::1]:54072
+Aug 20 11:39 : client: [14] closed
+Aug 20 11:40 : client: [15] opened from [::1]:54074
+Aug 20 11:40 : client: [15] closed
+Aug 20 11:44 : player: played "The Black Collection (2016)/CD1/02. Make It Real.mp3"
+Aug 20 11:44 : client: [16] opened from [::1]:54098
+Aug 20 11:44 : client: [16] closed
+Aug 20 11:50 : player: played "The Black Collection (2016)/CD2/03. Lady Starlight.mp3"
+Aug 20 11:54 : client: [17] opened from [::1]:54164
+Aug 20 11:54 : client: [17] closed
+Aug 20 11:59 : player: played "The Black Collection (2016)/CD2/01. Always Somewhere.mp3"
+Aug 20 11:59 : client: [18] opened from [::1]:54190
+Aug 20 11:59 : client: [18] closed
+Aug 20 12:03 : player: played "The Black Collection (2016)/CD1/01. Is There Anybody There.mp3"
+Aug 20 12:05 : client: [19] opened from [::1]:54282
+Aug 20 12:05 : client: [19] closed
+Aug 20 12:10 : player: played "Scorpions - Born To Touch Your Feelings - Best of Rock Ballads (2017)/04. Always Somewhere.mp3"
+Aug 20 12:10 : client: [20] opened from [::1]:54300
+Aug 20 12:10 : client: [20] closed
+Aug 20 12:16 : player: played "Scorpions - Born To Touch Your Feelings - Best of Rock Ballads (2017)/06. Holiday.mp3"
+Aug 20 12:16 : client: [21] opened from [::1]:54330
+Aug 20 12:16 : client: [21] closed
+Aug 20 12:23 : player: played "The Black Collection (2016)/CD2/02. Holiday.mp3"
+Aug 20 12:23 : client: [22] opened from [::1]:54366
+Aug 20 12:23 : client: [22] closed
+Aug 20 12:27 : player: played "The Black Collection (2016)/CD1/05. Passion Rules The Game.mp3"
+Aug 20 12:27 : client: [23] opened from [::1]:54400
+Aug 20 12:27 : client: [23] closed
+Aug 20 12:32 : player: played "The Black Collection (2016)/CD2/06. Believe In Love.mp3"
+Aug 20 12:32 : client: [24] opened from [::1]:54420
+Aug 20 12:32 : client: [24] closed
+Aug 20 12:39 : player: played "Scorpions - Born To Touch Your Feelings - Best of Rock Ballads (2017)/14. Lady Starlight.mp3"
+Aug 20 12:39 : client: [25] opened from [::1]:54498
+Aug 20 12:39 : client: [25] closed
+Aug 20 12:42 : player: played "Scorpions - Born To Touch Your Feelings - Best of Rock Ballads (2017)/08. When The Smoke Is Going Down.mp3"
+Aug 20 13:56 : client: [26] opened from [::1]:54866
+Aug 20 13:56 : client: [26] closed
+Aug 20 13:59 : player: played "David Bowie - Heroes - 2017 Remaster.mp3"
+Aug 20 13:59 : client: [27] opened from [::1]:54878
+Aug 20 13:59 : client: [27] closed
+Aug 20 14:03 : player: played "David Bowie - Heroes.mp3"
+Aug 20 14:03 : client: [28] opened from [::1]:54894
+Aug 20 14:03 : client: [28] closed
+Aug 20 14:05 : client: [29] opened from [::1]:54916
+Aug 20 14:05 : client: [29] closed
+Aug 20 14:10 : player: played "Downloads/CONCLUSION/Odyssey [2019]/Odyssey - Conclusion.mp3"
+Aug 20 14:11 : client: [30] opened from [::1]:54966
+Aug 20 14:11 : client: [30] closed
+Aug 20 14:11 : client: [31] opened from [::1]:54968
+Aug 20 14:11 : client: [31] closed
+Aug 20 14:11 : client: [32] opened from [::1]:54970
+Aug 20 14:11 : client: [32] closed
+Aug 20 14:11 : client: [33] opened from [::1]:54972
+Aug 20 14:11 : client: [33] closed
+Aug 20 14:11 : client: [34] opened from [::1]:54974
+Aug 20 14:11 : client: [34] closed
+Aug 20 14:11 : client: [35] opened from [::1]:54976
+Aug 20 14:11 : client: [35] closed
+Aug 20 14:11 : client: [36] opened from [::1]:54978
+Aug 20 14:11 : client: [36] closed
+Aug 20 14:11 : client: [37] opened from [::1]:54980
+Aug 20 14:11 : client: [37] closed
+Aug 20 14:12 : client: [38] opened from [::1]:54982
+Aug 20 14:12 : client: [38] closed
+Aug 20 14:12 : client: [39] opened from [::1]:54984
+Aug 20 14:12 : client: [39] closed
+Aug 20 14:12 : client: [40] opened from [::1]:54986
+Aug 20 14:12 : client: [40] closed
+Aug 20 14:12 : client: [41] opened from [::1]:54988
+Aug 20 14:12 : client: [41] closed
+Aug 20 14:12 : client: [42] opened from [::1]:54990
+Aug 20 14:12 : client: [42] closed
+Aug 20 14:12 : client: [43] opened from [::1]:54992
+Aug 20 14:12 : client: [43] closed
+Aug 20 14:12 : client: [44] opened from [::1]:54994
+Aug 20 14:12 : client: [44] closed
+Aug 20 14:12 : client: [45] opened from [::1]:54996
+Aug 20 14:12 : client: [45] closed
+Aug 20 14:12 : client: [46] opened from [::1]:54998
+Aug 20 14:12 : client: [46] closed
+Aug 20 14:12 : client: [47] opened from [::1]:55000
+Aug 20 14:12 : client: [47] closed
+Aug 20 14:12 : client: [48] opened from [::1]:55002
+Aug 20 14:12 : client: [48] closed
+Aug 20 14:12 : client: [49] opened from [::1]:55006
+Aug 20 14:12 : client: [49] closed
+Aug 20 14:12 : client: [50] opened from [::1]:55008
+Aug 20 14:12 : client: [50] closed
+Aug 20 14:12 : client: [51] opened from [::1]:55010
+Aug 20 14:12 : client: [51] closed
+Aug 20 14:12 : client: [52] opened from [::1]:55012
+Aug 20 14:12 : client: [52] closed
+Aug 20 14:12 : client: [53] opened from [::1]:55014
+Aug 20 14:12 : client: [53] closed
+Aug 20 14:12 : client: [54] opened from [::1]:55016
+Aug 20 14:12 : client: [54] closed
+Aug 20 14:12 : client: [55] opened from [::1]:55018
+Aug 20 14:12 : client: [55] closed
+Aug 20 14:12 : client: [56] opened from [::1]:55020
+Aug 20 14:12 : client: [56] closed
+Aug 20 14:12 : client: [57] opened from [::1]:55022
+Aug 20 14:12 : client: [57] closed
+Aug 20 14:12 : client: [58] opened from [::1]:55024
+Aug 20 14:12 : client: [58] closed
+Aug 20 14:12 : client: [59] opened from [::1]:55026
+Aug 20 14:12 : client: [59] closed
+Aug 20 14:12 : client: [60] opened from [::1]:55028
+Aug 20 14:12 : client: [60] closed
+Aug 20 14:12 : client: [61] opened from [::1]:55030
+Aug 20 14:12 : client: [61] closed
+Aug 20 14:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 20 14:12 : client: [62] opened from [::1]:55032
+Aug 20 14:12 : client: [62] closed
+Aug 20 14:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 20 14:12 : client: [63] opened from [::1]:55034
+Aug 20 14:12 : client: [63] closed
+Aug 20 14:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 20 14:12 : client: [64] opened from [::1]:55036
+Aug 20 14:12 : client: [64] closed
+Aug 20 14:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 20 14:12 : client: [65] opened from [::1]:55038
+Aug 20 14:12 : client: [65] closed
+Aug 20 14:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 20 14:12 : client: [66] opened from [::1]:55040
+Aug 20 14:12 : client: [66] closed
+Aug 20 14:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 20 14:12 : client: [67] opened from [::1]:55042
+Aug 20 14:12 : client: [67] closed
+Aug 20 14:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 20 14:12 : client: [68] opened from [::1]:55044
+Aug 20 14:12 : client: [68] closed
+Aug 20 14:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 20 14:12 : client: [69] opened from [::1]:55046
+Aug 20 14:12 : client: [69] closed
+Aug 20 14:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 20 14:12 : client: [70] opened from [::1]:55048
+Aug 20 14:12 : client: [70] closed
+Aug 20 14:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 20 14:12 : client: [71] opened from [::1]:55050
+Aug 20 14:12 : client: [71] closed
+Aug 20 14:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 20 14:12 : client: [72] opened from [::1]:55052
+Aug 20 14:12 : client: [72] closed
+Aug 20 14:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 20 14:12 : client: [73] opened from [::1]:55054
+Aug 20 14:12 : client: [73] closed
+Aug 20 14:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 20 14:12 : client: [74] opened from [::1]:55056
+Aug 20 14:12 : client: [74] closed
+Aug 20 14:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 20 14:12 : client: [75] opened from [::1]:55058
+Aug 20 14:12 : client: [75] closed
+Aug 20 14:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 20 14:12 : client: [76] opened from [::1]:55060
+Aug 20 14:12 : client: [76] closed
+Aug 20 14:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 20 14:12 : client: [77] opened from [::1]:55062
+Aug 20 14:12 : client: [77] closed
+Aug 20 14:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 20 14:12 : client: [78] opened from [::1]:55064
+Aug 20 14:12 : client: [78] closed
+Aug 20 14:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 20 14:12 : client: [79] opened from [::1]:55066
+Aug 20 14:12 : client: [79] closed
+Aug 20 14:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 20 14:12 : client: [80] opened from [::1]:55068
+Aug 20 14:12 : client: [80] closed
+Aug 20 14:12 : ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+Aug 20 14:12 : client: [81] opened from [::1]:55070
+Aug 20 14:12 : client: [81] closed
+Aug 20 14:12 : client: [82] opened from [::1]:55072
+Aug 20 14:12 : client: [82] closed
+Aug 20 14:12 : client: [83] opened from [::1]:55074
+Aug 20 14:12 : client: [83] closed
+Aug 20 14:12 : client: [84] opened from [::1]:55076
+Aug 20 14:12 : client: [84] closed
+Aug 20 14:12 : client: [85] opened from [::1]:55078
+Aug 20 14:12 : client: [85] closed
+Aug 20 14:12 : client: [86] opened from [::1]:55080
+Aug 20 14:12 : client: [86] closed
+Aug 20 14:12 : client: [87] opened from [::1]:55082
+Aug 20 14:12 : client: [87] closed
+Aug 20 14:12 : client: [88] opened from [::1]:55084
+Aug 20 14:12 : client: [88] closed
+Aug 20 14:12 : client: [89] opened from [::1]:55086
+Aug 20 14:12 : client: [89] closed
+Aug 20 14:12 : client: [90] opened from [::1]:55088
+Aug 20 14:12 : client: [90] closed
+Aug 20 14:12 : client: [91] opened from [::1]:55090
+Aug 20 14:12 : client: [91] closed
+Aug 20 14:12 : client: [92] opened from [::1]:55092
+Aug 20 14:12 : client: [92] closed
+Aug 20 14:12 : client: [93] opened from [::1]:55094
+Aug 20 14:12 : client: [93] closed
+Aug 20 14:12 : client: [94] opened from [::1]:55096
+Aug 20 14:12 : client: [94] closed
+Aug 20 14:12 : client: [95] opened from [::1]:55098
+Aug 20 14:12 : client: [95] closed
+Aug 20 14:12 : client: [96] opened from [::1]:55100
+Aug 20 14:12 : client: [96] closed
+Aug 20 14:12 : client: [97] opened from [::1]:55102
+Aug 20 14:12 : client: [97] closed
+Aug 20 14:12 : client: [98] opened from [::1]:55104
+Aug 20 14:12 : client: [98] closed
+Aug 20 14:12 : client: [99] opened from [::1]:55106
+Aug 20 14:12 : client: [99] closed
+Aug 20 14:12 : client: [100] opened from [::1]:55108
+Aug 20 14:12 : client: [100] closed
+Aug 20 14:12 : client: [101] opened from [::1]:55110
+Aug 20 14:12 : client: [101] closed
+Aug 20 14:12 : client: [102] opened from [::1]:55112
+Aug 20 14:12 : client: [102] closed
+Aug 20 14:12 : client: [103] opened from [::1]:55114
+Aug 20 14:12 : client: [103] closed
+Aug 20 14:12 : client: [104] opened from [::1]:55116
+Aug 20 14:12 : client: [104] closed
+Aug 20 14:12 : client: [105] opened from [::1]:55118
+Aug 20 14:12 : client: [105] closed
+Aug 20 14:12 : client: [106] opened from [::1]:55120
+Aug 20 14:12 : client: [106] closed
+Aug 20 14:12 : client: [107] opened from [::1]:55122
+Aug 20 14:12 : client: [107] closed
+Aug 20 14:12 : client: [108] opened from [::1]:55124
+Aug 20 14:12 : client: [108] closed
+Aug 20 14:12 : client: [109] opened from [::1]:55126
+Aug 20 14:12 : client: [109] closed
+Aug 20 14:12 : client: [110] opened from [::1]:55128
+Aug 20 14:12 : client: [110] closed
+Aug 20 14:12 : client: [111] opened from [::1]:55130
+Aug 20 14:12 : client: [111] closed
+Aug 20 14:12 : client: [112] opened from [::1]:55132
+Aug 20 14:12 : client: [112] closed
+Aug 20 14:12 : client: [113] opened from [::1]:55134
+Aug 20 14:12 : client: [113] closed
+Aug 20 14:12 : client: [114] opened from [::1]:55136
+Aug 20 14:12 : client: [114] closed
+Aug 20 14:12 : client: [115] opened from [::1]:55138
+Aug 20 14:12 : client: [115] closed
+Aug 20 14:12 : client: [116] opened from [::1]:55140
+Aug 20 14:12 : client: [116] closed
+Aug 20 14:12 : client: [117] opened from [::1]:55142
+Aug 20 14:12 : client: [117] closed
+Aug 20 14:12 : client: [118] opened from [::1]:55144
+Aug 20 14:12 : client: [118] closed
+Aug 20 14:12 : client: [119] opened from [::1]:55146
+Aug 20 14:12 : client: [119] closed
+Aug 20 14:12 : player: played "Breaking Benjamin - Failure (Official Video).mp3"
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : exception: Not playing
+Aug 20 14:12 : client: [120] opened from [::1]:55148
+Aug 20 14:12 : client: [120] closed
+Aug 20 14:12 : client: [121] opened from [::1]:55150
+Aug 20 14:12 : client: [121] closed
+Aug 20 14:12 : client: [122] opened from [::1]:55152
+Aug 20 14:12 : client: [122] closed
+Aug 20 14:12 : client: [123] opened from [::1]:55154
+Aug 20 14:12 : client: [123] closed
+Aug 20 14:12 : client: [124] opened from [::1]:55156
+Aug 20 14:12 : client: [124] closed
+Aug 20 14:12 : client: [125] opened from [::1]:55158
+Aug 20 14:12 : client: [125] closed
+Aug 20 14:12 : client: [126] opened from [::1]:55160
+Aug 20 14:12 : client: [126] closed
+Aug 20 14:12 : client: [127] opened from [::1]:55162
+Aug 20 14:12 : client: [127] closed
+Aug 20 14:12 : client: [128] opened from [::1]:55164
+Aug 20 14:12 : client: [128] closed
+Aug 20 14:12 : client: [129] opened from [::1]:55166
+Aug 20 14:12 : client: [129] closed
+Aug 20 14:12 : client: [130] opened from [::1]:55168
+Aug 20 14:12 : client: [130] closed
+Aug 20 14:12 : client: [131] opened from [::1]:55170
+Aug 20 14:12 : client: [131] closed
+Aug 20 14:12 : client: [132] opened from [::1]:55172
+Aug 20 14:12 : client: [132] closed
+Aug 20 14:12 : client: [133] opened from [::1]:55174
+Aug 20 14:12 : client: [133] closed
+Aug 20 14:12 : client: [134] opened from [::1]:55176
+Aug 20 14:12 : client: [134] closed
+Aug 20 14:12 : client: [135] opened from [::1]:55178
+Aug 20 14:12 : client: [135] closed
+Aug 20 14:12 : client: [136] opened from [::1]:55180
+Aug 20 14:12 : client: [136] closed
+Aug 20 14:12 : client: [137] opened from [::1]:55182
+Aug 20 14:12 : client: [137] closed
+Aug 20 14:12 : client: [138] opened from [::1]:55184
+Aug 20 14:12 : client: [138] closed
+Aug 20 14:12 : client: [139] opened from [::1]:55186
+Aug 20 14:12 : client: [139] closed
+Aug 20 14:16 : player: played "Breaking Benjamin - Failure (Official Video).mp3"
+Aug 20 14:19 : client: [140] opened from [::1]:55228
+Aug 20 14:19 : client: [140] closed
+Aug 20 14:23 : player: played "Breaking Benjamin - Failure (Official Video).mp3"
+Aug 20 14:30 : client: [141] opened from [::1]:55378
+Aug 20 14:30 : client: [141] closed
+Aug 20 14:30 : client: [142] opened from [::1]:55380
+Aug 20 14:30 : client: [142] closed
+Aug 20 14:30 : client: [143] opened from [::1]:55382
+Aug 20 14:30 : client: [143] closed
+Aug 20 14:37 : player: played "Bleach/Nirvana - Blew.mp3"
+Aug 20 14:37 : client: [144] opened from [::1]:55550
+Aug 20 14:37 : client: [144] closed
+Aug 20 14:41 : player: played "01 Backstreet Boys - I Want It That Way.mp3"
+Aug 20 14:41 : client: [145] opened from [::1]:55598
+Aug 20 14:41 : client: [145] closed
+Aug 20 14:41 : client: [146] opened from [::1]:55604
+Aug 20 14:41 : client: [146] closed
+Aug 20 14:45 : player: played "03 Backstreet Boys - As Long As You Love Me.mp3"
+Aug 20 14:45 : client: [147] opened from [::1]:55654
+Aug 20 14:45 : client: [147] closed
+Aug 20 14:45 : client: [148] opened from [::1]:55656
+Aug 20 14:45 : client: [148] closed
+Aug 20 14:47 : client: [149] opened from [::1]:55666
+Aug 20 14:47 : client: [149] closed
+Aug 20 14:50 : player: played "04 Backstreet Boys - Show Me The Meaning Of Being Lonely.mp3"
+Aug 20 14:50 : client: [150] opened from [::1]:55762
+Aug 20 14:50 : client: [150] closed
+Aug 20 14:54 : player: played "07 Backstreet Boys - Larger Than Life.mp3"
+Aug 20 14:54 : client: [151] opened from [::1]:55796
+Aug 20 14:54 : client: [151] closed
+Aug 20 14:58 : player: played "10 Backstreet Boys - Shape Of My Heart.mp3"
+Aug 20 15:28 : client: [152] opened from [::1]:56044
+Aug 20 15:28 : client: [152] closed
+Aug 20 15:32 : player: played "Eida - Aurora Dreams.mp3"
+Aug 20 15:32 : client: [153] opened from [::1]:56074
+Aug 20 15:32 : client: [153] closed
+Aug 20 15:36 : player: played "Eida - Nightdriver.mp3"
+Aug 20 16:58 : client: [154] opened from [::1]:56752
+Aug 20 16:58 : client: [154] closed
+Aug 20 17:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 20 17:17 : config: option 'device' on line 19 was not recognized
+Aug 20 17:17 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 20 20:13 : client: [0] opened from [::1]:40744
+Aug 20 20:13 : client: [0] closed
+Aug 20 23:43 : client: [1] opened from [::1]:41546
+Aug 20 23:43 : client: [1] closed
+Aug 21 10:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 10:59 : config: option 'device' on line 19 was not recognized
+Aug 21 10:59 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 21 11:38 : client: [0] opened from [::1]:46954
+Aug 21 11:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 11:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 11:38 : client: [1] opened from [::1]:46958
+Aug 21 11:38 : client: [1] closed
+Aug 21 11:42 : player: played "Eida - Aurora Dreams.mp3"
+Aug 21 11:42 : client: [2] opened from [::1]:46984
+Aug 21 11:42 : client: [2] closed
+Aug 21 11:46 : player: played "Eida - Nightdriver.mp3"
+Aug 21 13:02 : client: [3] opened from [::1]:47534
+Aug 21 13:02 : client: [3] closed
+Aug 21 13:05 : player: played "03. Come as You Are.mp3"
+Aug 21 13:06 : client: [4] opened from [::1]:47772
+Aug 21 13:06 : client: [4] closed
+Aug 21 13:10 : player: played "The Cranberries - Dreams.mp3"
+Aug 21 13:10 : client: [5] opened from [::1]:47810
+Aug 21 13:10 : client: [5] closed
+Aug 21 13:15 : player: played "The Cranberries - Linger.mp3"
+Aug 21 13:58 : client: [6] opened from [::1]:48392
+Aug 21 13:58 : client: [6] closed
+Aug 21 14:03 : player: played "The Cranberries - Promises.mp3"
+Aug 21 14:09 : client: [7] opened from [::1]:48526
+Aug 21 14:09 : client: [7] closed
+Aug 21 14:09 : client: [8] opened from [::1]:48528
+Aug 21 14:09 : client: [8] closed
+Aug 21 14:14 : player: played "The Cranberries - Ode To My Family.mp3"
+Aug 21 14:43 : client: [0] closed
+Aug 21 14:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 14:59 : config: option 'device' on line 19 was not recognized
+Aug 21 14:59 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 21 15:08 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 21 15:08 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 21 15:08 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 21 15:08 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 21 15:08 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 21 15:08 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 21 15:08 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 21 15:08 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 21 15:08 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 21 15:08 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 21 15:08 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 21 15:08 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 21 15:08 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 21 15:08 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 21 15:08 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 21 15:08 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 21 15:08 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 21 15:08 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 21 15:08 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 21 15:08 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 21 15:08 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 21 15:08 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 21 15:08 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 21 15:08 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 21 15:08 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 21 15:08 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 21 15:08 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 21 15:08 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 21 15:08 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 21 15:08 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 21 15:08 : update: added /Fishbach - Mortel.mp3
+Aug 21 15:15 : client: [0] opened from [::1]:38620
+Aug 21 15:15 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 21 15:15 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 21 15:15 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 21 15:15 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 21 15:15 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 21 15:15 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 21 15:15 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 21 15:15 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 21 15:15 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 21 15:15 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 21 15:15 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 21 15:15 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 21 15:15 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 21 15:15 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 21 15:15 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 21 15:15 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 21 15:15 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 21 15:15 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 21 15:15 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 21 15:15 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 21 15:15 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 21 15:15 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 21 15:15 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 21 15:15 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 21 15:15 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 21 15:15 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 21 15:15 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 21 15:15 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 21 15:15 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 21 15:15 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 21 15:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 15:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 21 15:16 : client: [1] opened from [::1]:38622
+Aug 21 15:16 : client: [1] closed
+Aug 21 15:16 : client: [0] closed
+Aug 21 15:16 : client: [2] opened from [::1]:38624
+Aug 21 15:16 : client: [2] closed
+Aug 21 15:53 : client: [3] opened from [::1]:38990
+Aug 21 15:53 : client: [3] closed
+Aug 21 18:05 : client: [4] opened from [::1]:39228
+Aug 21 18:05 : client: [5] opened from [::1]:39230
+Aug 21 18:05 : client: [5] closed
+Aug 21 18:05 : player: played "Fishbach - Mortel.mp3"
+Aug 21 18:05 : client: [6] opened from [::1]:39232
+Aug 21 18:05 : client: [6] closed
+Aug 21 18:09 : player: played "The Cranberries - Dreams.mp3"
+Aug 21 18:09 : client: [7] opened from [::1]:39254
+Aug 21 18:09 : client: [7] closed
+Aug 21 18:14 : player: played "The Cranberries - Linger.mp3"
+Aug 21 18:14 : client: [8] opened from [::1]:39282
+Aug 21 18:14 : client: [8] closed
+Aug 21 18:18 : player: played "The Cranberries - Promises.mp3"
+Aug 21 18:18 : client: [9] opened from [::1]:39316
+Aug 21 18:18 : client: [9] closed
+Aug 21 18:24 : player: played "The Cranberries - Zombie.mp3"
+Aug 21 18:24 : client: [10] opened from [::1]:39370
+Aug 21 18:24 : client: [10] closed
+Aug 21 18:25 : client: [11] opened from [::1]:39378
+Aug 21 18:25 : client: [11] closed
+Aug 21 18:32 : client: [12] opened from [::1]:39440
+Aug 21 18:32 : client: [12] closed
+Aug 21 18:32 : client: [13] opened from [::1]:39472
+Aug 21 18:32 : client: [13] closed
+Aug 21 20:23 : client: [14] opened from [::1]:39978
+Aug 21 20:23 : client: [15] opened from [::1]:39980
+Aug 21 20:23 : client: [15] closed
+Aug 21 20:23 : player: played "The Cranberries - Ode To My Family.mp3"
+Aug 21 20:23 : client: [16] opened from [::1]:39984
+Aug 21 20:23 : client: [17] opened from [::1]:39986
+Aug 21 20:23 : client: [16] closed
+Aug 21 20:23 : client: [17] closed
+Aug 21 20:26 : player: played "David Bowie - Heroes - 2017 Remaster.mp3"
+Aug 21 20:46 : client: [4] closed
+Aug 21 20:46 : client: [18] opened from [::1]:40236
+Aug 21 20:46 : client: [18] closed
+Aug 21 20:50 : player: played "10 - Rupert Holmes - Escape (The Pina Colada Song).flac"
+Aug 21 21:30 : client: [19] opened from [::1]:42374
+Aug 21 21:30 : client: [19] closed
+Aug 21 21:34 : player: played "The Wall/09. young lust.mp3"
+Aug 21 21:49 : client: [20] opened from [::1]:42558
+Aug 21 21:49 : client: [20] closed
+Aug 21 21:53 : player: played "The Cranberries - Ode To My Family.mp3"
+Aug 22 00:26 : client: [21] opened from [::1]:44200
+Aug 22 00:26 : client: [22] opened from [::1]:44202
+Aug 22 00:26 : client: [22] closed
+Aug 22 00:26 : client: [23] opened from [::1]:44204
+Aug 22 00:26 : client: [23] closed
+Aug 22 00:26 : client: [14] closed
+Aug 22 00:31 : player: played "The Cranberries - Promises.mp3"
+Aug 22 00:31 : client: [24] opened from [::1]:44264
+Aug 22 00:31 : client: [24] closed
+Aug 22 00:31 : client: [25] opened from [::1]:44266
+Aug 22 00:31 : client: [25] closed
+Aug 22 00:31 : client: [26] opened from [::1]:44268
+Aug 22 00:31 : client: [26] closed
+Aug 22 00:32 : client: [27] opened from [::1]:44272
+Aug 22 00:32 : client: [27] closed
+Aug 22 00:47 : player: played "The Ministry Of Lost Souls.mp3"
+Aug 22 00:49 : client: [28] opened from [::1]:44574
+Aug 22 00:49 : client: [28] closed
+Aug 22 00:53 : player: played "01 Backstreet Boys - I Want It That Way.mp3"
+Aug 22 00:53 : client: [29] opened from [::1]:44632
+Aug 22 00:53 : client: [29] closed
+Aug 22 00:54 : client: [30] opened from [::1]:44642
+Aug 22 00:54 : client: [30] closed
+Aug 22 00:54 : client: [31] opened from [::1]:44644
+Aug 22 00:54 : client: [31] closed
+Aug 22 00:58 : player: played "01 - Artcell - Lin.mp3"
+Aug 22 01:07 : client: [32] opened from [::1]:44802
+Aug 22 01:07 : client: [32] closed
+Aug 22 01:10 : player: played "Cigarettes After Sex - Discography/2011 - Cigarettes After Sex/03 You.mp3"
+Aug 22 01:11 : client: [33] opened from [::1]:44834
+Aug 22 01:11 : client: [33] closed
+Aug 22 01:12 : client: [21] closed
+Aug 22 01:15 : player: played "Cigarettes After Sex - Discography/2012 - I/01 - Nothing's Gonna Hurt You Baby.mp3"
+Aug 22 01:18 : client: [34] opened from [::1]:44886
+Aug 22 01:18 : client: [35] opened from [::1]:44888
+Aug 22 01:18 : client: [35] closed
+Aug 22 01:22 : player: played "Downloads/Arnob/Songs from World Tour '08/12 - Nao Chhariya De.flac"
+Aug 22 01:23 : client: [36] opened from [::1]:45006
+Aug 22 01:23 : client: [36] closed
+Aug 22 01:27 : player: played "Downloads/Arnob/Songs from World Tour '08/3 - Amay Bhashailire.flac"
+Aug 22 01:27 : client: [37] opened from [::1]:45026
+Aug 22 01:27 : client: [37] closed
+Aug 22 01:34 : player: played "Downloads/Arnob/Songs from World Tour '08/6 - Ore Nil Doriya.flac"
+Aug 22 01:34 : client: [38] opened from [::1]:45096
+Aug 22 01:34 : client: [38] closed
+Aug 22 01:34 : client: [39] opened from [::1]:45100
+Aug 22 01:34 : client: [39] closed
+Aug 22 01:38 : player: played "Pete Yorn - Lose You.mp3"
+Aug 22 01:39 : client: [40] opened from [::1]:45132
+Aug 22 01:39 : client: [40] closed
+Aug 22 01:42 : player: played "Michael Bublé - Sway.mp3"
+Aug 22 01:52 : client: [34] closed
+Aug 22 11:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 22 11:56 : config: option 'device' on line 19 was not recognized
+Aug 22 11:56 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 22 12:52 : client: [0] opened from [::1]:58764
+Aug 22 12:52 : client: [0] closed
+Aug 22 13:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 22 13:07 : config: option 'device' on line 19 was not recognized
+Aug 22 13:07 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 22 16:48 : client: [0] opened from [::1]:36454
+Aug 22 16:48 : client: [0] closed
+Aug 22 20:56 : client: [1] opened from [::1]:37366
+Aug 22 20:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 22 20:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 22 21:00 : player: played "The Cranberries - Promises.mp3"
+Aug 22 21:00 : client: [2] opened from [::1]:37414
+Aug 22 21:00 : client: [2] closed
+Aug 22 21:02 : client: [3] opened from [::1]:37428
+Aug 22 21:02 : client: [3] closed
+Aug 22 22:54 : client: [1] closed
+Aug 22 23:02 : client: [4] opened from [::1]:38486
+Aug 22 23:02 : client: [5] opened from [::1]:38488
+Aug 22 23:02 : client: [5] closed
+Aug 22 23:02 : client: [6] opened from [::1]:38490
+Aug 22 23:02 : client: [6] closed
+Aug 22 23:06 : client: [7] opened from [::1]:38530
+Aug 22 23:06 : client: [7] closed
+Aug 22 23:19 : player: played "The Cranberries - Promises.mp3"
+Aug 23 10:31 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 23 10:31 : config: option 'device' on line 19 was not recognized
+Aug 23 10:31 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 23 11:04 : client: [0] opened from [::1]:60942
+Aug 23 11:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 23 11:04 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 23 11:04 : client: [1] opened from [::1]:60944
+Aug 23 11:04 : client: [1] closed
+Aug 23 11:07 : player: played "John_Lennon_-_Imagine__28Pablo_Stanley_Art_29.mp3"
+Aug 23 11:10 : client: [2] opened from [::1]:60972
+Aug 23 11:10 : client: [2] closed
+Aug 23 11:16 : player: played "Downloads/Indalo - Kokhon Kibhabe Ekhane Ke Jane (2015) (FLAC - 16bits - audhead)/Tomar Shokal.flac"
+Aug 23 11:16 : client: [3] opened from [::1]:60988
+Aug 23 11:16 : client: [3] closed
+Aug 23 11:19 : player: played "Downloads/Indalo - Kokhon Kibhabe Ekhane Ke Jane (2015) (FLAC - 16bits - audhead)/Plastic.flac"
+Aug 23 11:28 : client: [0] closed
+Aug 23 11:42 : client: [4] opened from [::1]:33036
+Aug 23 11:42 : client: [5] opened from [::1]:33038
+Aug 23 11:42 : client: [5] closed
+Aug 23 11:42 : client: [6] opened from [::1]:33040
+Aug 23 11:42 : client: [6] closed
+Aug 23 11:45 : player: played "01 - Blue Swede - Hooked On A Feeling.flac"
+Aug 23 16:04 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 23 16:05 : config: option 'device' on line 19 was not recognized
+Aug 23 16:05 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 23 16:05 : config: option 'device' on line 19 was not recognized
+Aug 23 16:05 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 23 16:30 : client: [0] opened from [::1]:50818
+Aug 23 16:30 : client: [0] closed
+Aug 23 19:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 23 19:44 : config: option 'device' on line 19 was not recognized
+Aug 23 19:44 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 23 20:19 : client: [0] opened from [::1]:45640
+Aug 23 20:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 23 20:19 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 23 20:19 : client: [1] opened from [::1]:45674
+Aug 23 20:19 : client: [1] closed
+Aug 23 20:19 : client: [2] opened from [::1]:45684
+Aug 23 20:19 : client: [2] closed
+Aug 23 20:26 : player: played "Downloads/Hans Zimmer- The Classics (2017) 320/2. Main Theme (From 'Pirates of the Caribbean').mp3"
+Aug 23 20:26 : client: [3] opened from [::1]:45744
+Aug 23 20:26 : client: [3] closed
+Aug 23 20:30 : player: played "Downloads/Hans Zimmer- The Classics (2017) 320/3. Gladiator Rhapsody (From 'Gladiator').mp3"
+Aug 23 20:30 : client: [4] opened from [::1]:45774
+Aug 23 20:30 : client: [4] closed
+Aug 23 20:34 : player: played "Downloads/Hans Zimmer- The Classics (2017) 320/4. Main Theme (From 'Crimson Tide').mp3"
+Aug 23 20:34 : client: [5] opened from [::1]:45802
+Aug 23 20:34 : client: [5] closed
+Aug 23 20:39 : player: played "Downloads/Hans Zimmer- The Classics (2017) 320/5. Time (From 'Inception').mp3"
+Aug 23 20:39 : client: [6] opened from [::1]:45862
+Aug 23 20:39 : client: [6] closed
+Aug 23 20:40 : client: [0] closed
+Aug 23 20:43 : player: played "Downloads/Hans Zimmer- The Classics (2017) 320/6. This Land (From 'The Lion King').mp3"
+Aug 23 20:47 : player: played "Downloads/Hans Zimmer- The Classics (2017) 320/7. Now We Are Free (From 'Gladiator').mp3"
+Aug 23 20:52 : player: played "Downloads/Hans Zimmer- The Classics (2017) 320/8. Flight (From 'Man of Steel').mp3"
+Aug 23 20:57 : client: [7] opened from [::1]:46034
+Aug 23 20:57 : client: [7] closed
+Aug 23 21:02 : client: [8] opened from [::1]:46078
+Aug 23 21:02 : client: [9] opened from [::1]:46080
+Aug 23 21:02 : client: [9] closed
+Aug 23 21:02 : player: played "Downloads/Hans Zimmer- The Classics (2017) 320/9. Light (From 'The Thin Red Line').mp3"
+Aug 23 21:02 : client: [10] opened from [::1]:46084
+Aug 23 21:02 : client: [10] closed
+Aug 23 21:06 : player: played "Evanescence - Bring Me To Life.mp3"
+Aug 24 01:20 : client: [8] closed
+Aug 24 01:59 : client: [11] opened from [::1]:48304
+Aug 24 01:59 : client: [11] closed
+Aug 24 13:17 : client: [12] opened from [::1]:49964
+Aug 24 13:17 : client: [13] opened from [::1]:49966
+Aug 24 13:17 : client: [13] closed
+Aug 24 13:21 : player: played "Evanescence - Bring Me To Life.mp3"
+Aug 24 13:23 : client: [12] closed
+Aug 24 13:25 : client: [14] opened from [::1]:50050
+Aug 24 13:25 : client: [14] closed
+Aug 24 13:25 : client: [15] opened from [::1]:50052
+Aug 24 13:25 : client: [16] opened from [::1]:50054
+Aug 24 13:25 : client: [16] closed
+Aug 24 13:25 : client: [15] closed
+Aug 24 13:25 : client: [17] opened from [::1]:50058
+Aug 24 13:25 : client: [18] opened from [::1]:50060
+Aug 24 13:25 : client: [18] closed
+Aug 24 13:26 : client: [17] closed
+Aug 24 13:26 : client: [19] opened from [::1]:50064
+Aug 24 13:26 : client: [20] opened from [::1]:50066
+Aug 24 13:26 : client: [20] closed
+Aug 24 13:26 : client: [19] closed
+Aug 24 13:26 : client: [21] opened from [::1]:50070
+Aug 24 13:26 : client: [22] opened from [::1]:50072
+Aug 24 13:26 : client: [22] closed
+Aug 24 13:26 : client: [21] closed
+Aug 24 13:26 : client: [23] opened from [::1]:50074
+Aug 24 13:26 : client: [24] opened from [::1]:50076
+Aug 24 13:26 : client: [24] closed
+Aug 24 13:26 : client: [23] closed
+Aug 24 13:26 : client: [25] opened from [::1]:50078
+Aug 24 13:26 : client: [26] opened from [::1]:50080
+Aug 24 13:26 : client: [26] closed
+Aug 24 13:26 : client: [25] closed
+Aug 24 13:26 : client: [27] opened from [::1]:50082
+Aug 24 13:26 : client: [28] opened from [::1]:50084
+Aug 24 13:26 : client: [28] closed
+Aug 24 13:26 : client: [27] closed
+Aug 24 13:26 : client: [29] opened from [::1]:50086
+Aug 24 13:26 : client: [30] opened from [::1]:50088
+Aug 24 13:26 : client: [30] closed
+Aug 24 13:26 : client: [29] closed
+Aug 24 13:26 : client: [31] opened from [::1]:50102
+Aug 24 13:26 : client: [32] opened from [::1]:50104
+Aug 24 13:26 : client: [32] closed
+Aug 24 13:27 : client: [31] closed
+Aug 24 13:27 : client: [33] opened from [::1]:50106
+Aug 24 13:27 : client: [34] opened from [::1]:50108
+Aug 24 13:27 : client: [34] closed
+Aug 24 13:27 : client: [33] closed
+Aug 24 13:27 : client: [35] opened from [::1]:50110
+Aug 24 13:27 : client: [36] opened from [::1]:50112
+Aug 24 13:27 : client: [36] closed
+Aug 24 13:27 : client: [35] closed
+Aug 24 13:27 : client: [37] opened from [::1]:50116
+Aug 24 13:27 : client: [38] opened from [::1]:50118
+Aug 24 13:27 : client: [38] closed
+Aug 24 13:27 : client: [37] closed
+Aug 24 13:27 : client: [39] opened from [::1]:50120
+Aug 24 13:27 : client: [40] opened from [::1]:50122
+Aug 24 13:27 : client: [40] closed
+Aug 24 13:28 : player: played "Evanescence - Bring Me To Life.mp3"
+Aug 24 13:28 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Aug 24 13:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 13:28 : config: option 'device' on line 19 was not recognized
+Aug 24 13:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 13:28 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 24 13:32 : player: played "Evanescence - Bring Me To Life.mp3"
+Aug 24 13:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 13:32 : config: option 'device' on line 19 was not recognized
+Aug 24 13:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 13:32 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 24 13:54 : client: [0] opened from [::1]:50576
+Aug 24 13:54 : client: [1] opened from [::1]:50578
+Aug 24 13:54 : client: [1] closed
+Aug 24 13:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 24 13:59 : player: played "Evanescence - Bring Me To Life.mp3"
+Aug 24 13:59 : client: [2] opened from [::1]:50648
+Aug 24 13:59 : client: [2] closed
+Aug 24 13:59 : client: [3] opened from [::1]:50650
+Aug 24 13:59 : client: [3] closed
+Aug 24 14:00 : client: [4] opened from [::1]:50654
+Aug 24 14:00 : client: [4] closed
+Aug 24 14:05 : player: played "Green Day - 21 Guns.mp3"
+Aug 24 14:32 : client: [5] opened from [::1]:51240
+Aug 24 14:32 : client: [5] closed
+Aug 24 14:32 : client: [6] opened from [::1]:51242
+Aug 24 14:32 : client: [6] closed
+Aug 24 14:36 : player: played "Evanescence - Bring Me To Life.mp3"
+Aug 24 14:36 : client: [7] opened from [::1]:51270
+Aug 24 14:36 : client: [7] closed
+Aug 24 14:41 : client: [8] opened from [::1]:51368
+Aug 24 14:41 : client: [8] closed
+Aug 24 16:02 : client: [9] opened from [::1]:51942
+Aug 24 16:02 : client: [9] closed
+Aug 24 16:02 : client: [10] opened from [::1]:51944
+Aug 24 16:02 : client: [10] closed
+Aug 24 16:02 : client: [11] opened from [::1]:51946
+Aug 24 16:02 : client: [11] closed
+Aug 24 16:02 : client: [12] opened from [::1]:51948
+Aug 24 16:02 : client: [12] closed
+Aug 24 19:08 : client: [13] opened from [::1]:53110
+Aug 24 19:08 : client: [13] closed
+Aug 24 19:08 : player: played "Green Day - 21 Guns.mp3"
+Aug 24 19:31 : client: [14] opened from [::1]:53372
+Aug 24 19:31 : client: [14] closed
+Aug 24 20:25 : client: [15] opened from [::1]:53416
+Aug 24 20:25 : client: [16] opened from [::1]:53420
+Aug 24 20:25 : client: [17] opened from [::1]:53422
+Aug 24 20:25 : client: [16] closed
+Aug 24 20:25 : client: [17] closed
+Aug 24 20:25 : client: [15] closed
+Aug 24 20:30 : player: played "Green Day - 21 Guns.mp3"
+Aug 24 23:11 : client: [18] opened from [::1]:54398
+Aug 24 23:11 : client: [18] closed
+Aug 25 16:47 : client: [19] opened from [::1]:54660
+Aug 25 16:47 : client: [19] closed
+Aug 25 16:47 : client: [20] opened from [::1]:54688
+Aug 25 16:47 : client: [20] closed
+Aug 25 19:16 : client: [21] opened from [::1]:54996
+Aug 25 19:16 : client: [21] closed
+Aug 25 19:16 : client: [22] opened from [::1]:54998
+Aug 25 19:16 : client: [22] closed
+Aug 25 19:16 : client: [23] opened from [::1]:55000
+Aug 25 19:16 : client: [23] closed
+Aug 25 19:21 : player: played "01 - Welcome To The Jungle.mp3"
+Aug 25 19:21 : client: [24] opened from [::1]:55048
+Aug 25 19:21 : client: [24] closed
+Aug 25 19:26 : client: [25] opened from [::1]:55088
+Aug 25 19:26 : client: [25] closed
+Aug 25 20:54 : client: [26] opened from [::1]:55582
+Aug 25 20:54 : client: [26] closed
+Aug 25 20:55 : client: [27] opened from [::1]:55614
+Aug 25 20:55 : client: [27] closed
+Aug 25 23:07 : client: [0] closed
+Aug 26 01:21 : client: [28] opened from [::1]:56354
+Aug 26 01:21 : client: [28] closed
+Aug 26 15:35 : player: played "04 - Paradise City.mp3"
+Aug 26 15:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 15:36 : config: option 'device' on line 19 was not recognized
+Aug 26 15:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 15:36 : avahi: Service 'Music Player @ hp-linux' successfully established.
+Aug 26 15:37 : client: [0] opened from [::1]:56394
+Aug 26 15:37 : client: [1] opened from [::1]:56396
+Aug 26 15:37 : client: [1] closed
+Aug 26 15:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 15:37 : client: [2] opened from [::1]:56398
+Aug 26 15:37 : client: [2] closed
+Aug 26 15:42 : player: played "03 - Patience.mp3"
+Aug 26 15:45 : zeroconf: No global port, disabling zeroconf
+Aug 26 15:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 15:45 : config: option 'device' on line 19 was not recognized
+Aug 26 15:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 15:45 : client: [0] opened from [::1]:56580
+Aug 26 15:45 : client: [1] opened from [::1]:56582
+Aug 26 15:45 : client: [1] closed
+Aug 26 15:45 : client: [0] closed
+Aug 26 15:45 : client: [2] opened from [::1]:56584
+Aug 26 15:45 : client: [3] opened from [::1]:56586
+Aug 26 15:45 : client: [3] closed
+Aug 26 15:45 : client: [4] opened from [::1]:56588
+Aug 26 15:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 15:45 : client: [4] closed
+Aug 26 15:45 : client: [2] closed
+Aug 26 15:46 : client: [5] opened from [::1]:56598
+Aug 26 15:46 : client: [6] opened from [::1]:56600
+Aug 26 15:46 : client: [6] closed
+Aug 26 15:46 : client: [5] closed
+Aug 26 15:46 : player: played "03 - Patience.mp3"
+Aug 26 15:46 : zeroconf: No global port, disabling zeroconf
+Aug 26 15:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 15:46 : config: option 'device' on line 19 was not recognized
+Aug 26 15:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 15:46 : client: [0] opened from [::1]:56608
+Aug 26 15:46 : client: [1] opened from [::1]:56610
+Aug 26 15:46 : client: [1] closed
+Aug 26 15:46 : client: [2] opened from [::1]:56612
+Aug 26 15:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 26 15:46 : client: [2] closed
+Aug 26 15:46 : client: [3] opened from [::1]:56614
+Aug 26 15:46 : client: [3] closed
+Aug 26 15:46 : client: [4] opened from [::1]:56616
+Aug 26 15:46 : client: [4] closed
+Aug 26 15:46 : client: [0] closed
+Aug 26 15:46 : player: played "03 - Patience.mp3"
+Aug 26 15:47 : client: [5] opened from [::1]:56762
+Aug 26 15:47 : client: [6] opened from [::1]:56764
+Aug 26 15:47 : client: [6] closed
+Aug 26 15:51 : client: [7] opened from [::1]:56856
+Aug 26 15:51 : client: [7] closed
+Aug 26 15:59 : client: [8] opened from [::1]:56910
+Aug 26 15:59 : client: [8] closed
+Aug 26 15:59 : player: played "07 - You Could Be Mine.mp3"
+Aug 26 15:59 : client: [9] opened from [::1]:56920
+Aug 26 15:59 : client: [9] closed
+Aug 26 16:03 : client: [10] opened from [::1]:56970
+Aug 26 16:03 : client: [10] closed
+Aug 26 16:28 : client: [11] opened from [::1]:57122
+Aug 26 16:28 : client: [11] closed
+Aug 26 16:28 : client: [12] opened from [::1]:57124
+Aug 26 16:28 : client: [12] closed
+Aug 26 16:28 : client: [13] opened from [::1]:57126
+Aug 26 16:28 : client: [13] closed
+Aug 26 16:28 : client: [14] opened from [::1]:57128
+Aug 26 16:28 : client: [14] closed
+Aug 26 16:28 : client: [15] opened from [::1]:57130
+Aug 26 16:28 : client: [15] closed
+Aug 26 16:28 : client: [16] opened from [::1]:57132
+Aug 26 16:28 : client: [16] closed
+Aug 26 16:28 : client: [17] opened from [::1]:57134
+Aug 26 16:28 : client: [17] closed
+Aug 26 16:28 : client: [18] opened from [::1]:57136
+Aug 26 16:28 : client: [18] closed
+Aug 26 16:28 : client: [19] opened from [::1]:57138
+Aug 26 16:28 : client: [19] closed
+Aug 26 16:28 : client: [20] opened from [::1]:57140
+Aug 26 16:28 : client: [20] closed
+Aug 26 16:37 : client: [21] opened from [::1]:57176
+Aug 26 16:37 : client: [21] closed
+Aug 26 16:39 : player: played "05 - Knockin  On Heaven s Door.mp3"
+Aug 26 16:39 : client: [22] opened from [::1]:57244
+Aug 26 16:39 : client: [22] closed
+Aug 26 16:40 : client: [23] opened from [::1]:57260
+Aug 26 16:40 : client: [23] closed
+Aug 26 16:43 : client: [24] opened from [::1]:57296
+Aug 26 16:43 : client: [24] closed
+Aug 27 00:28 : client: [25] opened from [::1]:57606
+Aug 27 00:28 : client: [25] closed
+Aug 27 00:28 : client: [26] opened from [::1]:57608
+Aug 27 00:28 : client: [26] closed
+Aug 27 00:28 : client: [27] opened from [::1]:57610
+Aug 27 00:28 : client: [27] closed
+Aug 27 00:28 : client: [28] opened from [::1]:57612
+Aug 27 00:28 : client: [28] closed
+Aug 27 00:28 : client: [29] opened from [::1]:57618
+Aug 27 00:28 : client: [29] closed
+Aug 27 00:28 : client: [30] opened from [::1]:57620
+Aug 27 00:28 : client: [30] closed
+Aug 27 00:47 : client: [5] closed
+Aug 27 01:00 : client: [31] opened from [::1]:58116
+Aug 27 01:00 : client: [32] opened from [::1]:58118
+Aug 27 01:00 : client: [32] closed
+Aug 27 01:00 : client: [33] opened from [::1]:58120
+Aug 27 01:00 : client: [33] closed
+Aug 27 01:00 : client: [31] closed
+Aug 27 01:04 : player: played "08 - Don t Cry.mp3"
+Aug 27 01:04 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Aug 27 01:04 : client: [34] opened from [::1]:58136
+Aug 27 01:04 : client: [34] closed
+Aug 27 01:04 : client: [35] opened from [::1]:58138
+Aug 27 01:04 : client: [36] opened from [::1]:58140
+Aug 27 01:04 : client: [36] closed
+Aug 27 01:04 : client: [37] opened from [::1]:58142
+Aug 27 01:04 : client: [37] closed
+Aug 27 01:04 : client: [35] closed
+Aug 27 01:05 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Aug 27 01:05 : client: [38] opened from [::1]:58152
+Aug 27 01:05 : client: [39] opened from [::1]:58154
+Aug 27 01:05 : client: [39] closed
+Aug 27 01:05 : client: [38] closed
+Aug 27 01:07 : player: played "06 - Civil War.mp3"
+Aug 27 01:08 : zeroconf: No global port, disabling zeroconf
+Aug 27 01:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 27 01:08 : config: option 'device' on line 19 was not recognized
+Aug 27 01:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 27 01:08 : client: [0] opened from 127.0.0.1:48554
+Aug 27 01:08 : client: [1] opened from 127.0.0.1:48556
+Aug 27 01:09 : client: [2] opened from [::1]:58194
+Aug 27 01:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 27 01:09 : client: [2] closed
+Aug 27 01:10 : exception: Failed to play on "pulse audio" (pulse): failed to connect the stream: Timeout
+Aug 27 01:10 : client: [3] opened from [::1]:58200
+Aug 27 01:10 : client: [3] closed
+Aug 27 01:10 : client: [4] opened from [::1]:58202
+Aug 27 01:10 : client: [4] closed
+Aug 27 01:10 : client: [5] opened from [::1]:58204
+Aug 27 01:11 : exception: Failed to play on "pulse audio" (pulse): failed to connect the stream: Timeout
+Aug 27 01:11 : client: [5] closed
+Aug 27 01:11 : client: [1] closed
+Aug 27 01:11 : client: [0] closed
+Aug 27 01:11 : player: played "06 - Civil War.mp3"
+Aug 27 01:14 : zeroconf: No global port, disabling zeroconf
+Aug 27 01:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 27 01:14 : config: option 'device' on line 19 was not recognized
+Aug 27 01:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 27 01:14 : client: [0] opened from 127.0.0.1:56900
+Aug 27 01:14 : client: [1] opened from 127.0.0.1:56902
+Aug 27 01:14 : client: [0] closed
+Aug 27 01:14 : client: [1] closed
+Aug 27 01:14 : client: [2] opened from 127.0.0.1:56908
+Aug 27 01:14 : client: [3] opened from 127.0.0.1:56910
+Aug 27 01:15 : client: [2] closed
+Aug 27 01:15 : client: [3] closed
+Aug 27 01:15 : player: played "06 - Civil War.mp3"
+Aug 27 01:16 : zeroconf: No global port, disabling zeroconf
+Aug 27 01:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 27 01:16 : config: option 'device' on line 19 was not recognized
+Aug 27 01:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 27 01:41 : player: played "06 - Civil War.mp3"
+Aug 27 01:44 : zeroconf: No global port, disabling zeroconf
+Aug 27 01:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 27 01:45 : config: option 'device' on line 19 was not recognized
+Aug 27 01:45 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 27 02:41 : client: [0] opened from [::1]:35728
+Aug 27 02:41 : client: [0] closed
+Aug 27 14:50 : player: played "06 - Civil War.mp3"
+Aug 27 15:02 : zeroconf: No global port, disabling zeroconf
+Aug 27 15:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 27 15:02 : config: option 'device' on line 19 was not recognized
+Aug 27 15:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 27 16:02 : client: [0] opened from [::1]:52534
+Aug 27 16:02 : client: [1] opened from [::1]:52536
+Aug 27 16:02 : client: [1] closed
+Aug 27 16:02 : client: [2] opened from [::1]:52538
+Aug 27 16:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 27 16:02 : client: [2] closed
+Aug 27 16:02 : client: [3] opened from [::1]:52540
+Aug 27 16:02 : client: [3] closed
+Aug 27 16:02 : client: [0] closed
+Aug 27 16:09 : client: [4] opened from [::1]:52628
+Aug 27 16:09 : client: [5] opened from [::1]:52630
+Aug 27 16:09 : client: [5] closed
+Aug 27 16:09 : client: [4] closed
+Aug 27 16:09 : client: [6] opened from [::1]:52632
+Aug 27 16:09 : client: [7] opened from [::1]:52634
+Aug 27 16:09 : client: [7] closed
+Aug 27 16:09 : client: [6] closed
+Aug 27 16:12 : client: [8] opened from [::1]:52878
+Aug 27 16:12 : client: [8] closed
+Aug 27 23:48 : zeroconf: No global port, disabling zeroconf
+Aug 27 23:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 27 23:49 : config: option 'device' on line 19 was not recognized
+Aug 27 23:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 27 23:49 : player: played "06 - Civil War.mp3"
+Aug 28 00:23 : zeroconf: No global port, disabling zeroconf
+Aug 28 00:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 28 00:23 : config: option 'device' on line 19 was not recognized
+Aug 28 00:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 28 00:23 : client: [0] opened from [::1]:55482
+Aug 28 00:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 28 00:23 : client: [0] closed
+Aug 28 00:24 : client: [1] opened from [::1]:55514
+Aug 28 00:24 : client: [2] opened from [::1]:55516
+Aug 28 00:24 : client: [2] closed
+Aug 28 00:24 : client: [3] opened from [::1]:55518
+Aug 28 00:24 : client: [3] closed
+Aug 28 00:26 : client: [4] opened from [::1]:55868
+Aug 28 00:26 : client: [4] closed
+Aug 28 00:45 : client: [1] closed
+Aug 28 01:59 : client: [5] opened from [::1]:58116
+Aug 28 01:59 : client: [5] closed
+Aug 28 01:59 : client: [6] opened from [::1]:58136
+Aug 28 01:59 : client: [6] closed
+Aug 28 11:52 : client: [7] opened from [::1]:33060
+Aug 28 11:52 : client: [8] opened from [::1]:33062
+Aug 28 11:52 : client: [8] closed
+Aug 28 11:52 : client: [9] opened from [::1]:33066
+Aug 28 11:52 : client: [9] closed
+Aug 28 11:54 : client: [7] closed
+Aug 28 11:57 : player: played "Evanescence - Bring Me To Life.mp3"
+Aug 28 11:57 : client: [10] opened from [::1]:33246
+Aug 28 11:57 : client: [10] closed
+Aug 28 11:57 : client: [11] opened from [::1]:33248
+Aug 28 11:57 : client: [11] closed
+Aug 28 12:02 : player: played "Green Day - 21 Guns.mp3"
+Aug 28 12:04 : client: [12] opened from [::1]:33306
+Aug 28 12:04 : client: [13] opened from [::1]:33308
+Aug 28 12:04 : client: [13] closed
+Aug 28 12:04 : player: played "01 - Welcome To The Jungle.mp3"
+Aug 28 12:05 : client: [14] opened from [::1]:33310
+Aug 28 12:05 : client: [14] closed
+Aug 28 12:05 : client: [15] opened from [::1]:33314
+Aug 28 12:05 : client: [15] closed
+Aug 28 12:06 : client: [16] opened from [::1]:33332
+Aug 28 12:06 : client: [16] closed
+Aug 28 12:06 : client: [17] opened from [::1]:33334
+Aug 28 12:06 : client: [17] closed
+Aug 28 12:16 : player: played "04 - Cryptic Fate - Ognibina (music.com.bd).mp3"
+Aug 28 12:16 : client: [18] opened from [::1]:33614
+Aug 28 12:16 : client: [18] closed
+Aug 28 12:17 : player: played "05 - Cryptic Fate - Onuprerona (music.com.bd).mp3"
+Aug 28 12:17 : client: [19] opened from [::1]:33624
+Aug 28 12:17 : client: [19] closed
+Aug 28 12:25 : player: played "Pete Yorn - Lose You.mp3"
+Aug 28 12:26 : client: [20] opened from [::1]:33842
+Aug 28 12:26 : client: [20] closed
+Aug 28 12:26 : client: [21] opened from [::1]:33844
+Aug 28 12:26 : client: [21] closed
+Aug 28 12:29 : client: [22] opened from [::1]:33938
+Aug 28 12:29 : client: [22] closed
+Aug 28 12:34 : client: [23] opened from [::1]:33984
+Aug 28 12:34 : client: [23] closed
+Aug 28 12:36 : player: played "Pete Yorn - Lose You.mp3"
+Aug 28 12:43 : client: [24] opened from [::1]:34104
+Aug 28 12:43 : client: [24] closed
+Aug 28 12:43 : client: [25] opened from [::1]:34106
+Aug 28 12:43 : client: [25] closed
+Aug 28 12:47 : player: played "Pete Yorn - Lose You.mp3"
+Aug 28 12:50 : client: [26] opened from [::1]:34206
+Aug 28 12:50 : client: [26] closed
+Aug 28 12:50 : client: [27] opened from [::1]:34208
+Aug 28 12:50 : client: [27] closed
+Aug 28 12:55 : player: played "Pete Yorn - Lose You.mp3"
+Aug 28 12:56 : client: [28] opened from [::1]:34260
+Aug 28 12:56 : client: [28] closed
+Aug 28 13:01 : player: played "MrKitty - After Dark.mp3"
+Aug 28 13:04 : client: [29] opened from [::1]:34314
+Aug 28 13:04 : client: [29] closed
+Aug 28 13:04 : client: [30] opened from [::1]:34318
+Aug 28 13:04 : client: [30] closed
+Aug 28 13:10 : player: played "Biday_Shongbidhan-Minerva/02.Mrittur_Shesh_Choy-Minerva_FusionBD.Com.mp3"
+Aug 28 13:10 : client: [31] opened from [::1]:34378
+Aug 28 13:10 : client: [31] closed
+Aug 28 13:16 : player: played "Biday_Shongbidhan-Minerva/03.Ashirbad-Minerva_FusionBD.Com.mp3"
+Aug 28 13:16 : client: [32] opened from [::1]:34530
+Aug 28 13:16 : client: [32] closed
+Aug 28 13:25 : player: played "Biday_Shongbidhan-Minerva/04.Jaatra-Minerva_FusionBD.Com.mp3"
+Aug 28 13:25 : client: [33] opened from [::1]:34928
+Aug 28 13:25 : client: [33] closed
+Aug 28 13:30 : player: played "Biday_Shongbidhan-Minerva/05.God_of_War-Minerva_FusionBD.Com.mp3"
+Aug 28 13:30 : client: [34] opened from [::1]:35026
+Aug 28 13:30 : client: [34] closed
+Aug 28 13:36 : player: played "Biday_Shongbidhan-Minerva/06.Dhongshoprapto_Jaatishotta-Minerva_FusionBD.Com.mp3"
+Aug 28 13:36 : client: [35] opened from [::1]:35136
+Aug 28 13:36 : client: [35] closed
+Aug 28 13:42 : player: played "Biday_Shongbidhan-Minerva/07.Blood_of_Italia-Minerva_FusionBD.Com.mp3"
+Aug 28 13:42 : client: [36] opened from [::1]:35190
+Aug 28 13:42 : client: [36] closed
+Aug 28 13:48 : player: played "Biday_Shongbidhan-Minerva/08.Shongbidhaner_Biday-Minerva_FusionBD.Com.mp3"
+Aug 28 13:48 : client: [12] closed
+Aug 28 13:48 : client: [37] opened from [::1]:35304
+Aug 28 13:48 : client: [38] opened from [::1]:35306
+Aug 28 13:48 : client: [38] closed
+Aug 28 13:52 : player: played "01 Backstreet Boys - I Want It That Way.mp3"
+Aug 28 13:52 : client: [39] opened from [::1]:35518
+Aug 28 13:52 : client: [39] closed
+Aug 28 13:57 : player: played "02 Backstreet Boys - Everybody (Backstreet's Back).mp3"
+Aug 28 13:57 : client: [40] opened from [::1]:35588
+Aug 28 13:57 : client: [40] closed
+Aug 28 14:00 : player: played "03 Backstreet Boys - As Long As You Love Me.mp3"
+Aug 28 14:00 : client: [41] opened from [::1]:35650
+Aug 28 14:00 : client: [41] closed
+Aug 28 14:04 : player: played "04 Backstreet Boys - Show Me The Meaning Of Being Lonely.mp3"
+Aug 28 14:04 : client: [42] opened from [::1]:35686
+Aug 28 14:04 : client: [42] closed
+Aug 28 14:08 : player: played "07 Backstreet Boys - Larger Than Life.mp3"
+Aug 28 14:08 : client: [43] opened from [::1]:35742
+Aug 28 14:08 : client: [43] closed
+Aug 28 14:12 : player: played "10 Backstreet Boys - Shape Of My Heart.mp3"
+Aug 28 15:18 : client: [37] closed
+Aug 29 00:38 : zeroconf: No global port, disabling zeroconf
+Aug 29 00:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 29 00:40 : config: option 'device' on line 19 was not recognized
+Aug 29 00:46 : zeroconf: No global port, disabling zeroconf
+Aug 29 00:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 29 00:46 : config: option 'device' on line 19 was not recognized
+Aug 29 00:46 : client: [0] opened from [::1]:44628
+Aug 29 00:46 : client: [0] closed
+Aug 29 00:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 29 00:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 29 00:46 : client: [1] opened from [::1]:44630
+Aug 29 00:46 : client: [1] closed
+Aug 29 00:47 : client: [2] opened from [::1]:44634
+Aug 29 00:47 : client: [2] closed
+Aug 29 00:51 : player: played "Pete Yorn - Lose You.mp3"
+Aug 29 00:51 : client: [3] opened from [::1]:44888
+Aug 29 00:51 : client: [3] closed
+Aug 29 00:55 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 29 00:55 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 29 00:55 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 29 00:55 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 29 00:55 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 29 00:55 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 29 00:55 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 29 00:55 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 29 00:55 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 29 00:55 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 29 00:55 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 29 00:55 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 29 00:55 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 29 00:55 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 29 00:55 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 29 00:55 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 29 00:55 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 29 00:55 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 29 00:55 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 29 00:55 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 29 00:55 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 29 00:55 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 29 00:55 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 29 00:55 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 29 00:55 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 29 00:55 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 29 00:55 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 29 00:55 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 29 00:55 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 29 00:55 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 29 01:00 : client: [4] opened from [::1]:45218
+Aug 29 01:00 : client: [4] closed
+Aug 29 01:00 : client: [5] opened from [::1]:45220
+Aug 29 01:00 : client: [5] closed
+Aug 29 01:00 : client: [6] opened from [::1]:45222
+Aug 29 01:00 : client: [6] closed
+Aug 29 01:00 : client: [7] opened from [::1]:45224
+Aug 29 01:00 : client: [7] closed
+Aug 29 01:00 : client: [8] opened from [::1]:45234
+Aug 29 01:00 : client: [8] closed
+Aug 29 01:00 : client: [9] opened from [::1]:45236
+Aug 29 01:00 : client: [9] closed
+Aug 29 01:01 : client: [10] opened from [::1]:45270
+Aug 29 01:01 : client: [11] opened from [::1]:45272
+Aug 29 01:01 : client: [11] closed
+Aug 29 01:01 : player: played "MrKitty - After Dark.mp3"
+Aug 29 01:01 : client: [12] opened from [::1]:45274
+Aug 29 01:01 : client: [12] closed
+Aug 29 01:01 : client: [10] closed
+Aug 29 01:01 : client: [13] opened from [::1]:45276
+Aug 29 01:01 : client: [13] closed
+Aug 29 01:01 : client: [14] opened from [::1]:45278
+Aug 29 01:01 : client: [14] closed
+Aug 29 01:01 : client: [15] opened from [::1]:45280
+Aug 29 01:01 : client: [15] closed
+Aug 29 01:01 : client: [16] opened from [::1]:45286
+Aug 29 01:01 : client: [16] closed
+Aug 29 01:01 : client: [17] opened from [::1]:45288
+Aug 29 01:01 : client: [17] closed
+Aug 29 01:01 : client: [18] opened from [::1]:45290
+Aug 29 01:01 : client: [18] closed
+Aug 29 01:01 : client: [19] opened from [::1]:45292
+Aug 29 01:01 : client: [19] closed
+Aug 29 01:01 : client: [20] opened from [::1]:45294
+Aug 29 01:01 : client: [20] closed
+Aug 29 01:01 : client: [21] opened from [::1]:45296
+Aug 29 01:01 : client: [21] closed
+Aug 29 01:01 : client: [22] opened from [::1]:45298
+Aug 29 01:01 : client: [22] closed
+Aug 29 01:01 : client: [23] opened from [::1]:45300
+Aug 29 01:01 : client: [23] closed
+Aug 29 01:01 : client: [24] opened from [::1]:45302
+Aug 29 01:01 : client: [24] closed
+Aug 29 01:01 : client: [25] opened from [::1]:45304
+Aug 29 01:01 : client: [25] closed
+Aug 29 01:01 : client: [26] opened from [::1]:45306
+Aug 29 01:01 : client: [26] closed
+Aug 29 01:01 : client: [27] opened from [::1]:45308
+Aug 29 01:01 : client: [27] closed
+Aug 29 01:01 : client: [28] opened from [::1]:45310
+Aug 29 01:01 : client: [28] closed
+Aug 29 01:01 : client: [29] opened from [::1]:45312
+Aug 29 01:01 : client: [29] closed
+Aug 29 01:01 : client: [30] opened from [::1]:45314
+Aug 29 01:01 : client: [30] closed
+Aug 29 01:01 : client: [31] opened from [::1]:45316
+Aug 29 01:01 : client: [31] closed
+Aug 29 01:01 : client: [32] opened from [::1]:45318
+Aug 29 01:01 : client: [32] closed
+Aug 29 01:01 : client: [33] opened from [::1]:45320
+Aug 29 01:01 : client: [33] closed
+Aug 29 01:01 : client: [34] opened from [::1]:45322
+Aug 29 01:01 : client: [34] closed
+Aug 29 01:01 : client: [35] opened from [::1]:45324
+Aug 29 01:01 : client: [35] closed
+Aug 29 01:01 : client: [36] opened from [::1]:45326
+Aug 29 01:01 : client: [36] closed
+Aug 29 01:01 : client: [37] opened from [::1]:45328
+Aug 29 01:01 : client: [37] closed
+Aug 29 01:01 : client: [38] opened from [::1]:45330
+Aug 29 01:01 : client: [38] closed
+Aug 29 01:01 : client: [39] opened from [::1]:45332
+Aug 29 01:01 : client: [39] closed
+Aug 29 01:01 : client: [40] opened from [::1]:45334
+Aug 29 01:01 : client: [40] closed
+Aug 29 01:01 : client: [41] opened from [::1]:45336
+Aug 29 01:01 : client: [41] closed
+Aug 29 01:01 : client: [42] opened from [::1]:45338
+Aug 29 01:01 : client: [42] closed
+Aug 29 01:01 : client: [43] opened from [::1]:45340
+Aug 29 01:01 : client: [43] closed
+Aug 29 01:01 : client: [44] opened from [::1]:45342
+Aug 29 01:01 : client: [44] closed
+Aug 29 01:16 : client: [45] opened from [::1]:45740
+Aug 29 01:16 : client: [45] closed
+Aug 29 21:37 : zeroconf: No global port, disabling zeroconf
+Aug 29 21:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 29 21:38 : config: option 'device' on line 19 was not recognized
+Aug 29 22:35 : client: [0] opened from [::1]:39184
+Aug 29 22:35 : client: [0] closed
+Aug 30 02:09 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 30 02:09 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 30 02:09 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 30 02:09 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 30 02:09 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 30 02:09 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 30 02:09 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 30 02:09 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 30 02:09 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 30 02:09 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 30 02:09 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 30 02:09 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 30 02:09 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 30 02:09 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 30 02:09 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 30 02:09 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 30 02:09 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 30 02:09 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 30 02:09 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 30 02:09 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 30 02:09 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 30 02:09 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 30 02:09 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 30 02:09 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 30 02:09 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 30 02:09 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 30 02:09 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 30 02:09 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Aug 30 02:09 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Aug 30 02:09 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Aug 30 02:09 : update: added /Evanescence - My Immortal.mp3
+Aug 30 02:09 : client: [1] opened from [::1]:39578
+Aug 30 02:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 30 02:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 30 02:09 : client: [2] opened from [::1]:39580
+Aug 30 02:09 : client: [2] closed
+Aug 30 02:14 : player: played "Evanescence - My Immortal.mp3"
+Aug 30 02:14 : client: [3] opened from [::1]:39632
+Aug 30 02:14 : client: [3] closed
+Aug 30 02:19 : player: played "Evanescence - My Immortal.mp3"
+Aug 30 02:26 : client: [4] opened from [::1]:39690
+Aug 30 02:26 : client: [4] closed
+Aug 30 02:30 : player: played "Evanescence - My Immortal.mp3"
+Aug 30 02:34 : client: [5] opened from [::1]:39938
+Aug 30 02:34 : client: [5] closed
+Aug 30 02:38 : player: played "Evanescence - Bring Me To Life.mp3"
+Aug 30 02:55 : client: [6] opened from [::1]:40072
+Aug 30 02:55 : client: [6] closed
+Aug 30 02:57 : client: [1] closed
+Aug 30 02:57 : player: played "01. Reflections Of Passion.mp3"
+Aug 30 02:57 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Aug 30 09:23 : zeroconf: No global port, disabling zeroconf
+Aug 30 09:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 30 09:23 : config: option 'device' on line 19 was not recognized
+Aug 30 09:23 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 30 09:51 : client: [0] opened from [::1]:57284
+Aug 30 09:51 : client: [1] opened from [::1]:57286
+Aug 30 09:51 : client: [1] closed
+Aug 30 09:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 30 09:51 : client: [2] opened from [::1]:57288
+Aug 30 09:51 : client: [2] closed
+Aug 30 09:56 : player: played "Evanescence - Bring Me To Life.mp3"
+Aug 30 09:56 : client: [3] opened from [::1]:57318
+Aug 30 09:56 : client: [3] closed
+Aug 30 10:00 : player: played "01. Reflections Of Passion.mp3"
+Aug 30 10:31 : client: [4] opened from [::1]:57728
+Aug 30 10:31 : client: [4] closed
+Aug 30 10:31 : client: [0] closed
+Aug 30 10:32 : player: played "Arbovirus - Montobbo Nishproyojon (Full Album)/04. Arbovirus - Aw (music.com.bd).mp3"
+Aug 30 10:32 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Aug 30 10:33 : zeroconf: No global port, disabling zeroconf
+Aug 30 10:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 30 10:34 : config: option 'device' on line 19 was not recognized
+Aug 30 10:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 03:14 : client: [0] opened from [::1]:47754
+Aug 31 03:14 : client: [0] closed
+Aug 31 14:48 : player: played "Arbovirus - Montobbo Nishproyojon (Full Album)/04. Arbovirus - Aw (music.com.bd).mp3"
+Aug 31 14:48 : zeroconf: No global port, disabling zeroconf
+Aug 31 14:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 14:48 : config: option 'device' on line 19 was not recognized
+Aug 31 14:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 31 18:26 : client: [0] opened from [::1]:49242
+Aug 31 18:26 : client: [0] closed
+Aug 31 18:27 : client: [1] opened from [::1]:49276
+Aug 31 18:27 : client: [1] closed
+Aug 31 19:49 : client: [2] opened from [::1]:49448
+Aug 31 19:49 : client: [2] closed
+Aug 31 21:48 : player: played "Arbovirus - Montobbo Nishproyojon (Full Album)/04. Arbovirus - Aw (music.com.bd).mp3"
+Sep 01 13:45 : zeroconf: No global port, disabling zeroconf
+Sep 01 13:45 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 01 13:46 : config: option 'device' on line 19 was not recognized
+Sep 01 13:46 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 01 17:47 : client: [0] opened from [::1]:48118
+Sep 01 17:47 : client: [0] closed
+Sep 01 17:49 : client: [1] opened from [::1]:48160
+Sep 01 17:49 : client: [1] closed
+Sep 01 22:31 : client: [2] opened from [::1]:50418
+Sep 01 22:31 : client: [3] opened from [::1]:50420
+Sep 01 22:31 : client: [3] closed
+Sep 01 22:31 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 01 22:31 : client: [4] opened from [::1]:50432
+Sep 01 22:31 : client: [4] closed
+Sep 01 22:31 : client: [2] closed
+Sep 02 01:08 : player: played "Arbovirus - Montobbo Nishproyojon (Full Album)/04. Arbovirus - Aw (music.com.bd).mp3"
+Sep 02 21:01 : zeroconf: No global port, disabling zeroconf
+Sep 02 21:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 02 21:02 : config: option 'device' on line 19 was not recognized
+Sep 02 21:02 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 02 22:09 : client: [0] opened from [::1]:56514
+Sep 02 22:09 : client: [1] opened from [::1]:56516
+Sep 02 22:09 : client: [1] closed
+Sep 02 22:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 02 22:09 : client: [2] opened from [::1]:56518
+Sep 02 22:09 : client: [2] closed
+Sep 02 22:11 : client: [3] opened from [::1]:56544
+Sep 02 22:11 : client: [3] closed
+Sep 02 22:11 : client: [4] opened from [::1]:56570
+Sep 02 22:11 : client: [4] closed
+Sep 02 22:14 : player: played "The Cranberries - Dreams.mp3"
+Sep 02 22:14 : client: [5] opened from [::1]:56670
+Sep 02 22:14 : client: [5] closed
+Sep 02 22:16 : client: [6] opened from [::1]:56694
+Sep 02 22:16 : client: [6] closed
+Sep 02 22:17 : client: [7] opened from [::1]:56696
+Sep 02 22:17 : client: [7] closed
+Sep 02 22:19 : player: played "The Cranberries - Linger.mp3"
+Sep 02 22:19 : client: [8] opened from [::1]:56716
+Sep 02 22:19 : client: [8] closed
+Sep 02 22:21 : client: [9] opened from [::1]:56780
+Sep 02 22:21 : client: [9] closed
+Sep 02 22:44 : client: [10] opened from [::1]:56978
+Sep 02 22:44 : client: [10] closed
+Sep 02 22:45 : client: [11] opened from [::1]:56990
+Sep 02 22:45 : client: [11] closed
+Sep 02 22:46 : client: [12] opened from [::1]:57002
+Sep 02 22:46 : client: [12] closed
+Sep 02 22:48 : player: played "The Cranberries - Ode To My Family.mp3"
+Sep 02 22:48 : client: [13] opened from [::1]:57030
+Sep 02 22:48 : client: [13] closed
+Sep 02 22:48 : client: [14] opened from [::1]:57032
+Sep 02 22:48 : client: [14] closed
+Sep 02 22:48 : client: [15] opened from [::1]:57040
+Sep 02 22:48 : client: [16] opened from [::1]:57042
+Sep 02 22:48 : client: [16] closed
+Sep 02 22:48 : client: [15] closed
+Sep 02 22:49 : client: [17] opened from [::1]:57046
+Sep 02 22:49 : client: [17] closed
+Sep 02 22:50 : client: [18] opened from [::1]:57060
+Sep 02 22:50 : client: [18] closed
+Sep 02 23:31 : client: [19] opened from [::1]:57536
+Sep 02 23:31 : client: [19] closed
+Sep 02 23:35 : player: played "The Cranberries - Zombie.mp3"
+Sep 02 23:35 : client: [20] opened from [::1]:57582
+Sep 02 23:35 : client: [20] closed
+Sep 02 23:39 : player: played "The Cranberries - Promises.mp3"
+Sep 02 23:40 : client: [21] opened from [::1]:57618
+Sep 02 23:40 : client: [21] closed
+Sep 02 23:42 : player: played "09 - The Runaways - Cherry Bomb.flac"
+Sep 03 03:11 : client: [22] opened from [::1]:59892
+Sep 03 03:11 : client: [22] closed
+Sep 03 11:55 : zeroconf: No global port, disabling zeroconf
+Sep 03 11:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 03 11:55 : config: option 'device' on line 19 was not recognized
+Sep 03 15:42 : zeroconf: No global port, disabling zeroconf
+Sep 03 15:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 03 15:43 : config: option 'device' on line 19 was not recognized
+Sep 03 17:08 : client: [0] opened from [::1]:56548
+Sep 03 17:08 : client: [0] closed
+Sep 03 17:08 : client: [1] opened from [::1]:56578
+Sep 03 17:08 : client: [1] closed
+Sep 04 11:02 : zeroconf: No global port, disabling zeroconf
+Sep 04 11:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 04 11:03 : config: option 'device' on line 19 was not recognized
+Sep 04 15:20 : zeroconf: No global port, disabling zeroconf
+Sep 04 15:20 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 04 15:20 : config: option 'device' on line 19 was not recognized
+Sep 04 16:21 : client: [0] opened from [::1]:49424
+Sep 04 16:21 : client: [0] closed
+Sep 04 16:21 : client: [1] opened from [::1]:49444
+Sep 04 16:21 : client: [1] closed
+Sep 04 23:49 : client: [2] opened from [::1]:50690
+Sep 04 23:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 04 23:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 04 23:49 : client: [3] opened from [::1]:50692
+Sep 04 23:49 : client: [3] closed
+Sep 04 23:49 : client: [4] opened from [::1]:50698
+Sep 04 23:49 : client: [4] closed
+Sep 04 23:49 : client: [2] closed
+Sep 05 00:21 : client: [5] opened from [::1]:50932
+Sep 05 00:21 : client: [6] opened from [::1]:50934
+Sep 05 00:21 : client: [6] closed
+Sep 05 00:21 : client: [5] closed
+Sep 05 01:01 : client: [7] opened from [::1]:51490
+Sep 05 01:01 : client: [8] opened from [::1]:51492
+Sep 05 01:01 : client: [8] closed
+Sep 05 01:01 : client: [9] opened from [::1]:51496
+Sep 05 01:01 : client: [9] closed
+Sep 05 01:01 : client: [7] closed
+Sep 05 01:06 : player: played "Evanescence - My Immortal.mp3"
+Sep 05 01:10 : player: played "Evanescence - Bring Me To Life.mp3"
+Sep 05 01:14 : player: played "01. Reflections Of Passion.mp3"
+Sep 05 01:17 : client: [10] opened from [::1]:51606
+Sep 05 01:17 : client: [10] closed
+Sep 05 01:35 : zeroconf: No global port, disabling zeroconf
+Sep 05 01:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 05 01:36 : config: option 'device' on line 19 was not recognized
+Sep 05 01:36 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 05 03:32 : player: played "Arbovirus - Montobbo Nishproyojon (Full Album)/04. Arbovirus - Aw (music.com.bd).mp3"
+Sep 05 10:59 : zeroconf: No global port, disabling zeroconf
+Sep 05 10:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 05 11:00 : config: option 'device' on line 19 was not recognized
+Sep 05 11:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 05 11:49 : player: played "Arbovirus - Montobbo Nishproyojon (Full Album)/04. Arbovirus - Aw (music.com.bd).mp3"
+Sep 06 14:56 : zeroconf: No global port, disabling zeroconf
+Sep 06 14:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 06 14:57 : config: option 'device' on line 19 was not recognized
+Sep 06 14:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 06 14:59 : player: played "Arbovirus - Montobbo Nishproyojon (Full Album)/04. Arbovirus - Aw (music.com.bd).mp3"
+Sep 08 00:47 : zeroconf: No global port, disabling zeroconf
+Sep 08 00:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 08 00:48 : config: option 'device' on line 19 was not recognized
+Sep 08 00:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 08 02:05 : client: [0] opened from [::1]:32874
+Sep 08 02:05 : client: [1] opened from [::1]:32876
+Sep 08 02:05 : client: [1] closed
+Sep 08 02:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 08 02:05 : client: [2] opened from [::1]:32880
+Sep 08 02:05 : client: [2] closed
+Sep 08 02:10 : player: played "Evanescence - My Immortal.mp3"
+Sep 08 02:10 : client: [3] opened from [::1]:32902
+Sep 08 02:10 : client: [3] closed
+Sep 08 02:14 : player: played "Evanescence - Bring Me To Life.mp3"
+Sep 08 02:14 : client: [4] opened from [::1]:32982
+Sep 08 02:14 : client: [4] closed
+Sep 08 02:17 : client: [5] opened from [::1]:33032
+Sep 08 02:17 : client: [5] closed
+Sep 08 02:19 : player: played "09 - The Runaways - Cherry Bomb.flac"
+Sep 08 02:19 : client: [6] opened from [::1]:33046
+Sep 08 02:19 : client: [6] closed
+Sep 08 02:20 : client: [7] opened from [::1]:33052
+Sep 08 02:20 : client: [7] closed
+Sep 08 02:21 : client: [8] opened from [::1]:33074
+Sep 08 02:21 : client: [8] closed
+Sep 08 02:24 : client: [9] opened from [::1]:33090
+Sep 08 02:24 : client: [9] closed
+Sep 08 02:24 : client: [10] opened from [::1]:33094
+Sep 08 02:24 : client: [10] closed
+Sep 08 02:28 : client: [11] opened from [::1]:33158
+Sep 08 02:28 : client: [11] closed
+Sep 08 02:30 : player: played "09 - The Runaways - Cherry Bomb.flac"
+Sep 08 02:30 : client: [12] opened from [::1]:33186
+Sep 08 02:30 : client: [12] closed
+Sep 08 02:31 : client: [13] opened from [::1]:33200
+Sep 08 02:31 : client: [13] closed
+Sep 08 02:31 : client: [14] opened from [::1]:33202
+Sep 08 02:31 : client: [14] closed
+Sep 08 02:36 : client: [15] opened from [::1]:33222
+Sep 08 02:36 : client: [15] closed
+Sep 08 03:08 : client: [0] closed
+Sep 08 03:08 : player: played "2012 - Bleeding Sanity (Single)/01. Bleeding Sanity.mp3"
+Sep 08 10:35 : zeroconf: No global port, disabling zeroconf
+Sep 08 10:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 08 10:35 : config: option 'device' on line 19 was not recognized
+Sep 08 10:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 08 13:54 : client: [0] opened from [::1]:49354
+Sep 08 13:54 : client: [1] opened from [::1]:49356
+Sep 08 13:54 : client: [1] closed
+Sep 08 13:54 : player: played "2012 - Bleeding Sanity (Single)/01. Bleeding Sanity.mp3"
+Sep 08 13:54 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 08 13:54 : client: [2] opened from [::1]:49382
+Sep 08 13:54 : client: [2] closed
+Sep 08 13:54 : client: [0] closed
+Sep 08 13:58 : player: played "01 Backstreet Boys - I Want It That Way.mp3"
+Sep 08 14:02 : player: played "02 Backstreet Boys - Everybody (Backstreet's Back).mp3"
+Sep 08 14:06 : player: played "03 Backstreet Boys - As Long As You Love Me.mp3"
+Sep 08 14:10 : player: played "04 Backstreet Boys - Show Me The Meaning Of Being Lonely.mp3"
+Sep 08 14:14 : player: played "07 Backstreet Boys - Larger Than Life.mp3"
+Sep 08 14:18 : player: played "10 Backstreet Boys - Shape Of My Heart.mp3"
+Sep 09 10:14 : zeroconf: No global port, disabling zeroconf
+Sep 09 10:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 09 10:15 : config: option 'device' on line 19 was not recognized
+Sep 09 12:08 : zeroconf: No global port, disabling zeroconf
+Sep 09 12:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 09 12:08 : config: option 'device' on line 19 was not recognized
+Sep 09 12:08 : client: [0] opened from [::1]:42202
+Sep 09 12:08 : client: [1] opened from [::1]:42210
+Sep 09 12:08 : client: [0] closed
+Sep 09 12:08 : client: [2] opened from [::1]:42212
+Sep 09 12:08 : client: [1] closed
+Sep 09 12:08 : client: [2] closed
+Sep 09 12:08 : client: [3] opened from [::1]:42214
+Sep 09 12:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 09 12:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Sep 09 12:09 : client: [4] opened from [::1]:42218
+Sep 09 12:09 : client: [4] closed
+Sep 09 12:09 : client: [5] opened from [::1]:42222
+Sep 09 12:09 : client: [5] closed
+Sep 09 12:09 : client: [3] closed
+Sep 09 12:14 : player: played "Green Day - 21 Guns.mp3"
+Sep 09 14:26 : client: [6] opened from [::1]:44392
+Sep 09 14:26 : client: [6] closed
+Sep 09 15:00 : client: [7] opened from [::1]:44488
+Sep 09 15:00 : client: [7] closed
+Sep 09 16:20 : client: [8] opened from [::1]:45014
+Sep 09 16:20 : client: [8] closed
+Sep 09 16:21 : client: [9] opened from [::1]:45044
+Sep 09 16:21 : client: [9] closed
+Sep 09 21:07 : client: [10] opened from [::1]:45478
+Sep 09 21:07 : client: [10] closed
+Sep 10 01:44 : client: [11] opened from [::1]:47122
+Sep 10 01:44 : client: [11] closed
+Sep 10 15:59 : client: [12] opened from [::1]:47586
+Sep 10 15:59 : client: [12] closed
+Sep 11 00:48 : update: removing Fishbach - Mortel.mp3
+Sep 11 00:48 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Sep 11 00:48 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Sep 11 00:48 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Sep 11 00:48 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Sep 11 00:48 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Sep 11 00:48 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Sep 11 00:48 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Sep 11 00:48 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Sep 11 00:48 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Sep 11 00:48 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Sep 11 00:48 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Sep 11 00:48 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Sep 11 00:48 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Sep 11 00:48 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Sep 11 00:48 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Sep 11 00:48 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Sep 11 00:48 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Sep 11 00:48 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Sep 11 00:48 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Sep 11 00:48 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Sep 11 00:48 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Sep 11 00:48 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Sep 11 00:48 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Sep 11 00:48 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Sep 11 00:48 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Sep 11 00:48 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Sep 11 00:48 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.
+Sep 11 00:48 : mpg123: mpg123_getformat() failed: Message: I am done with this track.
+Sep 11 00:48 : ffmpeg/mp3: Format mp3 detected only with low score of 1, misdetection possible!
+Sep 11 00:48 : ffmpeg/mp3: Failed to read frame size: Could not seek to 1026.

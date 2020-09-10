@@ -1,33 +1,536 @@
-(I) 2020-08-15T18:05:36 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
-(N) 2020-08-15T18:05:37 - 'FrontEndMasters - Four Semesters of Computer Science in 5 Hours, Part 1 & 2' restored.
-(N) 2020-08-15T18:05:37 - 'Radioactive (2019) [720p] [WEBRip] [YTS.MX]' restored.
-(N) 2020-08-15T18:05:37 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
-(N) 2020-08-15T18:05:37 - 'Thappad.2020.1080p.AMZN.WEBRip.AAC.5.1.x265-ExCaLiBuR.mkv' restored.
-(N) 2020-08-15T18:05:37 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
-(N) 2020-08-15T18:05:37 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
-(N) 2020-08-15T18:05:37 - 'Nightcrawler (2014) [1080p]' restored.
-(N) 2020-08-15T18:05:37 - 'Fatal Frame 2014 1080p BluRay x264 Japanese AAC - Ozlem' restored.
-(N) 2020-08-15T18:05:37 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
-(N) 2020-08-15T18:05:37 - 'C Programming 2019 Become A Pro, Solve a Lot Of Exercises !' restored.
-(N) 2020-08-15T18:05:37 - 'How.to.Sell.Drugs.Online.Fast.S02.720p.NF.WEB-DL.AAC2.0.x264-KnightKing' restored.
-(N) 2020-08-15T18:05:37 - 'The Terminal (2004)' restored.
-(N) 2020-08-15T18:05:37 - 'Carl Jung' restored.
-(N) 2020-08-15T18:05:37 - 'Good.Time.2017.720p.WEB-DL.800MB.MkvCage.mkv' restored.
-(N) 2020-08-15T18:05:37 - 'Raat.Akeli.Hai.2020.1080p.NF.WEB-DL.DDP5.1.H.264-KHN.mkv' restored.
-(N) 2020-08-15T18:05:37 - 'House MD Complete Season' restored.
-(N) 2020-08-15T18:05:37 - 'Mad Men [S01-S07]' restored.
-(N) 2020-08-15T18:05:37 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
-(N) 2020-08-15T18:05:37 - 'How I Met Your Mother Season 1' restored.
-(N) 2020-08-15T18:05:37 - 'Lord.Of.War.2005.1080p.bluray.DD.5.1.x265-ALiEN.mkv' restored.
-(N) 2020-08-15T18:05:37 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
-(N) 2020-08-15T18:05:37 - 'Persepolis (2007) (1080p BluRay x265 HEVC 10bit AAC 5.1 French Tigole)' restored.
-(N) 2020-08-15T18:05:37 - 'IMDb Charts Top 250 Movies Megapack 1080p 10bit BluRay x265 HEVC-MRN' restored.
-(N) 2020-08-15T18:05:37 - 'Satyajit Ray All Movies Bangla' restored.
-(N) 2020-08-15T18:05:37 - 'LinkedIn - Become a Data Scientist' restored.
-(N) 2020-08-15T18:05:37 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
-(N) 2020-08-15T18:05:37 - 'Once.Upon.a.Time.in.Hollywood.2019.1080p.BluRay.x265-RARBG.mp4' restored.
-(N) 2020-08-15T18:05:37 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
-(N) 2020-08-15T18:05:37 - 'De.Dag.S01.720p.SBS.WEB-DL.AAC2.0.H.264-BTN' restored.
-(N) 2020-08-15T18:05:37 - 'Hirak Rajar Deshe (1980) - DvDRip - AC3 - x264 -= theRock7 =-' restored.
-(N) 2020-08-15T18:05:37 - 'Masaan.2015.1080p.BRRip.x264.Hindi.AAC-ETRG' restored.
-(I) 2020-08-15T18:05:37 - Detected external IP: 103.102.43.17
+(N) 2020-09-08T10:35:33 - 'Satyajit Ray All Movies Bangla' restored.
+(N) 2020-09-08T10:35:33 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-09-08T10:36:32 - qBittorrent v4.2.5 started
+(N) 2020-09-08T10:36:32 - Using config directory: /home/tahmid/.config/qBittorrent/
+(I) 2020-09-08T10:36:32 - Trying to listen on: 0.0.0.0:59488,[::]:59488
+(N) 2020-09-08T10:36:32 - Peer ID: -qB4250-
+(N) 2020-09-08T10:36:32 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-09-08T10:36:32 - DHT support [ON]
+(I) 2020-09-08T10:36:32 - Local Peer Discovery support [ON]
+(I) 2020-09-08T10:36:32 - PeX support [ON]
+(I) 2020-09-08T10:36:32 - Anonymous mode [OFF]
+(I) 2020-09-08T10:36:32 - Encryption support [ON]
+(I) 2020-09-08T10:36:32 - UPnP / NAT-PMP support [ON]
+(I) 2020-09-08T10:36:32 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Sep 1 05:59:37 2020.
+(N) 2020-09-08T10:36:33 - Options were saved successfully.
+(I) 2020-09-08T10:36:33 - Successfully listening on IP: 127.0.0.1, port: TCP/59488
+(I) 2020-09-08T10:36:33 - Successfully listening on IP: 127.0.0.1, port: UDP/59488
+(I) 2020-09-08T10:36:33 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-09-08T10:36:33 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-09-08T10:36:33 - Successfully listening on IP: ::1, port: TCP/59488
+(I) 2020-09-08T10:36:33 - Successfully listening on IP: ::1, port: UDP/59488
+(I) 2020-09-08T10:36:33 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-09-08T10:36:33 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-09-08T10:36:33 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-09-08T10:36:33 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(N) 2020-09-08T10:36:33 - 'LinkedIn - Become a Data Scientist' restored.
+(N) 2020-09-08T10:36:33 - 'Persepolis (2007) (1080p BluRay x265 HEVC 10bit AAC 5.1 French Tigole)' restored.
+(N) 2020-09-08T10:36:33 - 'Carl Jung' restored.
+(N) 2020-09-08T10:36:33 - 'FrontEndMasters - Four Semesters of Computer Science in 5 Hours, Part 1 & 2' restored.
+(N) 2020-09-08T10:36:33 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-09-08T10:36:33 - 'Masaan.2015.1080p.BRRip.x264.Hindi.AAC-ETRG' restored.
+(N) 2020-09-08T10:36:33 - 'The Terminal (2004)' restored.
+(N) 2020-09-08T10:36:33 - 'C Programming 2019 Become A Pro, Solve a Lot Of Exercises !' restored.
+(N) 2020-09-08T10:36:33 - 'Raat.Akeli.Hai.2020.1080p.NF.WEB-DL.DDP5.1.H.264-KHN.mkv' restored.
+(N) 2020-09-08T10:36:33 - 'House MD Complete Season' restored.
+(N) 2020-09-08T10:36:33 - 'Good.Time.2017.720p.WEB-DL.800MB.MkvCage.mkv' restored.
+(N) 2020-09-08T10:36:33 - 'IMDb Charts Top 250 Movies Megapack 1080p 10bit BluRay x265 HEVC-MRN' restored.
+(N) 2020-09-08T10:36:33 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-09-08T10:36:33 - 'Once.Upon.a.Time.in.Hollywood.2019.1080p.BluRay.x265-RARBG.mp4' restored.
+(N) 2020-09-08T10:36:33 - 'How.to.Sell.Drugs.Online.Fast.S02.720p.NF.WEB-DL.AAC2.0.x264-KnightKing' restored.
+(N) 2020-09-08T10:36:33 - 'Radioactive (2019) [720p] [WEBRip] [YTS.MX]' restored.
+(N) 2020-09-08T10:36:33 - 'Community Season 1-6  WEB-DL 720p x264 Pahe' restored.
+(N) 2020-09-08T10:36:33 - 'Lord.Of.War.2005.1080p.bluray.DD.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-09-08T10:36:33 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-09-08T10:36:33 - 'Hirak Rajar Deshe (1980) - DvDRip - AC3 - x264 -= theRock7 =-' restored.
+(N) 2020-09-08T10:36:33 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-09-08T10:36:33 - 'De.Dag.S01.720p.SBS.WEB-DL.AAC2.0.H.264-BTN' restored.
+(N) 2020-09-08T10:36:33 - 'Thappad.2020.1080p.AMZN.WEBRip.AAC.5.1.x265-ExCaLiBuR.mkv' restored.
+(N) 2020-09-08T10:36:33 - 'Lucifer.S05.WEBRip.x264-ION10' restored.
+(N) 2020-09-08T10:36:33 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-09-08T10:36:33 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-09-08T10:36:33 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-09-08T10:36:33 - 'Mad Men [S01-S07]' restored.
+(N) 2020-09-08T10:36:33 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-09-08T10:36:33 - 'Fatal Frame 2014 1080p BluRay x264 Japanese AAC - Ozlem' restored.
+(N) 2020-09-08T10:36:33 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-09-08T10:36:33 - 'Satyajit Ray All Movies Bangla' restored.
+(N) 2020-09-08T10:36:33 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-09-08T10:36:33 - 'Photoshop CS6 [mindcrasher]' restored.
+(I) 2020-09-08T10:36:33 - Detected external IP: 103.102.43.245
+(N) 2020-09-08T10:37:20 - qBittorrent v4.2.5 started
+(N) 2020-09-08T10:37:20 - Using config directory: /home/tahmid/.config/qBittorrent/
+(I) 2020-09-08T10:37:20 - Trying to listen on: 0.0.0.0:59488,[::]:59488
+(N) 2020-09-08T10:37:20 - Peer ID: -qB4250-
+(N) 2020-09-08T10:37:20 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-09-08T10:37:20 - DHT support [ON]
+(I) 2020-09-08T10:37:20 - Local Peer Discovery support [ON]
+(I) 2020-09-08T10:37:20 - PeX support [ON]
+(I) 2020-09-08T10:37:20 - Anonymous mode [OFF]
+(I) 2020-09-08T10:37:20 - Encryption support [ON]
+(I) 2020-09-08T10:37:20 - UPnP / NAT-PMP support [ON]
+(I) 2020-09-08T10:37:20 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Sep 1 05:59:37 2020.
+(N) 2020-09-08T10:37:20 - Options were saved successfully.
+(I) 2020-09-08T10:37:20 - Successfully listening on IP: 127.0.0.1, port: TCP/59488
+(I) 2020-09-08T10:37:20 - Successfully listening on IP: 127.0.0.1, port: UDP/59488
+(I) 2020-09-08T10:37:20 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-09-08T10:37:20 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-09-08T10:37:20 - Successfully listening on IP: ::1, port: TCP/59488
+(I) 2020-09-08T10:37:20 - Successfully listening on IP: ::1, port: UDP/59488
+(I) 2020-09-08T10:37:20 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-09-08T10:37:20 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-09-08T10:37:20 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-09-08T10:37:20 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(N) 2020-09-08T10:37:20 - 'LinkedIn - Become a Data Scientist' restored.
+(N) 2020-09-08T10:37:20 - 'Persepolis (2007) (1080p BluRay x265 HEVC 10bit AAC 5.1 French Tigole)' restored.
+(N) 2020-09-08T10:37:20 - 'Carl Jung' restored.
+(N) 2020-09-08T10:37:20 - 'FrontEndMasters - Four Semesters of Computer Science in 5 Hours, Part 1 & 2' restored.
+(N) 2020-09-08T10:37:20 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-09-08T10:37:20 - 'Masaan.2015.1080p.BRRip.x264.Hindi.AAC-ETRG' restored.
+(N) 2020-09-08T10:37:20 - 'The Terminal (2004)' restored.
+(N) 2020-09-08T10:37:20 - 'C Programming 2019 Become A Pro, Solve a Lot Of Exercises !' restored.
+(N) 2020-09-08T10:37:20 - 'Raat.Akeli.Hai.2020.1080p.NF.WEB-DL.DDP5.1.H.264-KHN.mkv' restored.
+(N) 2020-09-08T10:37:20 - 'House MD Complete Season' restored.
+(N) 2020-09-08T10:37:20 - 'Good.Time.2017.720p.WEB-DL.800MB.MkvCage.mkv' restored.
+(N) 2020-09-08T10:37:20 - 'IMDb Charts Top 250 Movies Megapack 1080p 10bit BluRay x265 HEVC-MRN' restored.
+(N) 2020-09-08T10:37:20 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-09-08T10:37:20 - 'Once.Upon.a.Time.in.Hollywood.2019.1080p.BluRay.x265-RARBG.mp4' restored.
+(N) 2020-09-08T10:37:20 - 'How.to.Sell.Drugs.Online.Fast.S02.720p.NF.WEB-DL.AAC2.0.x264-KnightKing' restored.
+(N) 2020-09-08T10:37:20 - 'Radioactive (2019) [720p] [WEBRip] [YTS.MX]' restored.
+(N) 2020-09-08T10:37:20 - 'Community Season 1-6  WEB-DL 720p x264 Pahe' restored.
+(N) 2020-09-08T10:37:20 - 'Lord.Of.War.2005.1080p.bluray.DD.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-09-08T10:37:20 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-09-08T10:37:20 - 'Hirak Rajar Deshe (1980) - DvDRip - AC3 - x264 -= theRock7 =-' restored.
+(N) 2020-09-08T10:37:20 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-09-08T10:37:20 - 'De.Dag.S01.720p.SBS.WEB-DL.AAC2.0.H.264-BTN' restored.
+(N) 2020-09-08T10:37:20 - 'Thappad.2020.1080p.AMZN.WEBRip.AAC.5.1.x265-ExCaLiBuR.mkv' restored.
+(N) 2020-09-08T10:37:20 - 'Lucifer.S05.WEBRip.x264-ION10' restored.
+(N) 2020-09-08T10:37:20 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-09-08T10:37:20 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-09-08T10:37:20 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-09-08T10:37:20 - 'Mad Men [S01-S07]' restored.
+(N) 2020-09-08T10:37:20 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-09-08T10:37:20 - 'Fatal Frame 2014 1080p BluRay x264 Japanese AAC - Ozlem' restored.
+(N) 2020-09-08T10:37:20 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-09-08T10:37:20 - 'Satyajit Ray All Movies Bangla' restored.
+(N) 2020-09-08T10:37:20 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-09-08T10:37:20 - 'Photoshop CS6 [mindcrasher]' restored.
+(I) 2020-09-08T10:37:20 - Detected external IP: 103.102.43.245
+(I) 2020-09-08T11:22:20 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-09-08T11:22:20 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(N) 2020-09-08T11:26:33 - qBittorrent v4.2.5 started
+(N) 2020-09-08T11:26:33 - Using config directory: /home/tahmid/.config/qBittorrent/
+(I) 2020-09-08T11:26:33 - Trying to listen on: 0.0.0.0:59488,[::]:59488
+(N) 2020-09-08T11:26:33 - Peer ID: -qB4250-
+(N) 2020-09-08T11:26:33 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-09-08T11:26:33 - DHT support [ON]
+(I) 2020-09-08T11:26:33 - Local Peer Discovery support [ON]
+(I) 2020-09-08T11:26:33 - PeX support [ON]
+(I) 2020-09-08T11:26:33 - Anonymous mode [OFF]
+(I) 2020-09-08T11:26:33 - Encryption support [ON]
+(I) 2020-09-08T11:26:33 - UPnP / NAT-PMP support [ON]
+(I) 2020-09-08T11:26:33 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Sep 1 05:59:37 2020.
+(N) 2020-09-08T11:26:34 - Options were saved successfully.
+(I) 2020-09-08T11:26:34 - Successfully listening on IP: 127.0.0.1, port: TCP/59488
+(I) 2020-09-08T11:26:34 - Successfully listening on IP: 127.0.0.1, port: UDP/59488
+(I) 2020-09-08T11:26:34 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-09-08T11:26:34 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-09-08T11:26:34 - Successfully listening on IP: ::1, port: TCP/59488
+(I) 2020-09-08T11:26:34 - Successfully listening on IP: ::1, port: UDP/59488
+(I) 2020-09-08T11:26:34 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-09-08T11:26:34 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-09-08T11:26:34 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-09-08T11:26:34 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(N) 2020-09-08T11:26:34 - 'LinkedIn - Become a Data Scientist' restored.
+(N) 2020-09-08T11:26:34 - 'Persepolis (2007) (1080p BluRay x265 HEVC 10bit AAC 5.1 French Tigole)' restored.
+(N) 2020-09-08T11:26:34 - 'Carl Jung' restored.
+(N) 2020-09-08T11:26:34 - 'FrontEndMasters - Four Semesters of Computer Science in 5 Hours, Part 1 & 2' restored.
+(N) 2020-09-08T11:26:34 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-09-08T11:26:34 - 'Masaan.2015.1080p.BRRip.x264.Hindi.AAC-ETRG' restored.
+(N) 2020-09-08T11:26:34 - 'The Terminal (2004)' restored.
+(N) 2020-09-08T11:26:34 - 'C Programming 2019 Become A Pro, Solve a Lot Of Exercises !' restored.
+(N) 2020-09-08T11:26:34 - 'Raat.Akeli.Hai.2020.1080p.NF.WEB-DL.DDP5.1.H.264-KHN.mkv' restored.
+(N) 2020-09-08T11:26:34 - 'House MD Complete Season' restored.
+(N) 2020-09-08T11:26:34 - 'Good.Time.2017.720p.WEB-DL.800MB.MkvCage.mkv' restored.
+(N) 2020-09-08T11:26:34 - 'IMDb Charts Top 250 Movies Megapack 1080p 10bit BluRay x265 HEVC-MRN' restored.
+(N) 2020-09-08T11:26:34 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-09-08T11:26:34 - 'Once.Upon.a.Time.in.Hollywood.2019.1080p.BluRay.x265-RARBG.mp4' restored.
+(N) 2020-09-08T11:26:34 - 'How.to.Sell.Drugs.Online.Fast.S02.720p.NF.WEB-DL.AAC2.0.x264-KnightKing' restored.
+(N) 2020-09-08T11:26:34 - 'Radioactive (2019) [720p] [WEBRip] [YTS.MX]' restored.
+(N) 2020-09-08T11:26:34 - 'Community Season 1-6  WEB-DL 720p x264 Pahe' restored.
+(N) 2020-09-08T11:26:34 - 'Lord.Of.War.2005.1080p.bluray.DD.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-09-08T11:26:34 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-09-08T11:26:34 - 'Hirak Rajar Deshe (1980) - DvDRip - AC3 - x264 -= theRock7 =-' restored.
+(N) 2020-09-08T11:26:34 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-09-08T11:26:34 - 'De.Dag.S01.720p.SBS.WEB-DL.AAC2.0.H.264-BTN' restored.
+(N) 2020-09-08T11:26:34 - 'Thappad.2020.1080p.AMZN.WEBRip.AAC.5.1.x265-ExCaLiBuR.mkv' restored.
+(N) 2020-09-08T11:26:34 - 'Lucifer.S05.WEBRip.x264-ION10' restored.
+(N) 2020-09-08T11:26:34 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-09-08T11:26:34 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-09-08T11:26:34 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-09-08T11:26:34 - 'Mad Men [S01-S07]' restored.
+(N) 2020-09-08T11:26:34 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-09-08T11:26:34 - 'Fatal Frame 2014 1080p BluRay x264 Japanese AAC - Ozlem' restored.
+(N) 2020-09-08T11:26:34 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-09-08T11:26:34 - 'Satyajit Ray All Movies Bangla' restored.
+(N) 2020-09-08T11:26:34 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-09-08T11:26:34 - 'Photoshop CS6 [mindcrasher]' restored.
+(I) 2020-09-08T11:26:34 - Detected external IP: 103.102.43.1
+(I) 2020-09-08T11:26:35 - Detected external IP: 103.102.43.245
+(I) 2020-09-08T12:11:34 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-09-08T12:11:34 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-09-08T12:51:37 - System network status changed to OFFLINE
+(I) 2020-09-08T12:51:41 - Successfully listening on IP: 192.168.0.101, port: TCP/59488
+(I) 2020-09-08T12:51:41 - Successfully listening on IP: 192.168.0.101, port: UDP/59488
+(I) 2020-09-08T12:51:41 - System network status changed to ONLINE
+(I) 2020-09-08T12:51:41 - Successfully listening on IP: fe80::23ee:9bc5:9643:3c47%wlan0, port: TCP/59488
+(I) 2020-09-08T12:51:41 - Successfully listening on IP: fe80::23ee:9bc5:9643:3c47%wlan0, port: UDP/59488
+(C) 2020-09-08T12:51:42 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-09-08T12:51:42 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-09-08T12:51:46 - Detected external IP: 27.147.191.184
+(C) 2020-09-08T12:54:17 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2020-09-08T12:54:17 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2020-09-08T13:06:35 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-09-08T13:06:35 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-09-08T13:06:35 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-09-08T13:06:35 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-09-08T13:06:36 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-09-08T13:06:36 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-09-08T13:06:39 - Detected external IP: 103.102.43.1
+(I) 2020-09-08T13:06:40 - Detected external IP: 103.102.43.245
+(I) 2020-09-08T13:51:35 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-09-08T13:51:35 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-09-08T14:36:35 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-09-08T14:36:35 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(N) 2020-09-09T10:14:22 - qBittorrent v4.2.5 started
+(N) 2020-09-09T10:14:22 - Using config directory: /home/tahmid/.config/qBittorrent/
+(I) 2020-09-09T10:14:22 - Trying to listen on: 0.0.0.0:59488,[::]:59488
+(N) 2020-09-09T10:14:22 - Peer ID: -qB4250-
+(N) 2020-09-09T10:14:22 - HTTP User-Agent is 'qBittorrent/4.2.5'
+(I) 2020-09-09T10:14:22 - DHT support [ON]
+(I) 2020-09-09T10:14:22 - Local Peer Discovery support [ON]
+(I) 2020-09-09T10:14:22 - PeX support [ON]
+(I) 2020-09-09T10:14:22 - Anonymous mode [OFF]
+(I) 2020-09-09T10:14:22 - Encryption support [ON]
+(I) 2020-09-09T10:14:22 - UPnP / NAT-PMP support [ON]
+(I) 2020-09-09T10:14:22 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Sep 1 05:59:37 2020.
+(N) 2020-09-09T10:14:30 - Options were saved successfully.
+(I) 2020-09-09T10:14:31 - Successfully listening on IP: 127.0.0.1, port: TCP/59488
+(I) 2020-09-09T10:14:31 - Successfully listening on IP: 127.0.0.1, port: UDP/59488
+(I) 2020-09-09T10:14:31 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-09-09T10:14:31 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-09-09T10:14:31 - Successfully listening on IP: ::1, port: TCP/59488
+(I) 2020-09-09T10:14:31 - Successfully listening on IP: ::1, port: UDP/59488
+(I) 2020-09-09T10:14:31 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-09-09T10:14:31 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-09-09T10:14:31 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-09-09T10:14:31 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-09-09T10:14:31 - Detected external IP: 103.102.43.245
+(N) 2020-09-09T10:14:34 - 'Carl Jung' restored.
+(N) 2020-09-09T10:14:34 - 'Persepolis (2007) (1080p BluRay x265 HEVC 10bit AAC 5.1 French Tigole)' restored.
+(N) 2020-09-09T10:14:34 - 'One.Day.2011.1080p.BluRay.H264.AAC-RARBG.mp4' restored.
+(N) 2020-09-09T10:14:34 - 'Thappad.2020.1080p.AMZN.WEBRip.AAC.5.1.x265-ExCaLiBuR.mkv' restored.
+(N) 2020-09-09T10:14:34 - 'The Terminal (2004)' restored.
+(N) 2020-09-09T10:14:34 - 'Young Sheldon S01-S03 720p WEB-DL WEBRip HE-AAC 2CH HEVC x265-PSA' restored.
+(N) 2020-09-09T10:14:34 - 'Once.Upon.a.Time.in.Hollywood.2019.1080p.BluRay.x265-RARBG.mp4' restored.
+(N) 2020-09-09T10:14:34 - 'Lord.Of.War.2005.1080p.bluray.DD.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-09-09T10:14:34 - 'Hirak Rajar Deshe (1980) - DvDRip - AC3 - x264 -= theRock7 =-' restored.
+(N) 2020-09-09T10:14:34 - 'House MD Complete Season' restored.
+(N) 2020-09-09T10:14:34 - 'How.to.Sell.Drugs.Online.Fast.S02.720p.NF.WEB-DL.AAC2.0.x264-KnightKing' restored.
+(N) 2020-09-09T10:14:34 - 'Photoshop CS6 [mindcrasher]' restored.
+(N) 2020-09-09T10:14:34 - 'Community Season 1-6  WEB-DL 720p x264 Pahe' restored.
+(N) 2020-09-09T10:14:34 - 'Joker.2019.1080p.BluRay.x264-AAA' restored.
+(N) 2020-09-09T10:14:34 - 'Radioactive (2019) [720p] [WEBRip] [YTS.MX]' restored.
+(N) 2020-09-09T10:14:34 - 'C Programming 2019 Become A Pro, Solve a Lot Of Exercises !' restored.
+(N) 2020-09-09T10:14:34 - 'De.Dag.S01.720p.SBS.WEB-DL.AAC2.0.H.264-BTN' restored.
+(N) 2020-09-09T10:14:34 - 'Fatal Frame 2014 1080p BluRay x264 Japanese AAC - Ozlem' restored.
+(N) 2020-09-09T10:14:34 - 'Satyajit Ray All Movies Bangla' restored.
+(N) 2020-09-09T10:14:34 - 'Career Opportunities (1991) [WEBRip] [720p] [YTS.LT]' restored.
+(N) 2020-09-09T10:14:34 - 'Beginning Python from Novice by Magnus Lie Hetland.pdf' restored.
+(N) 2020-09-09T10:14:34 - 'FrontEndMasters - Four Semesters of Computer Science in 5 Hours, Part 1 & 2' restored.
+(N) 2020-09-09T10:14:34 - 'Qarib Qarib Singlle 2017 Hindi 1080p Zee5 WEB-DL AAC x264-NLT.mkv' restored.
+(N) 2020-09-09T10:14:34 - 'Nightcrawler (2014) [1080p]' restored.
+(N) 2020-09-09T10:14:34 - 'Photograph.2019.1080p.AMZN.WEBRip.AAC.5.1.x265-ALiEN.mkv' restored.
+(N) 2020-09-09T10:14:34 - 'IMDb Charts Top 250 Movies Megapack 1080p 10bit BluRay x265 HEVC-MRN' restored.
+(N) 2020-09-09T10:14:34 - 'Raat.Akeli.Hai.2020.1080p.NF.WEB-DL.DDP5.1.H.264-KHN.mkv' restored.
+(N) 2020-09-09T10:14:34 - 'Good.Time.2017.720p.WEB-DL.800MB.MkvCage.mkv' restored.
+(N) 2020-09-09T10:14:34 - 'How I Met Your Mother Season 1' restored.
+(N) 2020-09-09T10:14:34 - 'www.MovCr.to - The Lift Boy (2019) 720p UNTOUCHED NF WEBRip H264 AAC 900MB [MovCr].mkv' restored.
+(N) 2020-09-09T10:14:34 - 'Mad Men [S01-S07]' restored.
+(N) 2020-09-09T10:14:34 - 'Masaan.2015.1080p.BRRip.x264.Hindi.AAC-ETRG' restored.
+(N) 2020-09-09T10:14:34 - 'LinkedIn - Become a Data Scientist' restored.
+(N) 2020-09-09T10:14:34 - 'Lucifer.S05.WEBRip.x264-ION10' restored.
+(I) 2020-09-09T10:59:22 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-09-09T10:59:22 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-09-09T11:44:22 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-09-09T11:44:22 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-09-09T12:16:29 - System network status changed to OFFLINE
+(I) 2020-09-09T12:16:31 - Successfully listening on IP: 192.168.0.101, port: TCP/59488
+(I) 2020-09-09T12:16:31 - Successfully listening on IP: 192.168.0.101, port: UDP/59488
+(I) 2020-09-09T12:16:32 - System network status changed to ONLINE
+(I) 2020-09-09T12:16:32 - Successfully listening on IP: 192.168.0.101, port: TCP/59488
+(I) 2020-09-09T12:16:32 - Successfully listening on IP: 192.168.0.101, port: UDP/59488
+(I) 2020-09-09T12:16:33 - Successfully listening on IP: fe80::23ee:9bc5:9643:3c47%wlan0, port: TCP/59488
+(I) 2020-09-09T12:16:33 - Successfully listening on IP: fe80::23ee:9bc5:9643:3c47%wlan0, port: UDP/59488
+(I) 2020-09-09T12:16:34 - Detected external IP: 27.147.191.184
+(C) 2020-09-09T12:16:34 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-09-09T12:16:34 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-09-09T12:18:03 - System network status changed to OFFLINE
+(I) 2020-09-09T12:18:20 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-09-09T12:18:20 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-09-09T12:18:20 - System network status changed to ONLINE
+(I) 2020-09-09T12:18:22 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-09-09T12:18:22 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-09-09T12:18:23 - Detected external IP: 103.102.43.245
+(I) 2020-09-09T12:22:42 - Successfully listening on IP: 192.168.0.101, port: TCP/59488
+(I) 2020-09-09T12:22:42 - Successfully listening on IP: 192.168.0.101, port: UDP/59488
+(I) 2020-09-09T12:22:43 - Successfully listening on IP: 192.168.0.101, port: TCP/59488
+(I) 2020-09-09T12:22:43 - Successfully listening on IP: 192.168.0.101, port: UDP/59488
+(I) 2020-09-09T12:22:44 - Successfully listening on IP: fe80::23ee:9bc5:9643:3c47%wlan0, port: TCP/59488
+(I) 2020-09-09T12:22:44 - Successfully listening on IP: fe80::23ee:9bc5:9643:3c47%wlan0, port: UDP/59488
+(I) 2020-09-09T12:22:49 - Detected external IP: 27.147.191.184
+(C) 2020-09-09T12:25:19 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2020-09-09T12:25:19 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2020-09-09T12:51:46 - System network status changed to OFFLINE
+(I) 2020-09-09T12:52:09 - Successfully listening on IP: 192.168.0.101, port: TCP/59488
+(I) 2020-09-09T12:52:09 - Successfully listening on IP: 192.168.0.101, port: UDP/59488
+(I) 2020-09-09T12:52:09 - System network status changed to ONLINE
+(I) 2020-09-09T12:52:09 - Successfully listening on IP: 192.168.0.101, port: TCP/59488
+(I) 2020-09-09T12:52:09 - Successfully listening on IP: 192.168.0.101, port: UDP/59488
+(I) 2020-09-09T12:52:10 - Successfully listening on IP: fe80::23ee:9bc5:9643:3c47%wlan0, port: TCP/59488
+(I) 2020-09-09T12:52:10 - Successfully listening on IP: fe80::23ee:9bc5:9643:3c47%wlan0, port: UDP/59488
+(I) 2020-09-09T12:52:44 - Detected external IP: 27.147.191.184
+(I) 2020-09-09T12:54:08 - System network status changed to OFFLINE
+(I) 2020-09-09T12:56:04 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-09-09T12:56:04 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-09-09T12:56:04 - System network status changed to ONLINE
+(I) 2020-09-09T12:56:04 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-09-09T12:56:04 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-09-09T12:56:05 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-09-09T12:56:05 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-09-09T12:56:09 - Detected external IP: 103.102.43.1
+(I) 2020-09-09T12:56:09 - Detected external IP: 103.102.43.245
+(I) 2020-09-09T13:41:04 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-09-09T13:41:04 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-09-09T14:26:05 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-09-09T14:26:05 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(C) 2020-09-09T14:26:28 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-09-09T14:26:30 - System network status changed to OFFLINE
+(C) 2020-09-09T14:57:58 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-09-09T14:58:11 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-09-09T14:58:11 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-09-09T14:58:11 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-09-09T14:58:11 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-09-09T14:58:11 - System network status changed to ONLINE
+(I) 2020-09-09T14:58:12 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-09-09T14:58:12 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-09-09T14:58:15 - Detected external IP: 103.102.43.1
+(I) 2020-09-09T14:58:16 - Detected external IP: 103.102.43.17
+(C) 2020-09-09T15:36:43 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-09-09T15:36:43 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-09-09T15:36:46 - System network status changed to OFFLINE
+(I) 2020-09-09T15:36:54 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-09-09T15:36:54 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-09-09T15:36:54 - System network status changed to ONLINE
+(I) 2020-09-09T15:36:54 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-09-09T15:36:54 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-09-09T15:36:56 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-09-09T15:36:56 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-09-09T15:36:57 - Detected external IP: 103.102.43.17
+(C) 2020-09-09T16:21:07 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-09-09T16:21:07 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-09-09T16:21:10 - System network status changed to OFFLINE
+(I) 2020-09-09T16:21:12 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-09-09T16:21:12 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-09-09T16:21:12 - System network status changed to ONLINE
+(I) 2020-09-09T16:21:12 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-09-09T16:21:12 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-09-09T16:21:12 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-09-09T16:21:12 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-09-09T16:21:14 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-09-09T16:21:14 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-09-09T16:21:18 - Detected external IP: 103.102.43.1
+(I) 2020-09-09T16:21:18 - Detected external IP: 103.102.43.17
+(C) 2020-09-09T20:39:40 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-09-09T20:39:40 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-09-09T20:39:45 - System network status changed to OFFLINE
+(I) 2020-09-09T20:39:53 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-09-09T20:39:53 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-09-09T20:39:53 - System network status changed to ONLINE
+(I) 2020-09-09T20:39:53 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-09-09T20:39:53 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-09-09T20:39:53 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-09-09T20:39:53 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-09-09T20:39:57 - Detected external IP: 103.102.43.1
+(I) 2020-09-09T20:39:59 - Detected external IP: 103.102.43.17
+(C) 2020-09-09T23:38:32 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-09-09T23:38:32 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-09-09T23:38:35 - System network status changed to OFFLINE
+(I) 2020-09-09T23:38:39 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-09-09T23:38:39 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-09-09T23:38:40 - System network status changed to ONLINE
+(I) 2020-09-09T23:38:40 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-09-09T23:38:40 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-09-09T23:38:41 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-09-09T23:38:41 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-09-09T23:39:36 - Detected external IP: 103.102.43.17
+(I) 2020-09-10T00:23:40 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-09-10T00:23:40 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-09-10T01:08:40 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-09-10T01:08:40 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(C) 2020-09-10T15:21:00 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-09-10T15:21:01 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-09-10T15:21:01 - System network status changed to OFFLINE
+(I) 2020-09-10T15:21:14 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-09-10T15:21:14 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-09-10T15:21:14 - System network status changed to ONLINE
+(I) 2020-09-10T15:21:15 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-09-10T15:21:15 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-09-10T15:25:47 - Detected external IP: 103.102.43.250
+(I) 2020-09-10T20:36:26 - System network status changed to OFFLINE
+(I) 2020-09-10T20:36:34 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-09-10T20:36:34 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-09-10T20:36:35 - System network status changed to ONLINE
+(I) 2020-09-10T20:36:35 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-09-10T20:36:35 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-09-10T20:36:35 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-09-10T20:36:35 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-09-10T20:36:35 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-09-10T20:36:35 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-09-10T20:36:40 - Detected external IP: 103.102.43.250
+(I) 2020-09-10T20:39:00 - System network status changed to OFFLINE
+(I) 2020-09-10T20:39:03 - Successfully listening on IP: 192.168.0.104, port: TCP/59488
+(I) 2020-09-10T20:39:03 - Successfully listening on IP: 192.168.0.104, port: UDP/59488
+(I) 2020-09-10T20:39:03 - System network status changed to ONLINE
+(I) 2020-09-10T20:39:04 - Successfully listening on IP: fe80::23ee:9bc5:9643:3c47%wlan0, port: TCP/59488
+(I) 2020-09-10T20:39:04 - Successfully listening on IP: fe80::23ee:9bc5:9643:3c47%wlan0, port: UDP/59488
+(C) 2020-09-10T20:39:04 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-09-10T20:39:04 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-09-10T20:39:07 - Detected external IP: 27.147.191.184
+(I) 2020-09-10T20:39:47 - System network status changed to OFFLINE
+(I) 2020-09-10T20:40:03 - Successfully listening on IP: 192.168.0.104, port: TCP/59488
+(I) 2020-09-10T20:40:03 - Successfully listening on IP: 192.168.0.104, port: UDP/59488
+(I) 2020-09-10T20:40:03 - System network status changed to ONLINE
+(I) 2020-09-10T20:40:03 - Successfully listening on IP: 192.168.0.104, port: TCP/59488
+(I) 2020-09-10T20:40:03 - Successfully listening on IP: 192.168.0.104, port: UDP/59488
+(I) 2020-09-10T20:40:05 - Successfully listening on IP: fe80::23ee:9bc5:9643:3c47%wlan0, port: TCP/59488
+(I) 2020-09-10T20:40:05 - Successfully listening on IP: fe80::23ee:9bc5:9643:3c47%wlan0, port: UDP/59488
+(I) 2020-09-10T20:40:33 - Successfully listening on IP: 192.168.0.104, port: TCP/59488
+(I) 2020-09-10T20:40:33 - Successfully listening on IP: 192.168.0.104, port: UDP/59488
+(I) 2020-09-10T20:40:33 - Successfully listening on IP: fe80::23ee:9bc5:9643:3c47%wlan0, port: TCP/59488
+(I) 2020-09-10T20:40:33 - Successfully listening on IP: fe80::23ee:9bc5:9643:3c47%wlan0, port: UDP/59488
+(I) 2020-09-10T20:40:47 - Detected external IP: 27.147.191.184
+(I) 2020-09-10T20:41:07 - System network status changed to OFFLINE
+(I) 2020-09-10T20:43:13 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-09-10T20:43:13 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-09-10T20:43:13 - System network status changed to ONLINE
+(I) 2020-09-10T20:43:13 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-09-10T20:43:13 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-09-10T20:43:13 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-09-10T20:43:13 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-09-10T20:43:14 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-09-10T20:43:14 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-09-10T20:43:19 - Detected external IP: 103.102.43.1
+(I) 2020-09-10T20:43:19 - Detected external IP: 103.102.43.250
+(C) 2020-09-10T20:53:17 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-09-10T20:53:20 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: unknown UPnP error (-1)
+(I) 2020-09-10T20:53:20 - Successfully listening on IP: 192.168.1.105, port: TCP/59488
+(I) 2020-09-10T20:53:20 - Successfully listening on IP: 192.168.1.105, port: UDP/59488
+(I) 2020-09-10T20:53:20 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-09-10T20:53:20 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-09-10T20:53:20 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-09-10T20:53:20 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(I) 2020-09-10T20:53:21 - Detected external IP: 103.102.43.250
+(I) 2020-09-10T21:38:20 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/59488
+(I) 2020-09-10T21:38:20 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/59488
+(C) 2020-09-10T21:39:44 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-09-10T21:39:44 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-09-10T21:39:50 - System network status changed to OFFLINE
+(I) 2020-09-10T21:44:20 - System network status changed to OFFLINE
+(I) 2020-09-10T21:44:28 - Successfully listening on IP: 192.168.1.104, port: TCP/59488
+(I) 2020-09-10T21:44:28 - Successfully listening on IP: 192.168.1.104, port: UDP/59488
+(I) 2020-09-10T21:44:28 - System network status changed to ONLINE
+(I) 2020-09-10T21:44:28 - Successfully listening on IP: 192.168.1.104, port: TCP/59488
+(I) 2020-09-10T21:44:28 - Successfully listening on IP: 192.168.1.104, port: UDP/59488
+(I) 2020-09-10T21:44:28 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/41946
+(I) 2020-09-10T21:44:28 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/42705
+(I) 2020-09-10T21:44:28 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-09-10T21:44:28 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-09-10T21:44:34 - Detected external IP: 103.102.43.1
+(I) 2020-09-10T21:45:24 - System network status changed to OFFLINE
+(C) 2020-09-10T21:45:29 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-09-10T21:45:29 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-09-10T21:45:59 - Successfully listening on IP: 192.168.1.104, port: TCP/59488
+(I) 2020-09-10T21:45:59 - Successfully listening on IP: 192.168.1.104, port: UDP/59488
+(I) 2020-09-10T21:45:59 - System network status changed to ONLINE
+(I) 2020-09-10T21:45:59 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/47899
+(I) 2020-09-10T21:45:59 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/45704
+(I) 2020-09-10T21:46:01 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-09-10T21:46:01 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-09-10T21:46:01 - Detected external IP: 103.102.43.1
+(I) 2020-09-10T21:46:02 - Detected external IP: 103.102.43.250
+(I) 2020-09-10T22:30:59 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/47899
+(I) 2020-09-10T22:31:00 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/45704
+(C) 2020-09-10T23:15:46 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(C) 2020-09-10T23:15:46 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: -1 (unknown HTTP error)
+(I) 2020-09-10T23:15:52 - Successfully listening on IP: 192.168.1.104, port: TCP/59488
+(I) 2020-09-10T23:15:52 - Successfully listening on IP: 192.168.1.104, port: UDP/59488
+(I) 2020-09-10T23:15:53 - Successfully listening on IP: 192.168.1.104, port: TCP/59488
+(I) 2020-09-10T23:15:53 - Successfully listening on IP: 192.168.1.104, port: UDP/59488
+(I) 2020-09-10T23:15:53 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-09-10T23:15:53 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-09-10T23:16:44 - System network status changed to OFFLINE
+(I) 2020-09-10T23:16:50 - Successfully listening on IP: 192.168.0.104, port: TCP/59488
+(I) 2020-09-10T23:16:50 - Successfully listening on IP: 192.168.0.104, port: UDP/59488
+(I) 2020-09-10T23:16:50 - System network status changed to ONLINE
+(I) 2020-09-10T23:16:50 - Successfully listening on IP: 192.168.0.104, port: TCP/59488
+(I) 2020-09-10T23:16:50 - Successfully listening on IP: 192.168.0.104, port: UDP/59488
+(I) 2020-09-10T23:16:51 - Successfully listening on IP: fe80::23ee:9bc5:9643:3c47%wlan0, port: TCP/59488
+(I) 2020-09-10T23:16:51 - Successfully listening on IP: fe80::23ee:9bc5:9643:3c47%wlan0, port: UDP/59488
+(I) 2020-09-10T23:17:04 - System network status changed to OFFLINE
+(I) 2020-09-10T23:17:44 - Successfully listening on IP: 192.168.1.104, port: TCP/59488
+(I) 2020-09-10T23:17:44 - Successfully listening on IP: 192.168.1.104, port: UDP/59488
+(I) 2020-09-10T23:17:44 - System network status changed to ONLINE
+(I) 2020-09-10T23:17:45 - Successfully listening on IP: 192.168.1.104, port: TCP/59488
+(I) 2020-09-10T23:17:45 - Successfully listening on IP: 192.168.1.104, port: UDP/59488
+(I) 2020-09-10T23:17:45 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-09-10T23:17:45 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(C) 2020-09-10T23:20:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2020-09-10T23:20:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2020-09-10T23:22:38 - Detected external IP: 103.102.43.250
+(I) 2020-09-11T00:12:44 - System network status changed to OFFLINE
+(I) 2020-09-11T00:12:44 - Successfully listening on IP: 192.168.0.104, port: TCP/59488
+(I) 2020-09-11T00:12:44 - Successfully listening on IP: 192.168.0.104, port: UDP/59488
+(I) 2020-09-11T00:12:44 - System network status changed to ONLINE
+(I) 2020-09-11T00:12:46 - Successfully listening on IP: fe80::23ee:9bc5:9643:3c47%wlan0, port: TCP/59488
+(I) 2020-09-11T00:12:46 - Successfully listening on IP: fe80::23ee:9bc5:9643:3c47%wlan0, port: UDP/59488
+(I) 2020-09-11T00:12:47 - Detected external IP: 27.147.191.184
+(C) 2020-09-11T00:15:20 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2020-09-11T00:15:20 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2020-09-11T00:16:04 - Successfully listening on IP: 192.168.1.104, port: TCP/59488
+(I) 2020-09-11T00:16:04 - Successfully listening on IP: 192.168.1.104, port: UDP/59488
+(I) 2020-09-11T00:16:04 - Successfully listening on IP: 192.168.1.104, port: TCP/59488
+(I) 2020-09-11T00:16:04 - Successfully listening on IP: 192.168.1.104, port: UDP/59488
+(I) 2020-09-11T00:16:04 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/49952
+(I) 2020-09-11T00:16:04 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/41526
+(I) 2020-09-11T00:16:05 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: TCP/59488
+(I) 2020-09-11T00:16:05 - Successfully listening on IP: fe80::e61f:aa96:7f8d:faef%wlan0, port: UDP/59488
+(I) 2020-09-11T00:16:10 - Detected external IP: 103.102.43.1
+(I) 2020-09-11T00:16:10 - Detected external IP: 103.102.43.17
+(N) 2020-09-11T00:55:51 - qBittorrent v4.2.5 started
+(N) 2020-09-11T00:55:51 - Using config directory: /home/tahmid/.config/qBittorrent/
+(N) 2020-09-11T00:55:58 - Download first and last piece first: Off, torrent: 'debian-live-10.5.0-amd64-xfce+nonfree.iso'
+(N) 2020-09-11T00:55:58 - 'debian-live-10.5.0-amd64-xfce+nonfree.iso' added to download list.
+(W) 2020-09-11T00:56:00 - Received error message from a URL seed. Torrent: "debian-live-10.5.0-amd64-xfce+nonfree.iso". URL: "https://cdimage.debian.org/cdimage/archive/10.5.0-live/amd64/iso-hybrid/debian-live-10.5.0-amd64-xfce+nonfree.iso". Message: "404 Not Found"
+(W) 2020-09-11T00:56:01 - Received error message from a URL seed. Torrent: "debian-live-10.5.0-amd64-xfce+nonfree.iso". URL: "https://cdimage.debian.org/cdimage/release/10.5.0-live/amd64/iso-hybrid/debian-live-10.5.0-amd64-xfce+nonfree.iso". Message: "404 Not Found"
+(W) 2020-09-11T00:58:54 - Received error message from a URL seed. Torrent: "debian-live-10.5.0-amd64-xfce+nonfree.iso". URL: "https://cdimage.debian.org/cdimage/archive/10.5.0-live/amd64/iso-hybrid/debian-live-10.5.0-amd64-xfce+nonfree.iso". Message: "404 Not Found"
+(W) 2020-09-11T00:58:55 - Received error message from a URL seed. Torrent: "debian-live-10.5.0-amd64-xfce+nonfree.iso". URL: "https://cdimage.debian.org/cdimage/release/10.5.0-live/amd64/iso-hybrid/debian-live-10.5.0-amd64-xfce+nonfree.iso". Message: "404 Not Found"
+(W) 2020-09-11T00:59:26 - Received error message from a URL seed. Torrent: "debian-live-10.5.0-amd64-xfce+nonfree.iso". URL: "https://cdimage.debian.org/cdimage/archive/10.5.0-live/amd64/iso-hybrid/debian-live-10.5.0-amd64-xfce+nonfree.iso". Message: "404 Not Found"
+(W) 2020-09-11T00:59:29 - Received error message from a URL seed. Torrent: "debian-live-10.5.0-amd64-xfce+nonfree.iso". URL: "https://cdimage.debian.org/cdimage/release/10.5.0-live/amd64/iso-hybrid/debian-live-10.5.0-amd64-xfce+nonfree.iso". Message: "404 Not Found"
+(W) 2020-09-11T01:00:05 - Received error message from a URL seed. Torrent: "debian-live-10.5.0-amd64-xfce+nonfree.iso". URL: "https://cdimage.debian.org/cdimage/release/10.5.0-live/amd64/iso-hybrid/debian-live-10.5.0-amd64-xfce+nonfree.iso". Message: "404 Not Found"
+(W) 2020-09-11T01:00:25 - Received error message from a URL seed. Torrent: "debian-live-10.5.0-amd64-xfce+nonfree.iso". URL: "https://cdimage.debian.org/cdimage/archive/10.5.0-live/amd64/iso-hybrid/debian-live-10.5.0-amd64-xfce+nonfree.iso". Message: "404 Not Found"
+(W) 2020-09-11T01:01:01 - Received error message from a URL seed. Torrent: "debian-live-10.5.0-amd64-xfce+nonfree.iso". URL: "https://cdimage.debian.org/cdimage/release/10.5.0-live/amd64/iso-hybrid/debian-live-10.5.0-amd64-xfce+nonfree.iso". Message: "404 Not Found"
+(I) 2020-09-11T01:01:04 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: TCP/49952
+(I) 2020-09-11T01:01:04 - UPnP/NAT-PMP: Port mapping successful, message: successfully mapped port using UPnP. external port: UDP/41526
+(W) 2020-09-11T01:01:33 - Received error message from a URL seed. Torrent: "debian-live-10.5.0-amd64-xfce+nonfree.iso". URL: "https://cdimage.debian.org/cdimage/archive/10.5.0-live/amd64/iso-hybrid/debian-live-10.5.0-amd64-xfce+nonfree.iso". Message: "404 Not Found"
+(W) 2020-09-11T01:01:33 - Received error message from a URL seed. Torrent: "debian-live-10.5.0-amd64-xfce+nonfree.iso". URL: "https://cdimage.debian.org/cdimage/release/10.5.0-live/amd64/iso-hybrid/debian-live-10.5.0-amd64-xfce+nonfree.iso". Message: "404 Not Found"

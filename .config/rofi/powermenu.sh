@@ -31,6 +31,7 @@ case $chosen in
         ;;
     $hibernate)
         mpc -q pause
+        systemctl hibernate
         betterlockscreen --lock dim
         ;;
     $logout)
